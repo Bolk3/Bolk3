@@ -4,7 +4,7 @@
 
 ### :headphones: j'ecoute actuellement:
 
-[<img src="https://novatorem-bolk3.vercel.app/api/spotify" alt="Spotify now playing" width="350" />](https://open.spotify.com/user/downcraft110)
+[![Spotify](https://bolk3.vercel.app/api/spotify)](https://open.spotify.com/user/downcraft110)
 
 ---
 ## Je suis un youtubeur, streamer et wannabe dev!
