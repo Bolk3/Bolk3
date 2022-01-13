@@ -21,6 +21,9 @@
 ### :closed_book: Mes dernieres video:
 
 <!-- YOUTUBE:START -->
+- [Leçon celestocosmique -Python #0 l&#39;instalation](https://www.youtube.com/watch?v=jFWPtQ1NJ-w)
+- [sardoche mais il chante redbone de childish gambino](https://www.youtube.com/watch?v=DxvTjfOPsCE)
+- [Une putain de soirée &lpar;compilation panini poulet curry&rpar;](https://www.youtube.com/watch?v=vgxUWbQxO4c)
 <!-- YOUTUBE:END -->
 
 :arrow_right_hook: [plus de video][Youtube]
