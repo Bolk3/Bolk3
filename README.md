@@ -21,7 +21,7 @@
 ### :closed_book: Mes dernieres video:
 
 <!-- YOUTUBE:START -->
-<!-- YOUTUBR:END -->
+<!-- YOUTUBE:END -->
 
 :arrow_right_hook: [plus de video][Youtube]
 
