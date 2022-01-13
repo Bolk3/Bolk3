@@ -2,9 +2,9 @@
 
 ---
 
-### j'ecoute actuellement:
+### :headphones: j'ecoute actuellement:
 
-[![Spotify](https://bolk3.vercel.app/api/spotify)](https://open.spotify.com/user/downcraft110)
+[<img src="https://novatorem-l8e0qlqls-bolk3.vercel.app/api/spotify-playing" alt="Spotify now playing" width="350" />](https://open.spotify.com/user/downcraft110)
 
 ---
 ## Je suis un youtubeur, streamer et wannabe dev!
