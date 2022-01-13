@@ -2,6 +2,11 @@
 
 ---
 
+### j'ecoute actuellement:
+
+[![Spotify](https://bolk3.vercel.app/api/spotify)](https://open.spotify.com/user/downcraft110)
+
+---
 ## Je suis un youtubeur, streamer et wannabe dev!
 
 - :books: je suis en train d'apprendre le c#
