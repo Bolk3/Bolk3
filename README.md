@@ -4,7 +4,7 @@
 
 ### :headphones: j'ecoute actuellement:
 
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)]([https://open.spotify.com/collection/tracks](https://open.spotify.com/playlist/4SfeJHMNBBWYJJArA3lwYD?si=eb803b4c18ea4829))
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)
 
 ---
 ## Je suis un youtubeur, streamer et wannabe dev!
