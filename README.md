@@ -4,7 +4,7 @@
 
 ### :headphones: j'ecoute actuellement:
 
-[![Spotify](https://bolk3.vercel.app/api/spotify)](https://open.spotify.com/user/downcraft110)
+[![Spotify]([https://bolk3.vercel.app/api/spotify)](https://open.spotify.com/user/downcraft110](https://open.spotify.com/playlist/4SfeJHMNBBWYJJArA3lwYD?si=55a95977e67341f0))
 
 ---
 ## Je suis un youtubeur, streamer et wannabe dev!
