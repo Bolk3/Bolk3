@@ -4,8 +4,6 @@
 
 ### :headphones: j'ecoute actuellement:
 
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)
-
 ---
 ## Je suis un youtubeur, streamer et wannabe dev!
 
