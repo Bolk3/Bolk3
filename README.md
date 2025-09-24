@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi there, i'm Renald👋
+---
+### 🌱 I’m currently learning
+- c
+- java
+- javascript
+- ocaml
+
+---
+### 📫 How to reach me:
+- discord : bolk3
 
 <!--
 **Bolk3/Bolk3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
