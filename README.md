@@ -1,4 +1,7 @@
 ## Hi there, i'm Renald👋
+
+i'm a 22 year old devlopper currently studying at université evry paris-saclay.
+i'm realy passionate about discovering new thing computer related.
 ---
 ### 🌱 I’m currently learning
 - c
