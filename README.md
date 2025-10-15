@@ -9,7 +9,9 @@ I'm really passionate about discovering new thing computer related.
 
 ---
 ### 📫 How to reach me:
-<img src="https://skillicons.dev/icons?i=discord" alt="discord:Bolk3"/>
+<span title = "discord:Bolk3">
+  <img src="https://skillicons.dev/icons?i=discord" alt="discord:Bolk3"/>
+</span>
 
 <!--
 **Bolk3/Bolk3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
