@@ -5,14 +5,11 @@ I'm really passionate about discovering new thing computer related.
 
 ---
 ### 🌱 I’m currently learning
-- c
-- java
-- javascript
-- ocaml
+[![My Skills](https://skillicons.dev/icons?i=c,js,java,neovim&perline=2)](https://skillicons.dev)
 
 ---
 ### 📫 How to reach me:
-- discord : bolk3
+<img src="https://skillicons.dev/icons?i=discord" alt="discord:Bolk3"/>
 
 <!--
 **Bolk3/Bolk3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
