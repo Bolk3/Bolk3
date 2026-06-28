@@ -8,30 +8,20 @@ I'm really passionate about discovering new thing computer related.
 ---
 # 🎼 Listening while coding
 <div align="center">
-<!--START_LASTFM_ARTISTS-->
-<a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `6 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
-> `2 ▶️` ∙ **[Samurai/Refused](https://www.last.fm/music/Samurai%2FRefused)**<br/>
-> `1 ▶️` ∙ **[Clarion](https://www.last.fm/music/Clarion)**<br/>
-> `1 ▶️` ∙ **[Dazegxd with Kaiyko](https://www.last.fm/music/Dazegxd+with+Kaiyko)**<br/>
-> `1 ▶️` ∙ **[Evanescence](https://www.last.fm/music/Evanescence)**<br/>
-> `1 ▶️` ∙ **[Grimes](https://www.last.fm/music/Grimes)**<br/>
-> `1 ▶️` ∙ **[Rezodrone](https://www.last.fm/music/Rezodrone)**<br/>
-> `1 ▶️` ∙ **[Victor Borba](https://www.last.fm/music/Victor+Borba)**<br/>
+<table>
+<tr>
+<td>
+
+<!--START_LASTFM_ARTISTS-->
 <!--END_LASTFM_ARTISTS-->
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 8}-->
-<a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Tracks - Past Week**
-
-> `1 ▶️` ∙ **[Hello Juliet](https://www.last.fm/music/Clarion/_/Hello+Juliet)** - [Clarion](https://www.last.fm/music/Clarion)<br/>
-> `1 ▶️` ∙ **[Emotion Engine](https://www.last.fm/music/Dazegxd+with+Kaiyko/_/Emotion+Engine)** - [Dazegxd with Kaiyko](https://www.last.fm/music/Dazegxd+with+Kaiyko)<br/>
-> `1 ▶️` ∙ **[Afterlife](https://www.last.fm/music/Evanescence/_/Afterlife)** - [Evanescence](https://www.last.fm/music/Evanescence)<br/>
-> `1 ▶️` ∙ **[Kill V. Maim](https://www.last.fm/music/Grimes/_/Kill+V.+Maim)** - [Grimes](https://www.last.fm/music/Grimes)<br/>
-> `1 ▶️` ∙ **[Alicia](https://www.last.fm/music/Lorien+Testard/_/Alicia)** - [Lorien Testard](https://www.last.fm/music/Lorien+Testard)<br/>
-> `1 ▶️` ∙ **[Flying Waters - Rain from the Ground](https://www.last.fm/music/Lorien+Testard/_/Flying+Waters+-+Rain+from+the+Ground)** - [Lorien Testard](https://www.last.fm/music/Lorien+Testard)<br/>
-> `1 ▶️` ∙ **[Gustave](https://www.last.fm/music/Lorien+Testard/_/Gustave)** - [Lorien Testard](https://www.last.fm/music/Lorien+Testard)<br/>
-> `1 ▶️` ∙ **[Lumière](https://www.last.fm/music/Lorien+Testard/_/Lumi%C3%A8re)** - [Lorien Testard](https://www.last.fm/music/Lorien+Testard)<br/>
 <!--END_LASTFM_TRACKS-->
+
+</td>
+</tr>
+</table>
+
 </div>
 
 
