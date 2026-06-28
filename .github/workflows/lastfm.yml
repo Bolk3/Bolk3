@@ -12,7 +12,7 @@ jobs:
 
     steps:
       - name: 🎵 Update Last.fm README
-        uses: dxnter/lastfm-readme@v1
+        uses: dxnter/lastfm-readme@v1.7.0
         with:
           LASTFM_API_KEY: ${{ secrets.LASTFM_API_KEY }}
           LASTFM_USER: bolk3
