@@ -1,10 +1,8 @@
 name: 🎵 Update Last.fm Stats
 
 on:
-  # Run automatically every 6 hours
   schedule:
-    - cron: '0 */6 * * *'
-  # Allow manual runs
+    - cron: '0 * * * *'
   workflow_dispatch:
 
 jobs:
@@ -17,7 +15,7 @@ jobs:
         uses: dxnter/lastfm-readme@v1
         with:
           LASTFM_API_KEY: ${{ secrets.LASTFM_API_KEY }}
-          LASTFM_USER: your-lastfm-username
+          LASTFM_USER: bolk3
 
           # Optional: Customize the commit message
           COMMIT_MESSAGE: '🎵 Update music stats'
