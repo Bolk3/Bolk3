@@ -18,12 +18,12 @@ I'm really passionate about discovering new thing computer related.
 
 > `6 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
 > `2 ▶️` ∙ **[Grimes](https://www.last.fm/music/Grimes)**<br/>
+> `2 ▶️` ∙ **[Jamiroquai](https://www.last.fm/music/Jamiroquai)**<br/>
 > `2 ▶️` ∙ **[Samurai/Refused](https://www.last.fm/music/Samurai%2FRefused)**<br/>
 > `1 ▶️` ∙ **[Clarion](https://www.last.fm/music/Clarion)**<br/>
 > `1 ▶️` ∙ **[Coeur Noir](https://www.last.fm/music/Coeur+Noir)**<br/>
 > `1 ▶️` ∙ **[Dazegxd with Kaiyko](https://www.last.fm/music/Dazegxd+with+Kaiyko)**<br/>
 > `1 ▶️` ∙ **[Evanescence](https://www.last.fm/music/Evanescence)**<br/>
-> `1 ▶️` ∙ **[Foo Fighters](https://www.last.fm/music/Foo+Fighters)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </td>
@@ -39,7 +39,7 @@ I'm really passionate about discovering new thing computer related.
 > `1 ▶️` ∙ **[Everlong](https://www.last.fm/music/Foo+Fighters/_/Everlong)** - [Foo Fighters](https://www.last.fm/music/Foo+Fighters)<br/>
 > `1 ▶️` ∙ **[Genesis](https://www.last.fm/music/Grimes/_/Genesis)** - [Grimes](https://www.last.fm/music/Grimes)<br/>
 > `1 ▶️` ∙ **[Kill V. Maim](https://www.last.fm/music/Grimes/_/Kill+V.+Maim)** - [Grimes](https://www.last.fm/music/Grimes)<br/>
-> `1 ▶️` ∙ **[Alicia](https://www.last.fm/music/Lorien+Testard/_/Alicia)** - [Lorien Testard](https://www.last.fm/music/Lorien+Testard)<br/>
+> `1 ▶️` ∙ **[Cosmic Girl](https://www.last.fm/music/Jamiroquai/_/Cosmic+Girl)** - [Jamiroquai](https://www.last.fm/music/Jamiroquai)<br/>
 <!--END_LASTFM_TRACKS-->
 
 </td>
