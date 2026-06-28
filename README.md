@@ -8,6 +8,16 @@ I'm really passionate about discovering new thing computer related.
 ---
 # 🎼 Listening while coding
 <!--START_LASTFM_ARTISTS-->
+<a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
+
+> `6 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
+> `2 ▶️` ∙ **[Samurai/Refused](https://www.last.fm/music/Samurai%2FRefused)**<br/>
+> `1 ▶️` ∙ **[Clarion](https://www.last.fm/music/Clarion)**<br/>
+> `1 ▶️` ∙ **[Dazegxd with Kaiyko](https://www.last.fm/music/Dazegxd+with+Kaiyko)**<br/>
+> `1 ▶️` ∙ **[Evanescence](https://www.last.fm/music/Evanescence)**<br/>
+> `1 ▶️` ∙ **[Grimes](https://www.last.fm/music/Grimes)**<br/>
+> `1 ▶️` ∙ **[Rezodrone](https://www.last.fm/music/Rezodrone)**<br/>
+> `1 ▶️` ∙ **[Victor Borba](https://www.last.fm/music/Victor+Borba)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 
