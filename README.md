@@ -17,13 +17,13 @@ I'm really passionate about discovering new thing computer related.
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `6 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
+> `2 ▶️` ∙ **[Grimes](https://www.last.fm/music/Grimes)**<br/>
 > `2 ▶️` ∙ **[Samurai/Refused](https://www.last.fm/music/Samurai%2FRefused)**<br/>
 > `1 ▶️` ∙ **[Clarion](https://www.last.fm/music/Clarion)**<br/>
+> `1 ▶️` ∙ **[Coeur Noir](https://www.last.fm/music/Coeur+Noir)**<br/>
 > `1 ▶️` ∙ **[Dazegxd with Kaiyko](https://www.last.fm/music/Dazegxd+with+Kaiyko)**<br/>
 > `1 ▶️` ∙ **[Evanescence](https://www.last.fm/music/Evanescence)**<br/>
-> `1 ▶️` ∙ **[Grimes](https://www.last.fm/music/Grimes)**<br/>
-> `1 ▶️` ∙ **[Rezodrone](https://www.last.fm/music/Rezodrone)**<br/>
-> `1 ▶️` ∙ **[Victor Borba](https://www.last.fm/music/Victor+Borba)**<br/>
+> `1 ▶️` ∙ **[Foo Fighters](https://www.last.fm/music/Foo+Fighters)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </td>
@@ -33,13 +33,13 @@ I'm really passionate about discovering new thing computer related.
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Tracks - Past Week**
 
 > `1 ▶️` ∙ **[Hello Juliet](https://www.last.fm/music/Clarion/_/Hello+Juliet)** - [Clarion](https://www.last.fm/music/Clarion)<br/>
+> `1 ▶️` ∙ **[Let The Stars Die](https://www.last.fm/music/Coeur+Noir/_/Let+The+Stars+Die)** - [Coeur Noir](https://www.last.fm/music/Coeur+Noir)<br/>
 > `1 ▶️` ∙ **[Emotion Engine](https://www.last.fm/music/Dazegxd+with+Kaiyko/_/Emotion+Engine)** - [Dazegxd with Kaiyko](https://www.last.fm/music/Dazegxd+with+Kaiyko)<br/>
 > `1 ▶️` ∙ **[Afterlife](https://www.last.fm/music/Evanescence/_/Afterlife)** - [Evanescence](https://www.last.fm/music/Evanescence)<br/>
+> `1 ▶️` ∙ **[Everlong](https://www.last.fm/music/Foo+Fighters/_/Everlong)** - [Foo Fighters](https://www.last.fm/music/Foo+Fighters)<br/>
+> `1 ▶️` ∙ **[Genesis](https://www.last.fm/music/Grimes/_/Genesis)** - [Grimes](https://www.last.fm/music/Grimes)<br/>
 > `1 ▶️` ∙ **[Kill V. Maim](https://www.last.fm/music/Grimes/_/Kill+V.+Maim)** - [Grimes](https://www.last.fm/music/Grimes)<br/>
 > `1 ▶️` ∙ **[Alicia](https://www.last.fm/music/Lorien+Testard/_/Alicia)** - [Lorien Testard](https://www.last.fm/music/Lorien+Testard)<br/>
-> `1 ▶️` ∙ **[Flying Waters - Rain from the Ground](https://www.last.fm/music/Lorien+Testard/_/Flying+Waters+-+Rain+from+the+Ground)** - [Lorien Testard](https://www.last.fm/music/Lorien+Testard)<br/>
-> `1 ▶️` ∙ **[Gustave](https://www.last.fm/music/Lorien+Testard/_/Gustave)** - [Lorien Testard](https://www.last.fm/music/Lorien+Testard)<br/>
-> `1 ▶️` ∙ **[Lumière](https://www.last.fm/music/Lorien+Testard/_/Lumi%C3%A8re)** - [Lorien Testard](https://www.last.fm/music/Lorien+Testard)<br/>
 <!--END_LASTFM_TRACKS-->
 
 </td>
