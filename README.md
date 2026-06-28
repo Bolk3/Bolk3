@@ -19,7 +19,7 @@ I'm really passionate about discovering new thing computer related.
 </td>
 <td valign="top" align="left">
 
-<!--START_LASTFM_TRACKS:{"period": "7days", "rows": 8}-->
+<!--START_LASTFM_TRACKS:{"period": "7day", "rows": 8}-->
 <!--END_LASTFM_TRACKS-->
 
 </td>
