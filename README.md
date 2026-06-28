@@ -1,17 +1,15 @@
-## Hi there, i'm Renald👋
+# Hi there, i'm Renald👋
 
-I'm a 22 year old developper currently studying at université evry paris-saclay.
+I'm a 23 y/o developper currently studying at université evry paris-saclay.
 I'm really passionate about discovering new thing computer related.
-
 ---
-### 🌱 I’m currently learning
-[![My Skills](https://skillicons.dev/icons?i=c,js,java,neovim&perline=2)](https://skillicons.dev)
-
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![OCaml](https://img.shields.io/badge/OCaml-%23E98407.svg?style=for-the-badge&logo=ocaml&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ---
-### 📫 How to reach me:
-<span title = "discord:Bolk3">
-  <img src="https://skillicons.dev/icons?i=discord" alt="discord:Bolk3"/>
-</span>
+# 🎼 Listening while coding
+<!--START_LASTFM_RECENT-->
+<!--END_LASTFM_RECENT-->
+
 
 <!--
 **Bolk3/Bolk3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
