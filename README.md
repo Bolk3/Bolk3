@@ -8,13 +8,12 @@ I'm really passionate about discovering new thing computer related.
 ---
 # 🎼 Listening while coding
 <div align="center">
-
 <!--START_LASTFM_ARTISTS-->
 <!--END_LASTFM_ARTISTS-->
-<!--START_LASTFM_TRACKS:{"period": "7days", "rows": 8}-->
+<!--START_LASTFM_TRACKS:{"period": "7day", "rows": 8}-->
 <!--END_LASTFM_TRACKS-->
-
 </div>
+
 
 <!--
 **Bolk3/Bolk3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
