@@ -11,10 +11,13 @@ I'm really passionate about discovering new thing computer related.
 
 <table>
 <tr>
-<td align="left">
+<td valign="top" align="left">
 
 <!--START_LASTFM_ARTISTS-->
 <!--END_LASTFM_ARTISTS-->
+
+</td>
+<td valign="top" align="left">
 
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 8}-->
 <!--END_LASTFM_TRACKS-->
