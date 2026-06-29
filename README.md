@@ -17,13 +17,13 @@ I'm really passionate about discovering new thing computer related.
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `6 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
+> `3 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
+> `2 ▶️` ∙ **[Arcane](https://www.last.fm/music/Arcane)**<br/>
 > `2 ▶️` ∙ **[Charli xcx](https://www.last.fm/music/Charli+xcx)**<br/>
+> `2 ▶️` ∙ **[Clairo](https://www.last.fm/music/Clairo)**<br/>
 > `2 ▶️` ∙ **[Grimes](https://www.last.fm/music/Grimes)**<br/>
 > `2 ▶️` ∙ **[Jamiroquai](https://www.last.fm/music/Jamiroquai)**<br/>
 > `2 ▶️` ∙ **[Samurai/Refused](https://www.last.fm/music/Samurai%2FRefused)**<br/>
-> `2 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
-> `2 ▶️` ∙ **[Yuka Kitamura](https://www.last.fm/music/Yuka+Kitamura)**<br/>
-> `2 ▶️` ∙ **[宇多田ヒカル](https://www.last.fm/music/%E5%AE%87%E5%A4%9A%E7%94%B0%E3%83%92%E3%82%AB%E3%83%AB)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </td>
@@ -33,13 +33,13 @@ I'm really passionate about discovering new thing computer related.
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Tracks - Past Week**
 
 > `1 ▶️` ∙ **[Fantastic](https://www.last.fm/music/Arcane/_/Fantastic)** - [Arcane](https://www.last.fm/music/Arcane)<br/>
+> `1 ▶️` ∙ **[Wasteland](https://www.last.fm/music/Arcane/_/Wasteland)** - [Arcane](https://www.last.fm/music/Arcane)<br/>
 > `1 ▶️` ∙ **[Burn My Dread -Reload-](https://www.last.fm/music/Atsushi+Kitajoh/_/Burn+My+Dread+-Reload-)** - [Atsushi Kitajoh](https://www.last.fm/music/Atsushi+Kitajoh)<br/>
 > `1 ▶️` ∙ **[Addicted to You](https://www.last.fm/music/Avicii/_/Addicted+to+You)** - [Avicii](https://www.last.fm/music/Avicii)<br/>
+> `1 ▶️` ∙ **[Devil Trigger (Instrumental Edit)](https://www.last.fm/music/Casey+Edwards/_/Devil+Trigger+(Instrumental+Edit))** - [Casey Edwards](https://www.last.fm/music/Casey+Edwards)<br/>
 > `1 ▶️` ∙ **[Good Ones](https://www.last.fm/music/Charli+xcx/_/Good+Ones)** - [Charli xcx](https://www.last.fm/music/Charli+xcx)<br/>
 > `1 ▶️` ∙ **[Twice](https://www.last.fm/music/Charli+xcx/_/Twice)** - [Charli xcx](https://www.last.fm/music/Charli+xcx)<br/>
-> `1 ▶️` ∙ **[Slow Dance](https://www.last.fm/music/Clairo/_/Slow+Dance)** - [Clairo](https://www.last.fm/music/Clairo)<br/>
-> `1 ▶️` ∙ **[Hello Juliet](https://www.last.fm/music/Clarion/_/Hello+Juliet)** - [Clarion](https://www.last.fm/music/Clarion)<br/>
-> `1 ▶️` ∙ **[Let The Stars Die](https://www.last.fm/music/Coeur+Noir/_/Let+The+Stars+Die)** - [Coeur Noir](https://www.last.fm/music/Coeur+Noir)<br/>
+> `1 ▶️` ∙ **[Sexy To Someone](https://www.last.fm/music/Clairo/_/Sexy+To+Someone)** - [Clairo](https://www.last.fm/music/Clairo)<br/>
 <!--END_LASTFM_TRACKS-->
 
 </td>
