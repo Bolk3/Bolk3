@@ -38,8 +38,8 @@ I'm really passionate about discovering new thing computer related.
 > `1 ▶️` ∙ **[Wasteland](https://www.last.fm/music/Arcane/_/Wasteland)** - [Arcane](https://www.last.fm/music/Arcane)<br/>
 > `1 ▶️` ∙ **[Burn My Dread -Reload-](https://www.last.fm/music/Atsushi+Kitajoh/_/Burn+My+Dread+-Reload-)** - [Atsushi Kitajoh](https://www.last.fm/music/Atsushi+Kitajoh)<br/>
 > `1 ▶️` ∙ **[Addicted to You](https://www.last.fm/music/Avicii/_/Addicted+to+You)** - [Avicii](https://www.last.fm/music/Avicii)<br/>
+> `1 ▶️` ∙ **[bury a friend](https://www.last.fm/music/Billie+Eilish/_/bury+a+friend)** - [Billie Eilish](https://www.last.fm/music/Billie+Eilish)<br/>
 > `1 ▶️` ∙ **[(Don’t Fear) The Reaper](https://www.last.fm/music/Blue+%C3%96yster+Cult/_/(Don%E2%80%99t+Fear)+The+Reaper)** - [Blue Öyster Cult](https://www.last.fm/music/Blue+%C3%96yster+Cult)<br/>
-> `1 ▶️` ∙ **[DiE4u](https://www.last.fm/music/Bring+Me+the+Horizon/_/DiE4u)** - [Bring Me the Horizon](https://www.last.fm/music/Bring+Me+the+Horizon)<br/>
 <!--END_LASTFM_TRACKS-->
 
 </td>
