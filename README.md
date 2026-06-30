@@ -16,14 +16,14 @@ I'm really passionate about discovering new thing computer related.
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `6 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
+> `9 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
+> `5 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
+> `4 ▶️` ∙ **[Charli xcx](https://www.last.fm/music/Charli+xcx)**<br/>
 > `3 ▶️` ∙ **[Arcane](https://www.last.fm/music/Arcane)**<br/>
-> `3 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
-> `2 ▶️` ∙ **[Charli xcx](https://www.last.fm/music/Charli+xcx)**<br/>
+> `3 ▶️` ∙ **[Samurai/Refused](https://www.last.fm/music/Samurai%2FRefused)**<br/>
 > `2 ▶️` ∙ **[Clairo](https://www.last.fm/music/Clairo)**<br/>
+> `2 ▶️` ∙ **[DAZEGXD](https://www.last.fm/music/DAZEGXD)**<br/>
 > `2 ▶️` ∙ **[Grimes](https://www.last.fm/music/Grimes)**<br/>
-> `2 ▶️` ∙ **[Jamiroquai](https://www.last.fm/music/Jamiroquai)**<br/>
-> `2 ▶️` ∙ **[Samurai/Refused](https://www.last.fm/music/Samurai%2FRefused)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </td>
@@ -32,6 +32,7 @@ I'm really passionate about discovering new thing computer related.
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 8}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Tracks - Past Week**
 
+> `2 ▶️` ∙ **[Archangel](https://www.last.fm/music/Samurai%2FRefused/_/Archangel)** - [Samurai/Refused](https://www.last.fm/music/Samurai%2FRefused)<br/>
 > `1 ▶️` ∙ **[Blood Sweat & Tears](https://www.last.fm/music/Arcane/_/Blood+Sweat+&+Tears)** - [Arcane](https://www.last.fm/music/Arcane)<br/>
 > `1 ▶️` ∙ **[Fantastic](https://www.last.fm/music/Arcane/_/Fantastic)** - [Arcane](https://www.last.fm/music/Arcane)<br/>
 > `1 ▶️` ∙ **[Wasteland](https://www.last.fm/music/Arcane/_/Wasteland)** - [Arcane](https://www.last.fm/music/Arcane)<br/>
@@ -39,7 +40,6 @@ I'm really passionate about discovering new thing computer related.
 > `1 ▶️` ∙ **[Addicted to You](https://www.last.fm/music/Avicii/_/Addicted+to+You)** - [Avicii](https://www.last.fm/music/Avicii)<br/>
 > `1 ▶️` ∙ **[(Don’t Fear) The Reaper](https://www.last.fm/music/Blue+%C3%96yster+Cult/_/(Don%E2%80%99t+Fear)+The+Reaper)** - [Blue Öyster Cult](https://www.last.fm/music/Blue+%C3%96yster+Cult)<br/>
 > `1 ▶️` ∙ **[DiE4u](https://www.last.fm/music/Bring+Me+the+Horizon/_/DiE4u)** - [Bring Me the Horizon](https://www.last.fm/music/Bring+Me+the+Horizon)<br/>
-> `1 ▶️` ∙ **[Devil Trigger (Instrumental Edit)](https://www.last.fm/music/Casey+Edwards/_/Devil+Trigger+(Instrumental+Edit))** - [Casey Edwards](https://www.last.fm/music/Casey+Edwards)<br/>
 <!--END_LASTFM_TRACKS-->
 
 </td>
