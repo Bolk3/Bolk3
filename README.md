@@ -22,8 +22,8 @@ I'm really passionate about discovering new thing computer related.
 > `3 ▶️` ∙ **[Arcane](https://www.last.fm/music/Arcane)**<br/>
 > `3 ▶️` ∙ **[DAZEGXD](https://www.last.fm/music/DAZEGXD)**<br/>
 > `3 ▶️` ∙ **[Samurai/Refused](https://www.last.fm/music/Samurai%2FRefused)**<br/>
+> `3 ▶️` ∙ **[Tsukasa Usui](https://www.last.fm/music/Tsukasa+Usui)**<br/>
 > `2 ▶️` ∙ **[Atsushi Kitajoh](https://www.last.fm/music/Atsushi+Kitajoh)**<br/>
-> `2 ▶️` ∙ **[Clairo](https://www.last.fm/music/Clairo)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </td>
