@@ -21,9 +21,9 @@ I'm really passionate about discovering new thing computer related.
 > `5 ▶️` ∙ **[Charli xcx](https://www.last.fm/music/Charli+xcx)**<br/>
 > `3 ▶️` ∙ **[Arcane](https://www.last.fm/music/Arcane)**<br/>
 > `3 ▶️` ∙ **[DAZEGXD](https://www.last.fm/music/DAZEGXD)**<br/>
+> `3 ▶️` ∙ **[Hiromitsu Maeba](https://www.last.fm/music/Hiromitsu+Maeba)**<br/>
 > `3 ▶️` ∙ **[Samurai/Refused](https://www.last.fm/music/Samurai%2FRefused)**<br/>
 > `3 ▶️` ∙ **[Tsukasa Usui](https://www.last.fm/music/Tsukasa+Usui)**<br/>
-> `2 ▶️` ∙ **[Atsushi Kitajoh](https://www.last.fm/music/Atsushi+Kitajoh)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </td>
