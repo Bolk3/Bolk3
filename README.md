@@ -23,7 +23,7 @@ I'm really passionate about discovering new thing computer related.
 > `4 ▶️` ∙ **[Samurai/Refused](https://www.last.fm/music/Samurai%2FRefused)**<br/>
 > `4 ▶️` ∙ **[Vald](https://www.last.fm/music/Vald)**<br/>
 > `3 ▶️` ∙ **[Arcane](https://www.last.fm/music/Arcane)**<br/>
-> `3 ▶️` ∙ **[DAZEGXD](https://www.last.fm/music/DAZEGXD)**<br/>
+> `3 ▶️` ∙ **[Crystal Castles](https://www.last.fm/music/Crystal+Castles)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </td>
@@ -33,13 +33,13 @@ I'm really passionate about discovering new thing computer related.
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Tracks - Past Week**
 
 > `2 ▶️` ∙ **[Archangel](https://www.last.fm/music/Samurai%2FRefused/_/Archangel)** - [Samurai/Refused](https://www.last.fm/music/Samurai%2FRefused)<br/>
+> `2 ▶️` ∙ **[Virgin Suicide Demo](https://www.last.fm/music/Uchu+Nekoko/_/Virgin+Suicide+Demo)** - [Uchu Nekoko](https://www.last.fm/music/Uchu+Nekoko)<br/>
 > `1 ▶️` ∙ **[Life Support](https://www.last.fm/music/American+Football/_/Life+Support)** - [American Football](https://www.last.fm/music/American+Football)<br/>
+> `1 ▶️` ∙ **[He's a Trickster☆](https://www.last.fm/music/Ami+Fukushima/_/He%27s+a+Trickster%E2%98%86)** - [Ami Fukushima](https://www.last.fm/music/Ami+Fukushima)<br/>
 > `1 ▶️` ∙ **[Blood Sweat & Tears](https://www.last.fm/music/Arcane/_/Blood+Sweat+&+Tears)** - [Arcane](https://www.last.fm/music/Arcane)<br/>
 > `1 ▶️` ∙ **[Fantastic](https://www.last.fm/music/Arcane/_/Fantastic)** - [Arcane](https://www.last.fm/music/Arcane)<br/>
 > `1 ▶️` ∙ **[Wasteland](https://www.last.fm/music/Arcane/_/Wasteland)** - [Arcane](https://www.last.fm/music/Arcane)<br/>
 > `1 ▶️` ∙ **[Body Paint](https://www.last.fm/music/Arctic+Monkeys/_/Body+Paint)** - [Arctic Monkeys](https://www.last.fm/music/Arctic+Monkeys)<br/>
-> `1 ▶️` ∙ **[Burn My Dread -Reload-](https://www.last.fm/music/Atsushi+Kitajoh/_/Burn+My+Dread+-Reload-)** - [Atsushi Kitajoh](https://www.last.fm/music/Atsushi+Kitajoh)<br/>
-> `1 ▶️` ∙ **[Train Of Life](https://www.last.fm/music/Atsushi+Kitajoh/_/Train+Of+Life)** - [Atsushi Kitajoh](https://www.last.fm/music/Atsushi+Kitajoh)<br/>
 <!--END_LASTFM_TRACKS-->
 
 </td>
