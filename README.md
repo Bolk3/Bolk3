@@ -16,14 +16,14 @@ I'm really passionate about discovering new thing computer related.
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `10 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
+> `11 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
 > `7 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
 > `5 ▶️` ∙ **[Charli xcx](https://www.last.fm/music/Charli+xcx)**<br/>
+> `4 ▶️` ∙ **[Lyn](https://www.last.fm/music/Lyn)**<br/>
+> `4 ▶️` ∙ **[Samurai/Refused](https://www.last.fm/music/Samurai%2FRefused)**<br/>
+> `4 ▶️` ∙ **[Vald](https://www.last.fm/music/Vald)**<br/>
 > `3 ▶️` ∙ **[Arcane](https://www.last.fm/music/Arcane)**<br/>
 > `3 ▶️` ∙ **[DAZEGXD](https://www.last.fm/music/DAZEGXD)**<br/>
-> `3 ▶️` ∙ **[Hiromitsu Maeba](https://www.last.fm/music/Hiromitsu+Maeba)**<br/>
-> `3 ▶️` ∙ **[Samurai/Refused](https://www.last.fm/music/Samurai%2FRefused)**<br/>
-> `3 ▶️` ∙ **[Tsukasa Usui](https://www.last.fm/music/Tsukasa+Usui)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </td>
@@ -33,13 +33,13 @@ I'm really passionate about discovering new thing computer related.
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Tracks - Past Week**
 
 > `2 ▶️` ∙ **[Archangel](https://www.last.fm/music/Samurai%2FRefused/_/Archangel)** - [Samurai/Refused](https://www.last.fm/music/Samurai%2FRefused)<br/>
+> `1 ▶️` ∙ **[Life Support](https://www.last.fm/music/American+Football/_/Life+Support)** - [American Football](https://www.last.fm/music/American+Football)<br/>
 > `1 ▶️` ∙ **[Blood Sweat & Tears](https://www.last.fm/music/Arcane/_/Blood+Sweat+&+Tears)** - [Arcane](https://www.last.fm/music/Arcane)<br/>
 > `1 ▶️` ∙ **[Fantastic](https://www.last.fm/music/Arcane/_/Fantastic)** - [Arcane](https://www.last.fm/music/Arcane)<br/>
 > `1 ▶️` ∙ **[Wasteland](https://www.last.fm/music/Arcane/_/Wasteland)** - [Arcane](https://www.last.fm/music/Arcane)<br/>
+> `1 ▶️` ∙ **[Body Paint](https://www.last.fm/music/Arctic+Monkeys/_/Body+Paint)** - [Arctic Monkeys](https://www.last.fm/music/Arctic+Monkeys)<br/>
 > `1 ▶️` ∙ **[Burn My Dread -Reload-](https://www.last.fm/music/Atsushi+Kitajoh/_/Burn+My+Dread+-Reload-)** - [Atsushi Kitajoh](https://www.last.fm/music/Atsushi+Kitajoh)<br/>
 > `1 ▶️` ∙ **[Train Of Life](https://www.last.fm/music/Atsushi+Kitajoh/_/Train+Of+Life)** - [Atsushi Kitajoh](https://www.last.fm/music/Atsushi+Kitajoh)<br/>
-> `1 ▶️` ∙ **[Addicted to You](https://www.last.fm/music/Avicii/_/Addicted+to+You)** - [Avicii](https://www.last.fm/music/Avicii)<br/>
-> `1 ▶️` ∙ **[RATATATA](https://www.last.fm/music/Baron+Black/_/RATATATA)** - [Baron Black](https://www.last.fm/music/Baron+Black)<br/>
 <!--END_LASTFM_TRACKS-->
 
 </td>
