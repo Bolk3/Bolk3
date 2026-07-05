@@ -16,14 +16,14 @@ I'm really passionate about discovering new thing computer related.
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `11 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
-> `7 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
+> `12 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
+> `8 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
+> `6 ▶️` ∙ **[Vald](https://www.last.fm/music/Vald)**<br/>
 > `5 ▶️` ∙ **[Charli xcx](https://www.last.fm/music/Charli+xcx)**<br/>
+> `5 ▶️` ∙ **[Samurai/Refused](https://www.last.fm/music/Samurai%2FRefused)**<br/>
+> `4 ▶️` ∙ **[Grimes](https://www.last.fm/music/Grimes)**<br/>
+> `4 ▶️` ∙ **[Konrad OldMoney](https://www.last.fm/music/Konrad+OldMoney)**<br/>
 > `4 ▶️` ∙ **[Lyn](https://www.last.fm/music/Lyn)**<br/>
-> `4 ▶️` ∙ **[Samurai/Refused](https://www.last.fm/music/Samurai%2FRefused)**<br/>
-> `4 ▶️` ∙ **[Vald](https://www.last.fm/music/Vald)**<br/>
-> `3 ▶️` ∙ **[Arcane](https://www.last.fm/music/Arcane)**<br/>
-> `3 ▶️` ∙ **[Crystal Castles](https://www.last.fm/music/Crystal+Castles)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </td>
@@ -32,14 +32,14 @@ I'm really passionate about discovering new thing computer related.
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 8}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Tracks - Past Week**
 
-> `2 ▶️` ∙ **[Archangel](https://www.last.fm/music/Samurai%2FRefused/_/Archangel)** - [Samurai/Refused](https://www.last.fm/music/Samurai%2FRefused)<br/>
+> `3 ▶️` ∙ **[Archangel](https://www.last.fm/music/Samurai%2FRefused/_/Archangel)** - [Samurai/Refused](https://www.last.fm/music/Samurai%2FRefused)<br/>
+> `2 ▶️` ∙ **[Infiltration Compromised](https://www.last.fm/music/Jacek+Paciorkowski/_/Infiltration+Compromised)** - [Jacek Paciorkowski](https://www.last.fm/music/Jacek+Paciorkowski)<br/>
+> `2 ▶️` ∙ **[Bitch, Don’t Kill My Vibe (Remix)](https://www.last.fm/music/Kendrick+Lamar/_/Bitch,+Don%E2%80%99t+Kill+My+Vibe+(Remix))** - [Kendrick Lamar](https://www.last.fm/music/Kendrick+Lamar)<br/>
+> `2 ▶️` ∙ **[Don’t Tread on Me](https://www.last.fm/music/Metallica/_/Don%E2%80%99t+Tread+on+Me)** - [Metallica](https://www.last.fm/music/Metallica)<br/>
 > `2 ▶️` ∙ **[Virgin Suicide Demo](https://www.last.fm/music/Uchu+Nekoko/_/Virgin+Suicide+Demo)** - [Uchu Nekoko](https://www.last.fm/music/Uchu+Nekoko)<br/>
 > `1 ▶️` ∙ **[Life Support](https://www.last.fm/music/American+Football/_/Life+Support)** - [American Football](https://www.last.fm/music/American+Football)<br/>
 > `1 ▶️` ∙ **[He's a Trickster☆](https://www.last.fm/music/Ami+Fukushima/_/He%27s+a+Trickster%E2%98%86)** - [Ami Fukushima](https://www.last.fm/music/Ami+Fukushima)<br/>
 > `1 ▶️` ∙ **[Blood Sweat & Tears](https://www.last.fm/music/Arcane/_/Blood+Sweat+&+Tears)** - [Arcane](https://www.last.fm/music/Arcane)<br/>
-> `1 ▶️` ∙ **[Fantastic](https://www.last.fm/music/Arcane/_/Fantastic)** - [Arcane](https://www.last.fm/music/Arcane)<br/>
-> `1 ▶️` ∙ **[Wasteland](https://www.last.fm/music/Arcane/_/Wasteland)** - [Arcane](https://www.last.fm/music/Arcane)<br/>
-> `1 ▶️` ∙ **[Body Paint](https://www.last.fm/music/Arctic+Monkeys/_/Body+Paint)** - [Arctic Monkeys](https://www.last.fm/music/Arctic+Monkeys)<br/>
 <!--END_LASTFM_TRACKS-->
 
 </td>
