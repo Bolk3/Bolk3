@@ -20,10 +20,10 @@ I'm really passionate about discovering new thing computer related.
 > `7 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
 > `6 ▶️` ∙ **[Vald](https://www.last.fm/music/Vald)**<br/>
 > `5 ▶️` ∙ **[Charli xcx](https://www.last.fm/music/Charli+xcx)**<br/>
-> `4 ▶️` ∙ **[Grimes](https://www.last.fm/music/Grimes)**<br/>
+> `5 ▶️` ∙ **[Tsukasa Usui](https://www.last.fm/music/Tsukasa+Usui)**<br/>
+> `4 ▶️` ∙ **[Arcane](https://www.last.fm/music/Arcane)**<br/>
+> `4 ▶️` ∙ **[Kendrick Lamar](https://www.last.fm/music/Kendrick+Lamar)**<br/>
 > `4 ▶️` ∙ **[Konrad OldMoney](https://www.last.fm/music/Konrad+OldMoney)**<br/>
-> `4 ▶️` ∙ **[Lyn](https://www.last.fm/music/Lyn)**<br/>
-> `4 ▶️` ∙ **[Mick Gordon](https://www.last.fm/music/Mick+Gordon)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </td>
@@ -33,13 +33,13 @@ I'm really passionate about discovering new thing computer related.
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Tracks - Past Week**
 
 > `3 ▶️` ∙ **[I Really Want to Stay at Your House](https://www.last.fm/music/Rosa+Walton/_/I+Really+Want+to+Stay+at+Your+House)** - [Rosa Walton](https://www.last.fm/music/Rosa+Walton)<br/>
+> `2 ▶️` ∙ **[(Don’t Fear) The Reaper](https://www.last.fm/music/Blue+%C3%96yster+Cult/_/(Don%E2%80%99t+Fear)+The+Reaper)** - [Blue Öyster Cult](https://www.last.fm/music/Blue+%C3%96yster+Cult)<br/>
 > `2 ▶️` ∙ **[Infiltration Compromised](https://www.last.fm/music/Jacek+Paciorkowski/_/Infiltration+Compromised)** - [Jacek Paciorkowski](https://www.last.fm/music/Jacek+Paciorkowski)<br/>
 > `2 ▶️` ∙ **[Bitch, Don’t Kill My Vibe (Remix)](https://www.last.fm/music/Kendrick+Lamar/_/Bitch,+Don%E2%80%99t+Kill+My+Vibe+(Remix))** - [Kendrick Lamar](https://www.last.fm/music/Kendrick+Lamar)<br/>
 > `2 ▶️` ∙ **[Don’t Tread on Me](https://www.last.fm/music/Metallica/_/Don%E2%80%99t+Tread+on+Me)** - [Metallica](https://www.last.fm/music/Metallica)<br/>
 > `2 ▶️` ∙ **[Archangel](https://www.last.fm/music/Samurai%2FRefused/_/Archangel)** - [Samurai/Refused](https://www.last.fm/music/Samurai%2FRefused)<br/>
 > `2 ▶️` ∙ **[Virgin Suicide Demo](https://www.last.fm/music/Uchu+Nekoko/_/Virgin+Suicide+Demo)** - [Uchu Nekoko](https://www.last.fm/music/Uchu+Nekoko)<br/>
-> `1 ▶️` ∙ **[Life Support](https://www.last.fm/music/American+Football/_/Life+Support)** - [American Football](https://www.last.fm/music/American+Football)<br/>
-> `1 ▶️` ∙ **[He's a Trickster☆](https://www.last.fm/music/Ami+Fukushima/_/He%27s+a+Trickster%E2%98%86)** - [Ami Fukushima](https://www.last.fm/music/Ami+Fukushima)<br/>
+> `1 ▶️` ∙ **[757](https://www.last.fm/music/100+gecs/_/757)** - [100 gecs](https://www.last.fm/music/100+gecs)<br/>
 <!--END_LASTFM_TRACKS-->
 
 </td>
