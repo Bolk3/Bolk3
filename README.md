@@ -17,13 +17,13 @@ I'm really passionate about discovering new thing computer related.
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `9 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
+> `8 ▶️` ∙ **[Kendrick Lamar](https://www.last.fm/music/Kendrick+Lamar)**<br/>
 > `8 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
-> `7 ▶️` ∙ **[Kendrick Lamar](https://www.last.fm/music/Kendrick+Lamar)**<br/>
 > `6 ▶️` ∙ **[Shoji Meguro](https://www.last.fm/music/Shoji+Meguro)**<br/>
 > `6 ▶️` ∙ **[Tsukasa Usui](https://www.last.fm/music/Tsukasa+Usui)**<br/>
 > `6 ▶️` ∙ **[Vald](https://www.last.fm/music/Vald)**<br/>
+> `5 ▶️` ∙ **[Arcane](https://www.last.fm/music/Arcane)**<br/>
 > `5 ▶️` ∙ **[Muse](https://www.last.fm/music/Muse)**<br/>
-> `4 ▶️` ∙ **[Arcane](https://www.last.fm/music/Arcane)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </td>
@@ -37,9 +37,9 @@ I'm really passionate about discovering new thing computer related.
 > `2 ▶️` ∙ **[RATATATA](https://www.last.fm/music/Baron+Black/_/RATATATA)** - [Baron Black](https://www.last.fm/music/Baron+Black)<br/>
 > `2 ▶️` ∙ **[(Don’t Fear) The Reaper](https://www.last.fm/music/Blue+%C3%96yster+Cult/_/(Don%E2%80%99t+Fear)+The+Reaper)** - [Blue Öyster Cult](https://www.last.fm/music/Blue+%C3%96yster+Cult)<br/>
 > `2 ▶️` ∙ **[Ki](https://www.last.fm/music/C418/_/Ki)** - [C418](https://www.last.fm/music/C418)<br/>
+> `2 ▶️` ∙ **[Stal](https://www.last.fm/music/C418/_/Stal)** - [C418](https://www.last.fm/music/C418)<br/>
 > `2 ▶️` ∙ **[Club classics](https://www.last.fm/music/Charli+xcx/_/Club+classics)** - [Charli xcx](https://www.last.fm/music/Charli+xcx)<br/>
 > `2 ▶️` ∙ **[We Are the People](https://www.last.fm/music/Empire+of+the+Sun/_/We+Are+the+People)** - [Empire of the Sun](https://www.last.fm/music/Empire+of+the+Sun)<br/>
-> `2 ▶️` ∙ **[Bitch, Don’t Kill My Vibe (Remix)](https://www.last.fm/music/Kendrick+Lamar/_/Bitch,+Don%E2%80%99t+Kill+My+Vibe+(Remix))** - [Kendrick Lamar](https://www.last.fm/music/Kendrick+Lamar)<br/>
 <!--END_LASTFM_TRACKS-->
 
 </td>
