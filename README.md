@@ -18,12 +18,12 @@ I'm really passionate about discovering new thing computer related.
 
 > `9 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
 > `8 ▶️` ∙ **[Kendrick Lamar](https://www.last.fm/music/Kendrick+Lamar)**<br/>
-> `8 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
+> `7 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
 > `6 ▶️` ∙ **[Shoji Meguro](https://www.last.fm/music/Shoji+Meguro)**<br/>
 > `6 ▶️` ∙ **[Tsukasa Usui](https://www.last.fm/music/Tsukasa+Usui)**<br/>
 > `6 ▶️` ∙ **[Vald](https://www.last.fm/music/Vald)**<br/>
-> `5 ▶️` ∙ **[Arcane](https://www.last.fm/music/Arcane)**<br/>
 > `5 ▶️` ∙ **[Muse](https://www.last.fm/music/Muse)**<br/>
+> `5 ▶️` ∙ **[桜庭統](https://www.last.fm/music/%E6%A1%9C%E5%BA%AD%E7%B5%B1)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </td>
@@ -35,11 +35,11 @@ I'm really passionate about discovering new thing computer related.
 > `3 ▶️` ∙ **[I Really Want to Stay at Your House](https://www.last.fm/music/Rosa+Walton/_/I+Really+Want+to+Stay+at+Your+House)** - [Rosa Walton](https://www.last.fm/music/Rosa+Walton)<br/>
 > `2 ▶️` ∙ **[Blood Sweat & Tears](https://www.last.fm/music/Arcane/_/Blood+Sweat+&+Tears)** - [Arcane](https://www.last.fm/music/Arcane)<br/>
 > `2 ▶️` ∙ **[RATATATA](https://www.last.fm/music/Baron+Black/_/RATATATA)** - [Baron Black](https://www.last.fm/music/Baron+Black)<br/>
-> `2 ▶️` ∙ **[(Don’t Fear) The Reaper](https://www.last.fm/music/Blue+%C3%96yster+Cult/_/(Don%E2%80%99t+Fear)+The+Reaper)** - [Blue Öyster Cult](https://www.last.fm/music/Blue+%C3%96yster+Cult)<br/>
 > `2 ▶️` ∙ **[Ki](https://www.last.fm/music/C418/_/Ki)** - [C418](https://www.last.fm/music/C418)<br/>
 > `2 ▶️` ∙ **[Stal](https://www.last.fm/music/C418/_/Stal)** - [C418](https://www.last.fm/music/C418)<br/>
 > `2 ▶️` ∙ **[Club classics](https://www.last.fm/music/Charli+xcx/_/Club+classics)** - [Charli xcx](https://www.last.fm/music/Charli+xcx)<br/>
 > `2 ▶️` ∙ **[We Are the People](https://www.last.fm/music/Empire+of+the+Sun/_/We+Are+the+People)** - [Empire of the Sun](https://www.last.fm/music/Empire+of+the+Sun)<br/>
+> `2 ▶️` ∙ **[Bitch, Don’t Kill My Vibe (Remix)](https://www.last.fm/music/Kendrick+Lamar/_/Bitch,+Don%E2%80%99t+Kill+My+Vibe+(Remix))** - [Kendrick Lamar](https://www.last.fm/music/Kendrick+Lamar)<br/>
 <!--END_LASTFM_TRACKS-->
 
 </td>
