@@ -16,12 +16,12 @@ I'm really passionate about discovering new thing computer related.
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
+> `9 ▶️` ∙ **[C418](https://www.last.fm/music/C418)**<br/>
 > `8 ▶️` ∙ **[Kendrick Lamar](https://www.last.fm/music/Kendrick+Lamar)**<br/>
 > `8 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
 > `6 ▶️` ∙ **[Muse](https://www.last.fm/music/Muse)**<br/>
 > `6 ▶️` ∙ **[Shoji Meguro](https://www.last.fm/music/Shoji+Meguro)**<br/>
 > `6 ▶️` ∙ **[Vald](https://www.last.fm/music/Vald)**<br/>
-> `5 ▶️` ∙ **[C418](https://www.last.fm/music/C418)**<br/>
 > `5 ▶️` ∙ **[Grimes](https://www.last.fm/music/Grimes)**<br/>
 > `5 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
 <!--END_LASTFM_ARTISTS-->
