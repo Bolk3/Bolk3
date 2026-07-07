@@ -19,11 +19,11 @@ I'm really passionate about discovering new thing computer related.
 > `9 ▶️` ∙ **[C418](https://www.last.fm/music/C418)**<br/>
 > `8 ▶️` ∙ **[Kendrick Lamar](https://www.last.fm/music/Kendrick+Lamar)**<br/>
 > `8 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
+> `7 ▶️` ∙ **[Grimes](https://www.last.fm/music/Grimes)**<br/>
+> `7 ▶️` ∙ **[Vald](https://www.last.fm/music/Vald)**<br/>
 > `6 ▶️` ∙ **[Muse](https://www.last.fm/music/Muse)**<br/>
 > `6 ▶️` ∙ **[Shoji Meguro](https://www.last.fm/music/Shoji+Meguro)**<br/>
-> `6 ▶️` ∙ **[Vald](https://www.last.fm/music/Vald)**<br/>
-> `5 ▶️` ∙ **[Grimes](https://www.last.fm/music/Grimes)**<br/>
-> `5 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
+> `5 ▶️` ∙ **[Borislav Slavov](https://www.last.fm/music/Borislav+Slavov)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </td>
@@ -36,10 +36,10 @@ I'm really passionate about discovering new thing computer related.
 > `2 ▶️` ∙ **[RATATATA](https://www.last.fm/music/Baron+Black/_/RATATATA)** - [Baron Black](https://www.last.fm/music/Baron+Black)<br/>
 > `2 ▶️` ∙ **[Ki](https://www.last.fm/music/C418/_/Ki)** - [C418](https://www.last.fm/music/C418)<br/>
 > `2 ▶️` ∙ **[Stal](https://www.last.fm/music/C418/_/Stal)** - [C418](https://www.last.fm/music/C418)<br/>
+> `2 ▶️` ∙ **[Air War](https://www.last.fm/music/Crystal+Castles/_/Air+War)** - [Crystal Castles](https://www.last.fm/music/Crystal+Castles)<br/>
 > `2 ▶️` ∙ **[We Are the People](https://www.last.fm/music/Empire+of+the+Sun/_/We+Are+the+People)** - [Empire of the Sun](https://www.last.fm/music/Empire+of+the+Sun)<br/>
+> `2 ▶️` ∙ **[Artangels](https://www.last.fm/music/Grimes/_/Artangels)** - [Grimes](https://www.last.fm/music/Grimes)<br/>
 > `2 ▶️` ∙ **[Bitch, Don’t Kill My Vibe (Remix)](https://www.last.fm/music/Kendrick+Lamar/_/Bitch,+Don%E2%80%99t+Kill+My+Vibe+(Remix))** - [Kendrick Lamar](https://www.last.fm/music/Kendrick+Lamar)<br/>
-> `2 ▶️` ∙ **[luther](https://www.last.fm/music/Kendrick+Lamar/_/luther)** - [Kendrick Lamar](https://www.last.fm/music/Kendrick+Lamar)<br/>
-> `2 ▶️` ∙ **[All Caps](https://www.last.fm/music/Madvillain/_/All+Caps)** - [Madvillain](https://www.last.fm/music/Madvillain)<br/>
 <!--END_LASTFM_TRACKS-->
 
 </td>
