@@ -18,12 +18,12 @@ I'm really passionate about discovering new thing computer related.
 
 > `8 ▶️` ∙ **[Kendrick Lamar](https://www.last.fm/music/Kendrick+Lamar)**<br/>
 > `8 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
+> `6 ▶️` ∙ **[Muse](https://www.last.fm/music/Muse)**<br/>
 > `6 ▶️` ∙ **[Shoji Meguro](https://www.last.fm/music/Shoji+Meguro)**<br/>
-> `6 ▶️` ∙ **[Tsukasa Usui](https://www.last.fm/music/Tsukasa+Usui)**<br/>
 > `6 ▶️` ∙ **[Vald](https://www.last.fm/music/Vald)**<br/>
 > `5 ▶️` ∙ **[C418](https://www.last.fm/music/C418)**<br/>
 > `5 ▶️` ∙ **[Grimes](https://www.last.fm/music/Grimes)**<br/>
-> `5 ▶️` ∙ **[Muse](https://www.last.fm/music/Muse)**<br/>
+> `5 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </td>
