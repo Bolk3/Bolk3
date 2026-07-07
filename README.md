@@ -16,14 +16,14 @@ I'm really passionate about discovering new thing computer related.
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `9 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
 > `8 ▶️` ∙ **[Kendrick Lamar](https://www.last.fm/music/Kendrick+Lamar)**<br/>
-> `7 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
+> `8 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
 > `6 ▶️` ∙ **[Shoji Meguro](https://www.last.fm/music/Shoji+Meguro)**<br/>
 > `6 ▶️` ∙ **[Tsukasa Usui](https://www.last.fm/music/Tsukasa+Usui)**<br/>
 > `6 ▶️` ∙ **[Vald](https://www.last.fm/music/Vald)**<br/>
+> `5 ▶️` ∙ **[C418](https://www.last.fm/music/C418)**<br/>
+> `5 ▶️` ∙ **[Grimes](https://www.last.fm/music/Grimes)**<br/>
 > `5 ▶️` ∙ **[Muse](https://www.last.fm/music/Muse)**<br/>
-> `5 ▶️` ∙ **[桜庭統](https://www.last.fm/music/%E6%A1%9C%E5%BA%AD%E7%B5%B1)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </td>
@@ -36,10 +36,10 @@ I'm really passionate about discovering new thing computer related.
 > `2 ▶️` ∙ **[RATATATA](https://www.last.fm/music/Baron+Black/_/RATATATA)** - [Baron Black](https://www.last.fm/music/Baron+Black)<br/>
 > `2 ▶️` ∙ **[Ki](https://www.last.fm/music/C418/_/Ki)** - [C418](https://www.last.fm/music/C418)<br/>
 > `2 ▶️` ∙ **[Stal](https://www.last.fm/music/C418/_/Stal)** - [C418](https://www.last.fm/music/C418)<br/>
-> `2 ▶️` ∙ **[Club classics](https://www.last.fm/music/Charli+xcx/_/Club+classics)** - [Charli xcx](https://www.last.fm/music/Charli+xcx)<br/>
 > `2 ▶️` ∙ **[We Are the People](https://www.last.fm/music/Empire+of+the+Sun/_/We+Are+the+People)** - [Empire of the Sun](https://www.last.fm/music/Empire+of+the+Sun)<br/>
 > `2 ▶️` ∙ **[Bitch, Don’t Kill My Vibe (Remix)](https://www.last.fm/music/Kendrick+Lamar/_/Bitch,+Don%E2%80%99t+Kill+My+Vibe+(Remix))** - [Kendrick Lamar](https://www.last.fm/music/Kendrick+Lamar)<br/>
 > `2 ▶️` ∙ **[luther](https://www.last.fm/music/Kendrick+Lamar/_/luther)** - [Kendrick Lamar](https://www.last.fm/music/Kendrick+Lamar)<br/>
+> `2 ▶️` ∙ **[All Caps](https://www.last.fm/music/Madvillain/_/All+Caps)** - [Madvillain](https://www.last.fm/music/Madvillain)<br/>
 <!--END_LASTFM_TRACKS-->
 
 </td>
