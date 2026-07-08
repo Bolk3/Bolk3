@@ -16,14 +16,14 @@ I'm really passionate about discovering new thing computer related.
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `9 ▶️` ∙ **[C418](https://www.last.fm/music/C418)**<br/>
+> `10 ▶️` ∙ **[C418](https://www.last.fm/music/C418)**<br/>
 > `8 ▶️` ∙ **[Kendrick Lamar](https://www.last.fm/music/Kendrick+Lamar)**<br/>
 > `7 ▶️` ∙ **[Grimes](https://www.last.fm/music/Grimes)**<br/>
 > `7 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
+> `7 ▶️` ∙ **[Vald](https://www.last.fm/music/Vald)**<br/>
 > `6 ▶️` ∙ **[Shoji Meguro](https://www.last.fm/music/Shoji+Meguro)**<br/>
-> `6 ▶️` ∙ **[Vald](https://www.last.fm/music/Vald)**<br/>
 > `5 ▶️` ∙ **[Borislav Slavov](https://www.last.fm/music/Borislav+Slavov)**<br/>
-> `5 ▶️` ∙ **[桜庭統](https://www.last.fm/music/%E6%A1%9C%E5%BA%AD%E7%B5%B1)**<br/>
+> `5 ▶️` ∙ **[Lyn](https://www.last.fm/music/Lyn)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </td>
