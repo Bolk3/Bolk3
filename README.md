@@ -23,7 +23,7 @@ I'm really passionate about discovering new thing computer related.
 > `7 ▶️` ∙ **[Vald](https://www.last.fm/music/Vald)**<br/>
 > `6 ▶️` ∙ **[Shoji Meguro](https://www.last.fm/music/Shoji+Meguro)**<br/>
 > `5 ▶️` ∙ **[Borislav Slavov](https://www.last.fm/music/Borislav+Slavov)**<br/>
-> `5 ▶️` ∙ **[Lyn](https://www.last.fm/music/Lyn)**<br/>
+> `5 ▶️` ∙ **[Linkin Park](https://www.last.fm/music/Linkin+Park)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </td>
