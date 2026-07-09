@@ -19,10 +19,10 @@ I'm really passionate about discovering new thing computer related.
 > `10 ▶️` ∙ **[C418](https://www.last.fm/music/C418)**<br/>
 > `9 ▶️` ∙ **[Kendrick Lamar](https://www.last.fm/music/Kendrick+Lamar)**<br/>
 > `9 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
+> `8 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
 > `8 ▶️` ∙ **[Vald](https://www.last.fm/music/Vald)**<br/>
 > `7 ▶️` ∙ **[Grimes](https://www.last.fm/music/Grimes)**<br/>
 > `7 ▶️` ∙ **[Shoji Meguro](https://www.last.fm/music/Shoji+Meguro)**<br/>
-> `7 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
 > `6 ▶️` ∙ **[Linkin Park](https://www.last.fm/music/Linkin+Park)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
@@ -34,12 +34,12 @@ I'm really passionate about discovering new thing computer related.
 
 > `4 ▶️` ∙ **[I Really Want to Stay at Your House](https://www.last.fm/music/Rosa+Walton/_/I+Really+Want+to+Stay+at+Your+House)** - [Rosa Walton](https://www.last.fm/music/Rosa+Walton)<br/>
 > `2 ▶️` ∙ **[I Got My Tooth Removed](https://www.last.fm/music/100+gecs/_/I+Got+My+Tooth+Removed)** - [100 gecs](https://www.last.fm/music/100+gecs)<br/>
+> `2 ▶️` ∙ **[Revolter](https://www.last.fm/music/125,+rue+Montmartre/_/Revolter)** - [125, rue Montmartre](https://www.last.fm/music/125,+rue+Montmartre)<br/>
 > `2 ▶️` ∙ **[He's a Trickster☆](https://www.last.fm/music/Ami+Fukushima/_/He%27s+a+Trickster%E2%98%86)** - [Ami Fukushima](https://www.last.fm/music/Ami+Fukushima)<br/>
 > `2 ▶️` ∙ **[Ki](https://www.last.fm/music/C418/_/Ki)** - [C418](https://www.last.fm/music/C418)<br/>
 > `2 ▶️` ∙ **[Stal](https://www.last.fm/music/C418/_/Stal)** - [C418](https://www.last.fm/music/C418)<br/>
 > `2 ▶️` ∙ **[Air War](https://www.last.fm/music/Crystal+Castles/_/Air+War)** - [Crystal Castles](https://www.last.fm/music/Crystal+Castles)<br/>
 > `2 ▶️` ∙ **[We Are the People](https://www.last.fm/music/Empire+of+the+Sun/_/We+Are+the+People)** - [Empire of the Sun](https://www.last.fm/music/Empire+of+the+Sun)<br/>
-> `2 ▶️` ∙ **[Artangels](https://www.last.fm/music/Grimes/_/Artangels)** - [Grimes](https://www.last.fm/music/Grimes)<br/>
 <!--END_LASTFM_TRACKS-->
 
 </td>
