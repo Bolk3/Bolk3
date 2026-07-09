@@ -19,11 +19,11 @@ I'm really passionate about discovering new thing computer related.
 > `10 ▶️` ∙ **[C418](https://www.last.fm/music/C418)**<br/>
 > `9 ▶️` ∙ **[Kendrick Lamar](https://www.last.fm/music/Kendrick+Lamar)**<br/>
 > `9 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
+> `9 ▶️` ∙ **[Sewerslvt](https://www.last.fm/music/Sewerslvt)**<br/>
 > `8 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
 > `8 ▶️` ∙ **[Vald](https://www.last.fm/music/Vald)**<br/>
 > `7 ▶️` ∙ **[Grimes](https://www.last.fm/music/Grimes)**<br/>
 > `7 ▶️` ∙ **[Shoji Meguro](https://www.last.fm/music/Shoji+Meguro)**<br/>
-> `6 ▶️` ∙ **[Linkin Park](https://www.last.fm/music/Linkin+Park)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </td>
