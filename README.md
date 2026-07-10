@@ -18,7 +18,7 @@ I'm really passionate about discovering new thing computer related.
 
 > `12 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
 > `10 ▶️` ∙ **[C418](https://www.last.fm/music/C418)**<br/>
-> `9 ▶️` ∙ **[Kendrick Lamar](https://www.last.fm/music/Kendrick+Lamar)**<br/>
+> `10 ▶️` ∙ **[Kendrick Lamar](https://www.last.fm/music/Kendrick+Lamar)**<br/>
 > `9 ▶️` ∙ **[Sewerslvt](https://www.last.fm/music/Sewerslvt)**<br/>
 > `9 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
 > `8 ▶️` ∙ **[Shoji Meguro](https://www.last.fm/music/Shoji+Meguro)**<br/>
