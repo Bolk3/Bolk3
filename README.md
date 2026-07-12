@@ -16,9 +16,9 @@ I'm really passionate about discovering new thing computer related.
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
+> `11 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
 > `11 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
 > `9 ▶️` ∙ **[C418](https://www.last.fm/music/C418)**<br/>
-> `9 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
 > `9 ▶️` ∙ **[Sewerslvt](https://www.last.fm/music/Sewerslvt)**<br/>
 > `9 ▶️` ∙ **[Shoji Meguro](https://www.last.fm/music/Shoji+Meguro)**<br/>
 > `7 ▶️` ∙ **[Arcane](https://www.last.fm/music/Arcane)**<br/>
