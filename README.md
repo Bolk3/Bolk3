@@ -16,8 +16,8 @@ I'm really passionate about discovering new thing computer related.
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `10 ▶️` ∙ **[C418](https://www.last.fm/music/C418)**<br/>
 > `10 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
+> `9 ▶️` ∙ **[C418](https://www.last.fm/music/C418)**<br/>
 > `9 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
 > `9 ▶️` ∙ **[Sewerslvt](https://www.last.fm/music/Sewerslvt)**<br/>
 > `9 ▶️` ∙ **[Shoji Meguro](https://www.last.fm/music/Shoji+Meguro)**<br/>
@@ -38,8 +38,8 @@ I'm really passionate about discovering new thing computer related.
 > `2 ▶️` ∙ **[Revolter](https://www.last.fm/music/125,+rue+Montmartre/_/Revolter)** - [125, rue Montmartre](https://www.last.fm/music/125,+rue+Montmartre)<br/>
 > `2 ▶️` ∙ **[Elder Brain](https://www.last.fm/music/Borislav+Slavov/_/Elder+Brain)** - [Borislav Slavov](https://www.last.fm/music/Borislav+Slavov)<br/>
 > `2 ▶️` ∙ **[Haggstrom](https://www.last.fm/music/C418/_/Haggstrom)** - [C418](https://www.last.fm/music/C418)<br/>
-> `2 ▶️` ∙ **[Ki](https://www.last.fm/music/C418/_/Ki)** - [C418](https://www.last.fm/music/C418)<br/>
 > `2 ▶️` ∙ **[Artangels](https://www.last.fm/music/Grimes/_/Artangels)** - [Grimes](https://www.last.fm/music/Grimes)<br/>
+> `2 ▶️` ∙ **[luther](https://www.last.fm/music/Kendrick+Lamar/_/luther)** - [Kendrick Lamar](https://www.last.fm/music/Kendrick+Lamar)<br/>
 <!--END_LASTFM_TRACKS-->
 
 </td>
