@@ -21,7 +21,7 @@ I'm really passionate about discovering new thing computer related.
 > `9 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
 > `9 ▶️` ∙ **[Sewerslvt](https://www.last.fm/music/Sewerslvt)**<br/>
 > `9 ▶️` ∙ **[Shoji Meguro](https://www.last.fm/music/Shoji+Meguro)**<br/>
-> `8 ▶️` ∙ **[Arcane](https://www.last.fm/music/Arcane)**<br/>
+> `7 ▶️` ∙ **[Arcane](https://www.last.fm/music/Arcane)**<br/>
 > `7 ▶️` ∙ **[Borislav Slavov](https://www.last.fm/music/Borislav+Slavov)**<br/>
 > `7 ▶️` ∙ **[Charli xcx](https://www.last.fm/music/Charli+xcx)**<br/>
 <!--END_LASTFM_ARTISTS-->
