@@ -16,9 +16,9 @@ I'm really passionate about discovering new thing computer related.
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `11 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
 > `10 ▶️` ∙ **[C418](https://www.last.fm/music/C418)**<br/>
 > `10 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
+> `10 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
 > `9 ▶️` ∙ **[Sewerslvt](https://www.last.fm/music/Sewerslvt)**<br/>
 > `9 ▶️` ∙ **[Shoji Meguro](https://www.last.fm/music/Shoji+Meguro)**<br/>
 > `7 ▶️` ∙ **[Arcane](https://www.last.fm/music/Arcane)**<br/>
@@ -33,13 +33,13 @@ I'm really passionate about discovering new thing computer related.
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Tracks - Past Week**
 
 > `3 ▶️` ∙ **[Ain´t No Mountain High Enough](https://www.last.fm/music/Marvin+Gaye/_/Ain%C2%B4t+No+Mountain+High+Enough)** - [Marvin Gaye](https://www.last.fm/music/Marvin+Gaye)<br/>
-> `3 ▶️` ∙ **[I Really Want to Stay at Your House](https://www.last.fm/music/Rosa+Walton/_/I+Really+Want+to+Stay+at+Your+House)** - [Rosa Walton](https://www.last.fm/music/Rosa+Walton)<br/>
 > `3 ▶️` ∙ **[Finale](https://www.last.fm/music/Toby+Fox/_/Finale)** - [Toby Fox](https://www.last.fm/music/Toby+Fox)<br/>
 > `2 ▶️` ∙ **[I Got My Tooth Removed](https://www.last.fm/music/100+gecs/_/I+Got+My+Tooth+Removed)** - [100 gecs](https://www.last.fm/music/100+gecs)<br/>
 > `2 ▶️` ∙ **[Revolter](https://www.last.fm/music/125,+rue+Montmartre/_/Revolter)** - [125, rue Montmartre](https://www.last.fm/music/125,+rue+Montmartre)<br/>
 > `2 ▶️` ∙ **[Elder Brain](https://www.last.fm/music/Borislav+Slavov/_/Elder+Brain)** - [Borislav Slavov](https://www.last.fm/music/Borislav+Slavov)<br/>
 > `2 ▶️` ∙ **[Haggstrom](https://www.last.fm/music/C418/_/Haggstrom)** - [C418](https://www.last.fm/music/C418)<br/>
 > `2 ▶️` ∙ **[Ki](https://www.last.fm/music/C418/_/Ki)** - [C418](https://www.last.fm/music/C418)<br/>
+> `2 ▶️` ∙ **[Artangels](https://www.last.fm/music/Grimes/_/Artangels)** - [Grimes](https://www.last.fm/music/Grimes)<br/>
 <!--END_LASTFM_TRACKS-->
 
 </td>
