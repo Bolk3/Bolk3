@@ -18,11 +18,11 @@ I'm really passionate about discovering new thing computer related.
 
 > `11 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
 > `10 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
-> `9 ▶️` ∙ **[C418](https://www.last.fm/music/C418)**<br/>
-> `8 ▶️` ∙ **[Sewerslvt](https://www.last.fm/music/Sewerslvt)**<br/>
+> `8 ▶️` ∙ **[C418](https://www.last.fm/music/C418)**<br/>
 > `7 ▶️` ∙ **[Arcane](https://www.last.fm/music/Arcane)**<br/>
-> `7 ▶️` ∙ **[Nirvana](https://www.last.fm/music/Nirvana)**<br/>
+> `7 ▶️` ∙ **[Sewerslvt](https://www.last.fm/music/Sewerslvt)**<br/>
 > `6 ▶️` ∙ **[Charli xcx](https://www.last.fm/music/Charli+xcx)**<br/>
+> `6 ▶️` ∙ **[Nirvana](https://www.last.fm/music/Nirvana)**<br/>
 > `6 ▶️` ∙ **[The Weeknd](https://www.last.fm/music/The+Weeknd)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
