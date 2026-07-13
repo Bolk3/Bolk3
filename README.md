@@ -18,12 +18,12 @@ I'm really passionate about discovering new thing computer related.
 
 > `11 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
 > `10 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
-> `8 ▶️` ∙ **[C418](https://www.last.fm/music/C418)**<br/>
-> `7 ▶️` ∙ **[Arcane](https://www.last.fm/music/Arcane)**<br/>
+> `7 ▶️` ∙ **[C418](https://www.last.fm/music/C418)**<br/>
 > `7 ▶️` ∙ **[Sewerslvt](https://www.last.fm/music/Sewerslvt)**<br/>
+> `6 ▶️` ∙ **[Arcane](https://www.last.fm/music/Arcane)**<br/>
 > `6 ▶️` ∙ **[Charli xcx](https://www.last.fm/music/Charli+xcx)**<br/>
-> `6 ▶️` ∙ **[Nirvana](https://www.last.fm/music/Nirvana)**<br/>
 > `6 ▶️` ∙ **[The Weeknd](https://www.last.fm/music/The+Weeknd)**<br/>
+> `5 ▶️` ∙ **[Muse](https://www.last.fm/music/Muse)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </td>
@@ -32,14 +32,14 @@ I'm really passionate about discovering new thing computer related.
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 8}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Tracks - Past Week**
 
-> `3 ▶️` ∙ **[Ain´t No Mountain High Enough](https://www.last.fm/music/Marvin+Gaye/_/Ain%C2%B4t+No+Mountain+High+Enough)** - [Marvin Gaye](https://www.last.fm/music/Marvin+Gaye)<br/>
+> `4 ▶️` ∙ **[Ain´t No Mountain High Enough](https://www.last.fm/music/Marvin+Gaye/_/Ain%C2%B4t+No+Mountain+High+Enough)** - [Marvin Gaye](https://www.last.fm/music/Marvin+Gaye)<br/>
 > `3 ▶️` ∙ **[On My Way to Hell](https://www.last.fm/music/PoBoz/_/On+My+Way+to+Hell)** - [PoBoz](https://www.last.fm/music/PoBoz)<br/>
 > `3 ▶️` ∙ **[I Want You Back](https://www.last.fm/music/The+Jackson+5/_/I+Want+You+Back)** - [The Jackson 5](https://www.last.fm/music/The+Jackson+5)<br/>
 > `3 ▶️` ∙ **[Finale](https://www.last.fm/music/Toby+Fox/_/Finale)** - [Toby Fox](https://www.last.fm/music/Toby+Fox)<br/>
-> `2 ▶️` ∙ **[I Got My Tooth Removed](https://www.last.fm/music/100+gecs/_/I+Got+My+Tooth+Removed)** - [100 gecs](https://www.last.fm/music/100+gecs)<br/>
 > `2 ▶️` ∙ **[Sucker](https://www.last.fm/music/Arcane/_/Sucker)** - [Arcane](https://www.last.fm/music/Arcane)<br/>
 > `2 ▶️` ∙ **[Elder Brain](https://www.last.fm/music/Borislav+Slavov/_/Elder+Brain)** - [Borislav Slavov](https://www.last.fm/music/Borislav+Slavov)<br/>
 > `2 ▶️` ∙ **[Haggstrom](https://www.last.fm/music/C418/_/Haggstrom)** - [C418](https://www.last.fm/music/C418)<br/>
+> `2 ▶️` ∙ **[Artangels](https://www.last.fm/music/Grimes/_/Artangels)** - [Grimes](https://www.last.fm/music/Grimes)<br/>
 <!--END_LASTFM_TRACKS-->
 
 </td>
