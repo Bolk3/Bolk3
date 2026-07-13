@@ -23,7 +23,7 @@ I'm really passionate about discovering new thing computer related.
 > `6 ▶️` ∙ **[Arcane](https://www.last.fm/music/Arcane)**<br/>
 > `6 ▶️` ∙ **[Charli xcx](https://www.last.fm/music/Charli+xcx)**<br/>
 > `6 ▶️` ∙ **[The Weeknd](https://www.last.fm/music/The+Weeknd)**<br/>
-> `5 ▶️` ∙ **[Muse](https://www.last.fm/music/Muse)**<br/>
+> `6 ▶️` ∙ **[Vald](https://www.last.fm/music/Vald)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </td>
@@ -34,12 +34,12 @@ I'm really passionate about discovering new thing computer related.
 
 > `4 ▶️` ∙ **[Ain´t No Mountain High Enough](https://www.last.fm/music/Marvin+Gaye/_/Ain%C2%B4t+No+Mountain+High+Enough)** - [Marvin Gaye](https://www.last.fm/music/Marvin+Gaye)<br/>
 > `3 ▶️` ∙ **[On My Way to Hell](https://www.last.fm/music/PoBoz/_/On+My+Way+to+Hell)** - [PoBoz](https://www.last.fm/music/PoBoz)<br/>
+> `3 ▶️` ∙ **[Can’t Stop](https://www.last.fm/music/Red+Hot+Chili+Peppers/_/Can%E2%80%99t+Stop)** - [Red Hot Chili Peppers](https://www.last.fm/music/Red+Hot+Chili+Peppers)<br/>
 > `3 ▶️` ∙ **[I Want You Back](https://www.last.fm/music/The+Jackson+5/_/I+Want+You+Back)** - [The Jackson 5](https://www.last.fm/music/The+Jackson+5)<br/>
 > `3 ▶️` ∙ **[Finale](https://www.last.fm/music/Toby+Fox/_/Finale)** - [Toby Fox](https://www.last.fm/music/Toby+Fox)<br/>
 > `2 ▶️` ∙ **[Sucker](https://www.last.fm/music/Arcane/_/Sucker)** - [Arcane](https://www.last.fm/music/Arcane)<br/>
 > `2 ▶️` ∙ **[Elder Brain](https://www.last.fm/music/Borislav+Slavov/_/Elder+Brain)** - [Borislav Slavov](https://www.last.fm/music/Borislav+Slavov)<br/>
 > `2 ▶️` ∙ **[Haggstrom](https://www.last.fm/music/C418/_/Haggstrom)** - [C418](https://www.last.fm/music/C418)<br/>
-> `2 ▶️` ∙ **[Artangels](https://www.last.fm/music/Grimes/_/Artangels)** - [Grimes](https://www.last.fm/music/Grimes)<br/>
 <!--END_LASTFM_TRACKS-->
 
 </td>
