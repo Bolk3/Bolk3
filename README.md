@@ -33,13 +33,13 @@ I'm really passionate about discovering new thing computer related.
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Tracks - Past Week**
 
 > `4 ▶️` ∙ **[Ain´t No Mountain High Enough](https://www.last.fm/music/Marvin+Gaye/_/Ain%C2%B4t+No+Mountain+High+Enough)** - [Marvin Gaye](https://www.last.fm/music/Marvin+Gaye)<br/>
+> `3 ▶️` ∙ **[Aoi, Koi, Daidai-iro no Hibi](https://www.last.fm/music/MASS+OF+THE+FERMENTING+DREGS/_/Aoi,+Koi,+Daidai-iro+no+Hibi)** - [MASS OF THE FERMENTING DREGS](https://www.last.fm/music/MASS+OF+THE+FERMENTING+DREGS)<br/>
 > `3 ▶️` ∙ **[On My Way to Hell](https://www.last.fm/music/PoBoz/_/On+My+Way+to+Hell)** - [PoBoz](https://www.last.fm/music/PoBoz)<br/>
 > `3 ▶️` ∙ **[Can’t Stop](https://www.last.fm/music/Red+Hot+Chili+Peppers/_/Can%E2%80%99t+Stop)** - [Red Hot Chili Peppers](https://www.last.fm/music/Red+Hot+Chili+Peppers)<br/>
+> `3 ▶️` ∙ **[I Really Want to Stay at Your House](https://www.last.fm/music/Rosa+Walton/_/I+Really+Want+to+Stay+at+Your+House)** - [Rosa Walton](https://www.last.fm/music/Rosa+Walton)<br/>
 > `3 ▶️` ∙ **[I Want You Back](https://www.last.fm/music/The+Jackson+5/_/I+Want+You+Back)** - [The Jackson 5](https://www.last.fm/music/The+Jackson+5)<br/>
 > `3 ▶️` ∙ **[Finale](https://www.last.fm/music/Toby+Fox/_/Finale)** - [Toby Fox](https://www.last.fm/music/Toby+Fox)<br/>
 > `2 ▶️` ∙ **[Sucker](https://www.last.fm/music/Arcane/_/Sucker)** - [Arcane](https://www.last.fm/music/Arcane)<br/>
-> `2 ▶️` ∙ **[Elder Brain](https://www.last.fm/music/Borislav+Slavov/_/Elder+Brain)** - [Borislav Slavov](https://www.last.fm/music/Borislav+Slavov)<br/>
-> `2 ▶️` ∙ **[Haggstrom](https://www.last.fm/music/C418/_/Haggstrom)** - [C418](https://www.last.fm/music/C418)<br/>
 <!--END_LASTFM_TRACKS-->
 
 </td>
