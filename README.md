@@ -16,14 +16,14 @@ I'm really passionate about discovering new thing computer related.
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `10 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
-> `10 ▶️` ∙ **[Vald](https://www.last.fm/music/Vald)**<br/>
 > `9 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
-> `8 ▶️` ∙ **[Sewerslvt](https://www.last.fm/music/Sewerslvt)**<br/>
+> `9 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
+> `9 ▶️` ∙ **[Vald](https://www.last.fm/music/Vald)**<br/>
+> `7 ▶️` ∙ **[Sewerslvt](https://www.last.fm/music/Sewerslvt)**<br/>
 > `6 ▶️` ∙ **[Arcane](https://www.last.fm/music/Arcane)**<br/>
-> `6 ▶️` ∙ **[Charli xcx](https://www.last.fm/music/Charli+xcx)**<br/>
 > `6 ▶️` ∙ **[The Weeknd](https://www.last.fm/music/The+Weeknd)**<br/>
 > `6 ▶️` ∙ **[牛尾憲輔](https://www.last.fm/music/%E7%89%9B%E5%B0%BE%E6%86%B2%E8%BC%94)**<br/>
+> `5 ▶️` ∙ **[Charli xcx](https://www.last.fm/music/Charli+xcx)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </td>
@@ -32,7 +32,7 @@ I'm really passionate about discovering new thing computer related.
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 8}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Tracks - Past Week**
 
-> `4 ▶️` ∙ **[Ain´t No Mountain High Enough](https://www.last.fm/music/Marvin+Gaye/_/Ain%C2%B4t+No+Mountain+High+Enough)** - [Marvin Gaye](https://www.last.fm/music/Marvin+Gaye)<br/>
+> `3 ▶️` ∙ **[Ain´t No Mountain High Enough](https://www.last.fm/music/Marvin+Gaye/_/Ain%C2%B4t+No+Mountain+High+Enough)** - [Marvin Gaye](https://www.last.fm/music/Marvin+Gaye)<br/>
 > `3 ▶️` ∙ **[Aoi, Koi, Daidai-iro no Hibi](https://www.last.fm/music/MASS+OF+THE+FERMENTING+DREGS/_/Aoi,+Koi,+Daidai-iro+no+Hibi)** - [MASS OF THE FERMENTING DREGS](https://www.last.fm/music/MASS+OF+THE+FERMENTING+DREGS)<br/>
 > `3 ▶️` ∙ **[On My Way to Hell](https://www.last.fm/music/PoBoz/_/On+My+Way+to+Hell)** - [PoBoz](https://www.last.fm/music/PoBoz)<br/>
 > `3 ▶️` ∙ **[Who Wants to Live Forever](https://www.last.fm/music/Queen/_/Who+Wants+to+Live+Forever)** - [Queen](https://www.last.fm/music/Queen)<br/>
