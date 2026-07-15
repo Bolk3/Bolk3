@@ -21,9 +21,9 @@ I'm really passionate about discovering new thing computer related.
 > `9 ▶️` ∙ **[Vald](https://www.last.fm/music/Vald)**<br/>
 > `7 ▶️` ∙ **[Sewerslvt](https://www.last.fm/music/Sewerslvt)**<br/>
 > `6 ▶️` ∙ **[Arcane](https://www.last.fm/music/Arcane)**<br/>
-> `6 ▶️` ∙ **[The Weeknd](https://www.last.fm/music/The+Weeknd)**<br/>
-> `6 ▶️` ∙ **[牛尾憲輔](https://www.last.fm/music/%E7%89%9B%E5%B0%BE%E6%86%B2%E8%BC%94)**<br/>
 > `5 ▶️` ∙ **[Charli xcx](https://www.last.fm/music/Charli+xcx)**<br/>
+> `5 ▶️` ∙ **[Deftones](https://www.last.fm/music/Deftones)**<br/>
+> `5 ▶️` ∙ **[System of a Down](https://www.last.fm/music/System+of+a+Down)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </td>
