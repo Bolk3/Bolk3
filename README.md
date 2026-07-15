@@ -18,12 +18,12 @@ I'm really passionate about discovering new thing computer related.
 
 > `9 ▶️` ∙ **[Vald](https://www.last.fm/music/Vald)**<br/>
 > `8 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
-> `8 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
 > `7 ▶️` ∙ **[Sewerslvt](https://www.last.fm/music/Sewerslvt)**<br/>
-> `5 ▶️` ∙ **[Arcane](https://www.last.fm/music/Arcane)**<br/>
+> `7 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
 > `5 ▶️` ∙ **[Deftones](https://www.last.fm/music/Deftones)**<br/>
 > `5 ▶️` ∙ **[System of a Down](https://www.last.fm/music/System+of+a+Down)**<br/>
 > `5 ▶️` ∙ **[The Weeknd](https://www.last.fm/music/The+Weeknd)**<br/>
+> `5 ▶️` ∙ **[牛尾憲輔](https://www.last.fm/music/%E7%89%9B%E5%B0%BE%E6%86%B2%E8%BC%94)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </td>
