@@ -17,13 +17,13 @@ I'm really passionate about discovering new thing computer related.
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `9 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
-> `8 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
 > `8 ▶️` ∙ **[Vald](https://www.last.fm/music/Vald)**<br/>
 > `7 ▶️` ∙ **[Sewerslvt](https://www.last.fm/music/Sewerslvt)**<br/>
+> `7 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
 > `5 ▶️` ∙ **[DAZEGXD](https://www.last.fm/music/DAZEGXD)**<br/>
-> `5 ▶️` ∙ **[Deftones](https://www.last.fm/music/Deftones)**<br/>
 > `5 ▶️` ∙ **[Jamie Christopherson](https://www.last.fm/music/Jamie+Christopherson)**<br/>
 > `5 ▶️` ∙ **[System of a Down](https://www.last.fm/music/System+of+a+Down)**<br/>
+> `5 ▶️` ∙ **[Yasuaki Iwata](https://www.last.fm/music/Yasuaki+Iwata)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </td>
@@ -39,7 +39,7 @@ I'm really passionate about discovering new thing computer related.
 > `3 ▶️` ∙ **[Finale](https://www.last.fm/music/Toby+Fox/_/Finale)** - [Toby Fox](https://www.last.fm/music/Toby+Fox)<br/>
 > `2 ▶️` ∙ **[Sucker](https://www.last.fm/music/Arcane/_/Sucker)** - [Arcane](https://www.last.fm/music/Arcane)<br/>
 > `2 ▶️` ∙ **[Be Quiet and Drive (Far Away)](https://www.last.fm/music/Deftones/_/Be+Quiet+and+Drive+(Far+Away))** - [Deftones](https://www.last.fm/music/Deftones)<br/>
-> `2 ▶️` ∙ **[Let’s Groove](https://www.last.fm/music/Earth,+Wind+&+Fire/_/Let%E2%80%99s+Groove)** - [Earth, Wind & Fire](https://www.last.fm/music/Earth,+Wind+&+Fire)<br/>
+> `2 ▶️` ∙ **[Renegade (We Never Run)](https://www.last.fm/music/Jarina+De+Marco/_/Renegade+(We+Never+Run))** - [Jarina De Marco](https://www.last.fm/music/Jarina+De+Marco)<br/>
 <!--END_LASTFM_TRACKS-->
 
 </td>
