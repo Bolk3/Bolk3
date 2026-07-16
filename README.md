@@ -16,14 +16,14 @@ I'm really passionate about discovering new thing computer related.
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `9 ▶️` ∙ **[Vald](https://www.last.fm/music/Vald)**<br/>
-> `8 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
+> `9 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
+> `8 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
+> `8 ▶️` ∙ **[Vald](https://www.last.fm/music/Vald)**<br/>
 > `7 ▶️` ∙ **[Sewerslvt](https://www.last.fm/music/Sewerslvt)**<br/>
-> `7 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
+> `5 ▶️` ∙ **[DAZEGXD](https://www.last.fm/music/DAZEGXD)**<br/>
 > `5 ▶️` ∙ **[Deftones](https://www.last.fm/music/Deftones)**<br/>
+> `5 ▶️` ∙ **[Jamie Christopherson](https://www.last.fm/music/Jamie+Christopherson)**<br/>
 > `5 ▶️` ∙ **[System of a Down](https://www.last.fm/music/System+of+a+Down)**<br/>
-> `5 ▶️` ∙ **[The Weeknd](https://www.last.fm/music/The+Weeknd)**<br/>
-> `5 ▶️` ∙ **[牛尾憲輔](https://www.last.fm/music/%E7%89%9B%E5%B0%BE%E6%86%B2%E8%BC%94)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </td>
@@ -32,7 +32,7 @@ I'm really passionate about discovering new thing computer related.
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 8}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Tracks - Past Week**
 
-> `3 ▶️` ∙ **[Ain´t No Mountain High Enough](https://www.last.fm/music/Marvin+Gaye/_/Ain%C2%B4t+No+Mountain+High+Enough)** - [Marvin Gaye](https://www.last.fm/music/Marvin+Gaye)<br/>
+> `3 ▶️` ∙ **[Cosmic Girl](https://www.last.fm/music/Jamiroquai/_/Cosmic+Girl)** - [Jamiroquai](https://www.last.fm/music/Jamiroquai)<br/>
 > `3 ▶️` ∙ **[On My Way to Hell](https://www.last.fm/music/PoBoz/_/On+My+Way+to+Hell)** - [PoBoz](https://www.last.fm/music/PoBoz)<br/>
 > `3 ▶️` ∙ **[Who Wants to Live Forever](https://www.last.fm/music/Queen/_/Who+Wants+to+Live+Forever)** - [Queen](https://www.last.fm/music/Queen)<br/>
 > `3 ▶️` ∙ **[Can’t Stop](https://www.last.fm/music/Red+Hot+Chili+Peppers/_/Can%E2%80%99t+Stop)** - [Red Hot Chili Peppers](https://www.last.fm/music/Red+Hot+Chili+Peppers)<br/>
