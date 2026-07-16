@@ -18,8 +18,8 @@ I'm really passionate about discovering new thing computer related.
 
 > `9 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
 > `8 ▶️` ∙ **[Vald](https://www.last.fm/music/Vald)**<br/>
-> `7 ▶️` ∙ **[Sewerslvt](https://www.last.fm/music/Sewerslvt)**<br/>
 > `7 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
+> `6 ▶️` ∙ **[Sewerslvt](https://www.last.fm/music/Sewerslvt)**<br/>
 > `5 ▶️` ∙ **[DAZEGXD](https://www.last.fm/music/DAZEGXD)**<br/>
 > `5 ▶️` ∙ **[Jamie Christopherson](https://www.last.fm/music/Jamie+Christopherson)**<br/>
 > `5 ▶️` ∙ **[System of a Down](https://www.last.fm/music/System+of+a+Down)**<br/>
