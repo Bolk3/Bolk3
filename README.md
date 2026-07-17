@@ -21,9 +21,9 @@ I'm really passionate about discovering new thing computer related.
 > `7 ▶️` ∙ **[Jamie Christopherson](https://www.last.fm/music/Jamie+Christopherson)**<br/>
 > `6 ▶️` ∙ **[DAZEGXD](https://www.last.fm/music/DAZEGXD)**<br/>
 > `6 ▶️` ∙ **[System of a Down](https://www.last.fm/music/System+of+a+Down)**<br/>
-> `5 ▶️` ∙ **[Muse](https://www.last.fm/music/Muse)**<br/>
 > `5 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
 > `5 ▶️` ∙ **[Yasuaki Iwata](https://www.last.fm/music/Yasuaki+Iwata)**<br/>
+> `5 ▶️` ∙ **[牛尾憲輔](https://www.last.fm/music/%E7%89%9B%E5%B0%BE%E6%86%B2%E8%BC%94)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </td>
