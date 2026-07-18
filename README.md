@@ -16,14 +16,14 @@ I'm really passionate about discovering new thing computer related.
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `9 ▶️` ∙ **[Vald](https://www.last.fm/music/Vald)**<br/>
 > `8 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
+> `8 ▶️` ∙ **[Vald](https://www.last.fm/music/Vald)**<br/>
 > `6 ▶️` ∙ **[DAZEGXD](https://www.last.fm/music/DAZEGXD)**<br/>
 > `6 ▶️` ∙ **[Jamie Christopherson](https://www.last.fm/music/Jamie+Christopherson)**<br/>
-> `6 ▶️` ∙ **[System of a Down](https://www.last.fm/music/System+of+a+Down)**<br/>
-> `5 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
+> `5 ▶️` ∙ **[System of a Down](https://www.last.fm/music/System+of+a+Down)**<br/>
 > `5 ▶️` ∙ **[牛尾憲輔](https://www.last.fm/music/%E7%89%9B%E5%B0%BE%E6%86%B2%E8%BC%94)**<br/>
 > `4 ▶️` ∙ **[Deftones](https://www.last.fm/music/Deftones)**<br/>
+> `4 ▶️` ∙ **[Muse](https://www.last.fm/music/Muse)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </td>
