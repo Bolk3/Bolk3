@@ -21,9 +21,9 @@ I'm really passionate about discovering new thing computer related.
 > `6 ▶️` ∙ **[Jamie Christopherson](https://www.last.fm/music/Jamie+Christopherson)**<br/>
 > `6 ▶️` ∙ **[牛尾憲輔](https://www.last.fm/music/%E7%89%9B%E5%B0%BE%E6%86%B2%E8%BC%94)**<br/>
 > `5 ▶️` ∙ **[DAZEGXD](https://www.last.fm/music/DAZEGXD)**<br/>
-> `4 ▶️` ∙ **[Deftones](https://www.last.fm/music/Deftones)**<br/>
+> `5 ▶️` ∙ **[Deftones](https://www.last.fm/music/Deftones)**<br/>
 > `4 ▶️` ∙ **[Grimes](https://www.last.fm/music/Grimes)**<br/>
-> `4 ▶️` ∙ **[Queen](https://www.last.fm/music/Queen)**<br/>
+> `4 ▶️` ∙ **[Muse](https://www.last.fm/music/Muse)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </td>
