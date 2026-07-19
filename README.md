@@ -16,8 +16,8 @@ I'm really passionate about discovering new thing computer related.
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `12 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
-> `7 ▶️` ∙ **[Jamie Christopherson](https://www.last.fm/music/Jamie+Christopherson)**<br/>
+> `11 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
+> `8 ▶️` ∙ **[Jamie Christopherson](https://www.last.fm/music/Jamie+Christopherson)**<br/>
 > `7 ▶️` ∙ **[Vald](https://www.last.fm/music/Vald)**<br/>
 > `6 ▶️` ∙ **[Deftones](https://www.last.fm/music/Deftones)**<br/>
 > `5 ▶️` ∙ **[DAZEGXD](https://www.last.fm/music/DAZEGXD)**<br/>
@@ -37,9 +37,9 @@ I'm really passionate about discovering new thing computer related.
 > `2 ▶️` ∙ **[Starman](https://www.last.fm/music/David+Bowie/_/Starman)** - [David Bowie](https://www.last.fm/music/David+Bowie)<br/>
 > `2 ▶️` ∙ **[Be Quiet and Drive (Far Away)](https://www.last.fm/music/Deftones/_/Be+Quiet+and+Drive+(Far+Away))** - [Deftones](https://www.last.fm/music/Deftones)<br/>
 > `2 ▶️` ∙ **[4ÆM](https://www.last.fm/music/Grimes/_/4%C3%86M)** - [Grimes](https://www.last.fm/music/Grimes)<br/>
+> `2 ▶️` ∙ **[Red Sun (Original Version w/Vocals)](https://www.last.fm/music/Jamie+Christopherson/_/Red+Sun+(Original+Version+w%2FVocals))** - [Jamie Christopherson](https://www.last.fm/music/Jamie+Christopherson)<br/>
 > `2 ▶️` ∙ **[Cosmic Girl](https://www.last.fm/music/Jamiroquai/_/Cosmic+Girl)** - [Jamiroquai](https://www.last.fm/music/Jamiroquai)<br/>
 > `2 ▶️` ∙ **[Renegade (We Never Run)](https://www.last.fm/music/Jarina+De+Marco/_/Renegade+(We+Never+Run))** - [Jarina De Marco](https://www.last.fm/music/Jarina+De+Marco)<br/>
-> `2 ▶️` ∙ **[Mia & Sebastian's Theme](https://www.last.fm/music/Justin+Hurwitz/_/Mia+&+Sebastian%27s+Theme)** - [Justin Hurwitz](https://www.last.fm/music/Justin+Hurwitz)<br/>
 <!--END_LASTFM_TRACKS-->
 
 </td>
