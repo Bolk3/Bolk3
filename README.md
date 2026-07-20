@@ -19,11 +19,11 @@ I'm really passionate about discovering new thing computer related.
 > `9 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
 > `7 ▶️` ∙ **[Jamie Christopherson](https://www.last.fm/music/Jamie+Christopherson)**<br/>
 > `7 ▶️` ∙ **[Vald](https://www.last.fm/music/Vald)**<br/>
+> `7 ▶️` ∙ **[牛尾憲輔](https://www.last.fm/music/%E7%89%9B%E5%B0%BE%E6%86%B2%E8%BC%94)**<br/>
 > `6 ▶️` ∙ **[Deftones](https://www.last.fm/music/Deftones)**<br/>
 > `5 ▶️` ∙ **[DAZEGXD](https://www.last.fm/music/DAZEGXD)**<br/>
 > `4 ▶️` ∙ **[Grimes](https://www.last.fm/music/Grimes)**<br/>
 > `4 ▶️` ∙ **[Queen](https://www.last.fm/music/Queen)**<br/>
-> `4 ▶️` ∙ **[牛尾憲輔](https://www.last.fm/music/%E7%89%9B%E5%B0%BE%E6%86%B2%E8%BC%94)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </td>
@@ -34,12 +34,12 @@ I'm really passionate about discovering new thing computer related.
 
 > `3 ▶️` ∙ **[Who Wants to Live Forever](https://www.last.fm/music/Queen/_/Who+Wants+to+Live+Forever)** - [Queen](https://www.last.fm/music/Queen)<br/>
 > `3 ▶️` ∙ **[Can’t Stop](https://www.last.fm/music/Red+Hot+Chili+Peppers/_/Can%E2%80%99t+Stop)** - [Red Hot Chili Peppers](https://www.last.fm/music/Red+Hot+Chili+Peppers)<br/>
+> `3 ▶️` ∙ **[Edge Of Chainsaw (Typhoon Version)](https://www.last.fm/music/%E7%89%9B%E5%B0%BE%E6%86%B2%E8%BC%94/_/Edge+Of+Chainsaw+(Typhoon+Version))** - [牛尾憲輔](https://www.last.fm/music/%E7%89%9B%E5%B0%BE%E6%86%B2%E8%BC%94)<br/>
+> `2 ▶️` ∙ **[It's Going Down Now](https://www.last.fm/music/Atsushi+Kitajoh/_/It%27s+Going+Down+Now)** - [Atsushi Kitajoh](https://www.last.fm/music/Atsushi+Kitajoh)<br/>
 > `2 ▶️` ∙ **[Starman](https://www.last.fm/music/David+Bowie/_/Starman)** - [David Bowie](https://www.last.fm/music/David+Bowie)<br/>
 > `2 ▶️` ∙ **[Be Quiet and Drive (Far Away)](https://www.last.fm/music/Deftones/_/Be+Quiet+and+Drive+(Far+Away))** - [Deftones](https://www.last.fm/music/Deftones)<br/>
 > `2 ▶️` ∙ **[4ÆM](https://www.last.fm/music/Grimes/_/4%C3%86M)** - [Grimes](https://www.last.fm/music/Grimes)<br/>
 > `2 ▶️` ∙ **[Red Sun (Original Version w/Vocals)](https://www.last.fm/music/Jamie+Christopherson/_/Red+Sun+(Original+Version+w%2FVocals))** - [Jamie Christopherson](https://www.last.fm/music/Jamie+Christopherson)<br/>
-> `2 ▶️` ∙ **[Cosmic Girl](https://www.last.fm/music/Jamiroquai/_/Cosmic+Girl)** - [Jamiroquai](https://www.last.fm/music/Jamiroquai)<br/>
-> `2 ▶️` ∙ **[Renegade (We Never Run)](https://www.last.fm/music/Jarina+De+Marco/_/Renegade+(We+Never+Run))** - [Jarina De Marco](https://www.last.fm/music/Jarina+De+Marco)<br/>
 <!--END_LASTFM_TRACKS-->
 
 </td>
