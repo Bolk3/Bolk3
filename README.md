@@ -18,10 +18,10 @@ I'm really passionate about discovering new thing computer related.
 
 > `9 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
 > `7 ▶️` ∙ **[Jamie Christopherson](https://www.last.fm/music/Jamie+Christopherson)**<br/>
-> `7 ▶️` ∙ **[Vald](https://www.last.fm/music/Vald)**<br/>
-> `7 ▶️` ∙ **[牛尾憲輔](https://www.last.fm/music/%E7%89%9B%E5%B0%BE%E6%86%B2%E8%BC%94)**<br/>
-> `6 ▶️` ∙ **[Deftones](https://www.last.fm/music/Deftones)**<br/>
+> `6 ▶️` ∙ **[Vald](https://www.last.fm/music/Vald)**<br/>
+> `6 ▶️` ∙ **[牛尾憲輔](https://www.last.fm/music/%E7%89%9B%E5%B0%BE%E6%86%B2%E8%BC%94)**<br/>
 > `5 ▶️` ∙ **[DAZEGXD](https://www.last.fm/music/DAZEGXD)**<br/>
+> `5 ▶️` ∙ **[Deftones](https://www.last.fm/music/Deftones)**<br/>
 > `4 ▶️` ∙ **[Grimes](https://www.last.fm/music/Grimes)**<br/>
 > `4 ▶️` ∙ **[Queen](https://www.last.fm/music/Queen)**<br/>
 <!--END_LASTFM_ARTISTS-->
@@ -33,13 +33,13 @@ I'm really passionate about discovering new thing computer related.
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Tracks - Past Week**
 
 > `3 ▶️` ∙ **[Who Wants to Live Forever](https://www.last.fm/music/Queen/_/Who+Wants+to+Live+Forever)** - [Queen](https://www.last.fm/music/Queen)<br/>
-> `3 ▶️` ∙ **[Can’t Stop](https://www.last.fm/music/Red+Hot+Chili+Peppers/_/Can%E2%80%99t+Stop)** - [Red Hot Chili Peppers](https://www.last.fm/music/Red+Hot+Chili+Peppers)<br/>
 > `3 ▶️` ∙ **[Edge Of Chainsaw (Typhoon Version)](https://www.last.fm/music/%E7%89%9B%E5%B0%BE%E6%86%B2%E8%BC%94/_/Edge+Of+Chainsaw+(Typhoon+Version))** - [牛尾憲輔](https://www.last.fm/music/%E7%89%9B%E5%B0%BE%E6%86%B2%E8%BC%94)<br/>
 > `2 ▶️` ∙ **[It's Going Down Now](https://www.last.fm/music/Atsushi+Kitajoh/_/It%27s+Going+Down+Now)** - [Atsushi Kitajoh](https://www.last.fm/music/Atsushi+Kitajoh)<br/>
 > `2 ▶️` ∙ **[Starman](https://www.last.fm/music/David+Bowie/_/Starman)** - [David Bowie](https://www.last.fm/music/David+Bowie)<br/>
-> `2 ▶️` ∙ **[Be Quiet and Drive (Far Away)](https://www.last.fm/music/Deftones/_/Be+Quiet+and+Drive+(Far+Away))** - [Deftones](https://www.last.fm/music/Deftones)<br/>
 > `2 ▶️` ∙ **[4ÆM](https://www.last.fm/music/Grimes/_/4%C3%86M)** - [Grimes](https://www.last.fm/music/Grimes)<br/>
 > `2 ▶️` ∙ **[Red Sun (Original Version w/Vocals)](https://www.last.fm/music/Jamie+Christopherson/_/Red+Sun+(Original+Version+w%2FVocals))** - [Jamie Christopherson](https://www.last.fm/music/Jamie+Christopherson)<br/>
+> `2 ▶️` ∙ **[Cosmic Girl](https://www.last.fm/music/Jamiroquai/_/Cosmic+Girl)** - [Jamiroquai](https://www.last.fm/music/Jamiroquai)<br/>
+> `2 ▶️` ∙ **[Renegade (We Never Run)](https://www.last.fm/music/Jarina+De+Marco/_/Renegade+(We+Never+Run))** - [Jarina De Marco](https://www.last.fm/music/Jarina+De+Marco)<br/>
 <!--END_LASTFM_TRACKS-->
 
 </td>
