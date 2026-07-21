@@ -18,12 +18,12 @@ I'm really passionate about discovering new thing computer related.
 
 > `9 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
 > `7 ▶️` ∙ **[Jamie Christopherson](https://www.last.fm/music/Jamie+Christopherson)**<br/>
-> `6 ▶️` ∙ **[Vald](https://www.last.fm/music/Vald)**<br/>
 > `6 ▶️` ∙ **[牛尾憲輔](https://www.last.fm/music/%E7%89%9B%E5%B0%BE%E6%86%B2%E8%BC%94)**<br/>
 > `5 ▶️` ∙ **[DAZEGXD](https://www.last.fm/music/DAZEGXD)**<br/>
-> `4 ▶️` ∙ **[Grimes](https://www.last.fm/music/Grimes)**<br/>
+> `5 ▶️` ∙ **[Vald](https://www.last.fm/music/Vald)**<br/>
 > `4 ▶️` ∙ **[Queen](https://www.last.fm/music/Queen)**<br/>
 > `3 ▶️` ∙ **[Atsushi Kitajoh](https://www.last.fm/music/Atsushi+Kitajoh)**<br/>
+> `3 ▶️` ∙ **[C418](https://www.last.fm/music/C418)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </td>
@@ -36,10 +36,10 @@ I'm really passionate about discovering new thing computer related.
 > `3 ▶️` ∙ **[Edge Of Chainsaw (Typhoon Version)](https://www.last.fm/music/%E7%89%9B%E5%B0%BE%E6%86%B2%E8%BC%94/_/Edge+Of+Chainsaw+(Typhoon+Version))** - [牛尾憲輔](https://www.last.fm/music/%E7%89%9B%E5%B0%BE%E6%86%B2%E8%BC%94)<br/>
 > `2 ▶️` ∙ **[It's Going Down Now](https://www.last.fm/music/Atsushi+Kitajoh/_/It%27s+Going+Down+Now)** - [Atsushi Kitajoh](https://www.last.fm/music/Atsushi+Kitajoh)<br/>
 > `2 ▶️` ∙ **[Starman](https://www.last.fm/music/David+Bowie/_/Starman)** - [David Bowie](https://www.last.fm/music/David+Bowie)<br/>
-> `2 ▶️` ∙ **[4ÆM](https://www.last.fm/music/Grimes/_/4%C3%86M)** - [Grimes](https://www.last.fm/music/Grimes)<br/>
 > `2 ▶️` ∙ **[Red Sun (Original Version w/Vocals)](https://www.last.fm/music/Jamie+Christopherson/_/Red+Sun+(Original+Version+w%2FVocals))** - [Jamie Christopherson](https://www.last.fm/music/Jamie+Christopherson)<br/>
 > `2 ▶️` ∙ **[Cosmic Girl](https://www.last.fm/music/Jamiroquai/_/Cosmic+Girl)** - [Jamiroquai](https://www.last.fm/music/Jamiroquai)<br/>
 > `2 ▶️` ∙ **[Renegade (We Never Run)](https://www.last.fm/music/Jarina+De+Marco/_/Renegade+(We+Never+Run))** - [Jarina De Marco](https://www.last.fm/music/Jarina+De+Marco)<br/>
+> `2 ▶️` ∙ **[Mia & Sebastian's Theme](https://www.last.fm/music/Justin+Hurwitz/_/Mia+&+Sebastian%27s+Theme)** - [Justin Hurwitz](https://www.last.fm/music/Justin+Hurwitz)<br/>
 <!--END_LASTFM_TRACKS-->
 
 </td>
