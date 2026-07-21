@@ -20,10 +20,10 @@ I'm really passionate about discovering new thing computer related.
 > `7 ▶️` ∙ **[Jamie Christopherson](https://www.last.fm/music/Jamie+Christopherson)**<br/>
 > `6 ▶️` ∙ **[牛尾憲輔](https://www.last.fm/music/%E7%89%9B%E5%B0%BE%E6%86%B2%E8%BC%94)**<br/>
 > `5 ▶️` ∙ **[DAZEGXD](https://www.last.fm/music/DAZEGXD)**<br/>
-> `5 ▶️` ∙ **[Vald](https://www.last.fm/music/Vald)**<br/>
-> `4 ▶️` ∙ **[Queen](https://www.last.fm/music/Queen)**<br/>
 > `3 ▶️` ∙ **[Atsushi Kitajoh](https://www.last.fm/music/Atsushi+Kitajoh)**<br/>
 > `3 ▶️` ∙ **[C418](https://www.last.fm/music/C418)**<br/>
+> `3 ▶️` ∙ **[Grimes](https://www.last.fm/music/Grimes)**<br/>
+> `3 ▶️` ∙ **[JPEGMAFIA](https://www.last.fm/music/JPEGMAFIA)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </td>
@@ -32,7 +32,6 @@ I'm really passionate about discovering new thing computer related.
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 8}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Tracks - Past Week**
 
-> `3 ▶️` ∙ **[Who Wants to Live Forever](https://www.last.fm/music/Queen/_/Who+Wants+to+Live+Forever)** - [Queen](https://www.last.fm/music/Queen)<br/>
 > `3 ▶️` ∙ **[Edge Of Chainsaw (Typhoon Version)](https://www.last.fm/music/%E7%89%9B%E5%B0%BE%E6%86%B2%E8%BC%94/_/Edge+Of+Chainsaw+(Typhoon+Version))** - [牛尾憲輔](https://www.last.fm/music/%E7%89%9B%E5%B0%BE%E6%86%B2%E8%BC%94)<br/>
 > `2 ▶️` ∙ **[It's Going Down Now](https://www.last.fm/music/Atsushi+Kitajoh/_/It%27s+Going+Down+Now)** - [Atsushi Kitajoh](https://www.last.fm/music/Atsushi+Kitajoh)<br/>
 > `2 ▶️` ∙ **[Starman](https://www.last.fm/music/David+Bowie/_/Starman)** - [David Bowie](https://www.last.fm/music/David+Bowie)<br/>
@@ -40,6 +39,7 @@ I'm really passionate about discovering new thing computer related.
 > `2 ▶️` ∙ **[Cosmic Girl](https://www.last.fm/music/Jamiroquai/_/Cosmic+Girl)** - [Jamiroquai](https://www.last.fm/music/Jamiroquai)<br/>
 > `2 ▶️` ∙ **[Renegade (We Never Run)](https://www.last.fm/music/Jarina+De+Marco/_/Renegade+(We+Never+Run))** - [Jarina De Marco](https://www.last.fm/music/Jarina+De+Marco)<br/>
 > `2 ▶️` ∙ **[Mia & Sebastian's Theme](https://www.last.fm/music/Justin+Hurwitz/_/Mia+&+Sebastian%27s+Theme)** - [Justin Hurwitz](https://www.last.fm/music/Justin+Hurwitz)<br/>
+> `2 ▶️` ∙ **[Another Day of Sun](https://www.last.fm/music/La+La+Land+Cast/_/Another+Day+of+Sun)** - [La La Land Cast](https://www.last.fm/music/La+La+Land+Cast)<br/>
 <!--END_LASTFM_TRACKS-->
 
 </td>
