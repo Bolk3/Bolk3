@@ -22,8 +22,8 @@ I'm really passionate about discovering new thing computer related.
 > `4 ▶️` ∙ **[DAZEGXD](https://www.last.fm/music/DAZEGXD)**<br/>
 > `4 ▶️` ∙ **[牛尾憲輔](https://www.last.fm/music/%E7%89%9B%E5%B0%BE%E6%86%B2%E8%BC%94)**<br/>
 > `3 ▶️` ∙ **[Atsushi Kitajoh](https://www.last.fm/music/Atsushi+Kitajoh)**<br/>
-> `3 ▶️` ∙ **[C418](https://www.last.fm/music/C418)**<br/>
 > `3 ▶️` ∙ **[Grimes](https://www.last.fm/music/Grimes)**<br/>
+> `3 ▶️` ∙ **[JPEGMAFIA](https://www.last.fm/music/JPEGMAFIA)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </td>
@@ -34,12 +34,12 @@ I'm really passionate about discovering new thing computer related.
 
 > `3 ▶️` ∙ **[Edge Of Chainsaw (Typhoon Version)](https://www.last.fm/music/%E7%89%9B%E5%B0%BE%E6%86%B2%E8%BC%94/_/Edge+Of+Chainsaw+(Typhoon+Version))** - [牛尾憲輔](https://www.last.fm/music/%E7%89%9B%E5%B0%BE%E6%86%B2%E8%BC%94)<br/>
 > `2 ▶️` ∙ **[It's Going Down Now](https://www.last.fm/music/Atsushi+Kitajoh/_/It%27s+Going+Down+Now)** - [Atsushi Kitajoh](https://www.last.fm/music/Atsushi+Kitajoh)<br/>
-> `2 ▶️` ∙ **[Starman](https://www.last.fm/music/David+Bowie/_/Starman)** - [David Bowie](https://www.last.fm/music/David+Bowie)<br/>
 > `2 ▶️` ∙ **[Mia & Sebastian's Theme](https://www.last.fm/music/Justin+Hurwitz/_/Mia+&+Sebastian%27s+Theme)** - [Justin Hurwitz](https://www.last.fm/music/Justin+Hurwitz)<br/>
 > `2 ▶️` ∙ **[Another Day of Sun](https://www.last.fm/music/La+La+Land+Cast/_/Another+Day+of+Sun)** - [La La Land Cast](https://www.last.fm/music/La+La+Land+Cast)<br/>
 > `2 ▶️` ∙ **[Maelle](https://www.last.fm/music/Lorien+Testard/_/Maelle)** - [Lorien Testard](https://www.last.fm/music/Lorien+Testard)<br/>
 > `2 ▶️` ∙ **[Welcome to the Black Parade](https://www.last.fm/music/My+Chemical+Romance/_/Welcome+to+the+Black+Parade)** - [My Chemical Romance](https://www.last.fm/music/My+Chemical+Romance)<br/>
 > `2 ▶️` ∙ **[Who's Ready for Tomorrow](https://www.last.fm/music/RAT+BOY/_/Who%27s+Ready+for+Tomorrow)** - [RAT BOY](https://www.last.fm/music/RAT+BOY)<br/>
+> `2 ▶️` ∙ **[To Ashes and Blood](https://www.last.fm/music/Woodkid/_/To+Ashes+and+Blood)** - [Woodkid](https://www.last.fm/music/Woodkid)<br/>
 <!--END_LASTFM_TRACKS-->
 
 </td>
