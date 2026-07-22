@@ -17,7 +17,7 @@ I'm really passionate about discovering new thing computer related.
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `14 ▶️` ∙ **[Uchu Nekoko](https://www.last.fm/music/Uchu+Nekoko)**<br/>
-> `10 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
+> `9 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
 > `6 ▶️` ∙ **[Jamie Christopherson](https://www.last.fm/music/Jamie+Christopherson)**<br/>
 > `4 ▶️` ∙ **[Atsushi Kitajoh](https://www.last.fm/music/Atsushi+Kitajoh)**<br/>
 > `4 ▶️` ∙ **[PNL](https://www.last.fm/music/PNL)**<br/>
@@ -37,9 +37,9 @@ I'm really passionate about discovering new thing computer related.
 > `2 ▶️` ∙ **[Mia & Sebastian's Theme](https://www.last.fm/music/Justin+Hurwitz/_/Mia+&+Sebastian%27s+Theme)** - [Justin Hurwitz](https://www.last.fm/music/Justin+Hurwitz)<br/>
 > `2 ▶️` ∙ **[Maelle](https://www.last.fm/music/Lorien+Testard/_/Maelle)** - [Lorien Testard](https://www.last.fm/music/Lorien+Testard)<br/>
 > `2 ▶️` ∙ **[Welcome to the Black Parade](https://www.last.fm/music/My+Chemical+Romance/_/Welcome+to+the+Black+Parade)** - [My Chemical Romance](https://www.last.fm/music/My+Chemical+Romance)<br/>
-> `2 ▶️` ∙ **[Who's Ready for Tomorrow](https://www.last.fm/music/RAT+BOY/_/Who%27s+Ready+for+Tomorrow)** - [RAT BOY](https://www.last.fm/music/RAT+BOY)<br/>
 > `2 ▶️` ∙ **[To Ashes and Blood](https://www.last.fm/music/Woodkid/_/To+Ashes+and+Blood)** - [Woodkid](https://www.last.fm/music/Woodkid)<br/>
 > `1 ▶️` ∙ **[CHEVI](https://www.last.fm/music/23wa/_/CHEVI)** - [23wa](https://www.last.fm/music/23wa)<br/>
+> `1 ▶️` ∙ **[Percées de lumière](https://www.last.fm/music/Alcest/_/Perc%C3%A9es+de+lumi%C3%A8re)** - [Alcest](https://www.last.fm/music/Alcest)<br/>
 <!--END_LASTFM_TRACKS-->
 
 </td>
