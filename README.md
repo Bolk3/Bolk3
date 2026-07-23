@@ -37,9 +37,9 @@ I'm really passionate about discovering new thing computer related.
 > `2 ▶️` ∙ **[Around the Fur](https://www.last.fm/music/Deftones/_/Around+the+Fur)** - [Deftones](https://www.last.fm/music/Deftones)<br/>
 > `2 ▶️` ∙ **[Headup](https://www.last.fm/music/Deftones/_/Headup)** - [Deftones](https://www.last.fm/music/Deftones)<br/>
 > `2 ▶️` ∙ **[Maelle](https://www.last.fm/music/Lorien+Testard/_/Maelle)** - [Lorien Testard](https://www.last.fm/music/Lorien+Testard)<br/>
-> `2 ▶️` ∙ **[Welcome to the Black Parade](https://www.last.fm/music/My+Chemical+Romance/_/Welcome+to+the+Black+Parade)** - [My Chemical Romance](https://www.last.fm/music/My+Chemical+Romance)<br/>
 > `2 ▶️` ∙ **[To Ashes and Blood](https://www.last.fm/music/Woodkid/_/To+Ashes+and+Blood)** - [Woodkid](https://www.last.fm/music/Woodkid)<br/>
 > `1 ▶️` ∙ **[CHEVI](https://www.last.fm/music/23wa/_/CHEVI)** - [23wa](https://www.last.fm/music/23wa)<br/>
+> `1 ▶️` ∙ **[水彩ラフ](https://www.last.fm/music/36g/_/%E6%B0%B4%E5%BD%A9%E3%83%A9%E3%83%95)** - [36g](https://www.last.fm/music/36g)<br/>
 <!--END_LASTFM_TRACKS-->
 
 </td>
