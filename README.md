@@ -19,9 +19,9 @@ I'm really passionate about discovering new thing computer related.
 > `14 ▶️` ∙ **[Uchu Nekoko](https://www.last.fm/music/Uchu+Nekoko)**<br/>
 > `8 ▶️` ∙ **[Deftones](https://www.last.fm/music/Deftones)**<br/>
 > `6 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
+> `5 ▶️` ∙ **[Kendrick Lamar](https://www.last.fm/music/Kendrick+Lamar)**<br/>
 > `4 ▶️` ∙ **[Atsushi Kitajoh](https://www.last.fm/music/Atsushi+Kitajoh)**<br/>
 > `4 ▶️` ∙ **[Jamie Christopherson](https://www.last.fm/music/Jamie+Christopherson)**<br/>
-> `4 ▶️` ∙ **[Kendrick Lamar](https://www.last.fm/music/Kendrick+Lamar)**<br/>
 > `4 ▶️` ∙ **[牛尾憲輔](https://www.last.fm/music/%E7%89%9B%E5%B0%BE%E6%86%B2%E8%BC%94)**<br/>
 > `3 ▶️` ∙ **[Billie Eilish](https://www.last.fm/music/Billie+Eilish)**<br/>
 <!--END_LASTFM_ARTISTS-->
@@ -37,9 +37,9 @@ I'm really passionate about discovering new thing computer related.
 > `2 ▶️` ∙ **[Around the Fur](https://www.last.fm/music/Deftones/_/Around+the+Fur)** - [Deftones](https://www.last.fm/music/Deftones)<br/>
 > `2 ▶️` ∙ **[Headup](https://www.last.fm/music/Deftones/_/Headup)** - [Deftones](https://www.last.fm/music/Deftones)<br/>
 > `2 ▶️` ∙ **[Maelle](https://www.last.fm/music/Lorien+Testard/_/Maelle)** - [Lorien Testard](https://www.last.fm/music/Lorien+Testard)<br/>
+> `2 ▶️` ∙ **[Lonely Day](https://www.last.fm/music/System+of+a+Down/_/Lonely+Day)** - [System of a Down](https://www.last.fm/music/System+of+a+Down)<br/>
 > `2 ▶️` ∙ **[To Ashes and Blood](https://www.last.fm/music/Woodkid/_/To+Ashes+and+Blood)** - [Woodkid](https://www.last.fm/music/Woodkid)<br/>
 > `1 ▶️` ∙ **[CHEVI](https://www.last.fm/music/23wa/_/CHEVI)** - [23wa](https://www.last.fm/music/23wa)<br/>
-> `1 ▶️` ∙ **[水彩ラフ](https://www.last.fm/music/36g/_/%E6%B0%B4%E5%BD%A9%E3%83%A9%E3%83%95)** - [36g](https://www.last.fm/music/36g)<br/>
 <!--END_LASTFM_TRACKS-->
 
 </td>
