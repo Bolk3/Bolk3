@@ -21,9 +21,9 @@ I'm really passionate about discovering new thing computer related.
 > `6 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
 > `4 ▶️` ∙ **[Atsushi Kitajoh](https://www.last.fm/music/Atsushi+Kitajoh)**<br/>
 > `4 ▶️` ∙ **[Jamie Christopherson](https://www.last.fm/music/Jamie+Christopherson)**<br/>
+> `4 ▶️` ∙ **[Kendrick Lamar](https://www.last.fm/music/Kendrick+Lamar)**<br/>
 > `4 ▶️` ∙ **[PNL](https://www.last.fm/music/PNL)**<br/>
 > `4 ▶️` ∙ **[牛尾憲輔](https://www.last.fm/music/%E7%89%9B%E5%B0%BE%E6%86%B2%E8%BC%94)**<br/>
-> `3 ▶️` ∙ **[Billie Eilish](https://www.last.fm/music/Billie+Eilish)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </td>
