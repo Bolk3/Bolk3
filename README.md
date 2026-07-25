@@ -18,12 +18,12 @@ I'm really passionate about discovering new thing computer related.
 
 > `16 ▶️` ∙ **[Uchu Nekoko](https://www.last.fm/music/Uchu+Nekoko)**<br/>
 > `6 ▶️` ∙ **[Deftones](https://www.last.fm/music/Deftones)**<br/>
-> `6 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
+> `5 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
 > `4 ▶️` ∙ **[Red Hot Chili Peppers](https://www.last.fm/music/Red+Hot+Chili+Peppers)**<br/>
 > `4 ▶️` ∙ **[System of a Down](https://www.last.fm/music/System+of+a+Down)**<br/>
 > `3 ▶️` ∙ **[Atsushi Kitajoh](https://www.last.fm/music/Atsushi+Kitajoh)**<br/>
-> `3 ▶️` ∙ **[C418](https://www.last.fm/music/C418)**<br/>
 > `3 ▶️` ∙ **[Orelsan](https://www.last.fm/music/Orelsan)**<br/>
+> `3 ▶️` ∙ **[The Notorious B.I.G.](https://www.last.fm/music/The+Notorious+B.I.G.)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </td>
