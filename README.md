@@ -36,10 +36,10 @@ I'm really passionate about discovering new thing computer related.
 > `2 ▶️` ∙ **[It's Going Down Now](https://www.last.fm/music/Atsushi+Kitajoh/_/It%27s+Going+Down+Now)** - [Atsushi Kitajoh](https://www.last.fm/music/Atsushi+Kitajoh)<br/>
 > `2 ▶️` ∙ **[Around the Fur](https://www.last.fm/music/Deftones/_/Around+the+Fur)** - [Deftones](https://www.last.fm/music/Deftones)<br/>
 > `2 ▶️` ∙ **[Headup](https://www.last.fm/music/Deftones/_/Headup)** - [Deftones](https://www.last.fm/music/Deftones)<br/>
+> `2 ▶️` ∙ **[Entering the Gelidium Jelly](https://www.last.fm/music/Hiromitsu+Maeba/_/Entering+the+Gelidium+Jelly)** - [Hiromitsu Maeba](https://www.last.fm/music/Hiromitsu+Maeba)<br/>
 > `2 ▶️` ∙ **[Maelle](https://www.last.fm/music/Lorien+Testard/_/Maelle)** - [Lorien Testard](https://www.last.fm/music/Lorien+Testard)<br/>
 > `2 ▶️` ∙ **[Lonely Day](https://www.last.fm/music/System+of+a+Down/_/Lonely+Day)** - [System of a Down](https://www.last.fm/music/System+of+a+Down)<br/>
 > `2 ▶️` ∙ **[To Ashes and Blood](https://www.last.fm/music/Woodkid/_/To+Ashes+and+Blood)** - [Woodkid](https://www.last.fm/music/Woodkid)<br/>
-> `1 ▶️` ∙ **[CHEVI](https://www.last.fm/music/23wa/_/CHEVI)** - [23wa](https://www.last.fm/music/23wa)<br/>
 <!--END_LASTFM_TRACKS-->
 
 </td>
