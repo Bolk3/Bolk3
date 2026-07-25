@@ -17,13 +17,13 @@ I'm really passionate about discovering new thing computer related.
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `16 ▶️` ∙ **[Uchu Nekoko](https://www.last.fm/music/Uchu+Nekoko)**<br/>
-> `7 ▶️` ∙ **[Deftones](https://www.last.fm/music/Deftones)**<br/>
+> `6 ▶️` ∙ **[Deftones](https://www.last.fm/music/Deftones)**<br/>
 > `6 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
 > `4 ▶️` ∙ **[Red Hot Chili Peppers](https://www.last.fm/music/Red+Hot+Chili+Peppers)**<br/>
 > `4 ▶️` ∙ **[System of a Down](https://www.last.fm/music/System+of+a+Down)**<br/>
 > `3 ▶️` ∙ **[Atsushi Kitajoh](https://www.last.fm/music/Atsushi+Kitajoh)**<br/>
-> `3 ▶️` ∙ **[Avicii](https://www.last.fm/music/Avicii)**<br/>
 > `3 ▶️` ∙ **[C418](https://www.last.fm/music/C418)**<br/>
+> `3 ▶️` ∙ **[Orelsan](https://www.last.fm/music/Orelsan)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </td>
@@ -34,12 +34,12 @@ I'm really passionate about discovering new thing computer related.
 
 > `3 ▶️` ∙ **[Lonely Day](https://www.last.fm/music/System+of+a+Down/_/Lonely+Day)** - [System of a Down](https://www.last.fm/music/System+of+a+Down)<br/>
 > `2 ▶️` ∙ **[It's Going Down Now](https://www.last.fm/music/Atsushi+Kitajoh/_/It%27s+Going+Down+Now)** - [Atsushi Kitajoh](https://www.last.fm/music/Atsushi+Kitajoh)<br/>
-> `2 ▶️` ∙ **[Headup](https://www.last.fm/music/Deftones/_/Headup)** - [Deftones](https://www.last.fm/music/Deftones)<br/>
 > `2 ▶️` ∙ **[Maelle](https://www.last.fm/music/Lorien+Testard/_/Maelle)** - [Lorien Testard](https://www.last.fm/music/Lorien+Testard)<br/>
 > `2 ▶️` ∙ **[hikage](https://www.last.fm/music/Uchu+Nekoko/_/hikage)** - [Uchu Nekoko](https://www.last.fm/music/Uchu+Nekoko)<br/>
 > `2 ▶️` ∙ **[Kimi No Youni Ikiretara Demo](https://www.last.fm/music/Uchu+Nekoko/_/Kimi+No+Youni+Ikiretara+Demo)** - [Uchu Nekoko](https://www.last.fm/music/Uchu+Nekoko)<br/>
 > `2 ▶️` ∙ **[Edge Of Chainsaw (Typhoon Version)](https://www.last.fm/music/%E7%89%9B%E5%B0%BE%E6%86%B2%E8%BC%94/_/Edge+Of+Chainsaw+(Typhoon+Version))** - [牛尾憲輔](https://www.last.fm/music/%E7%89%9B%E5%B0%BE%E6%86%B2%E8%BC%94)<br/>
 > `1 ▶️` ∙ **[hand crushed by a mallet](https://www.last.fm/music/100+gecs/_/hand+crushed+by+a+mallet)** - [100 gecs](https://www.last.fm/music/100+gecs)<br/>
+> `1 ▶️` ∙ **[CHEVI](https://www.last.fm/music/23wa/_/CHEVI)** - [23wa](https://www.last.fm/music/23wa)<br/>
 <!--END_LASTFM_TRACKS-->
 
 </td>
