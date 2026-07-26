@@ -23,7 +23,7 @@ I'm really passionate about discovering new thing computer related.
 > `4 ▶️` ∙ **[System of a Down](https://www.last.fm/music/System+of+a+Down)**<br/>
 > `3 ▶️` ∙ **[Atsushi Kitajoh](https://www.last.fm/music/Atsushi+Kitajoh)**<br/>
 > `3 ▶️` ∙ **[Orelsan](https://www.last.fm/music/Orelsan)**<br/>
-> `3 ▶️` ∙ **[The Notorious B.I.G.](https://www.last.fm/music/The+Notorious+B.I.G.)**<br/>
+> `3 ▶️` ∙ **[The Weeknd](https://www.last.fm/music/The+Weeknd)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </td>
