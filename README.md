@@ -19,11 +19,11 @@ I'm really passionate about discovering new thing computer related.
 > `16 ▶️` ∙ **[Uchu Nekoko](https://www.last.fm/music/Uchu+Nekoko)**<br/>
 > `6 ▶️` ∙ **[Deftones](https://www.last.fm/music/Deftones)**<br/>
 > `5 ▶️` ∙ **[Red Hot Chili Peppers](https://www.last.fm/music/Red+Hot+Chili+Peppers)**<br/>
-> `4 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
 > `4 ▶️` ∙ **[System of a Down](https://www.last.fm/music/System+of+a+Down)**<br/>
 > `4 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
 > `3 ▶️` ∙ **[Atsushi Kitajoh](https://www.last.fm/music/Atsushi+Kitajoh)**<br/>
 > `3 ▶️` ∙ **[Crystal Castles](https://www.last.fm/music/Crystal+Castles)**<br/>
+> `3 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </td>
@@ -35,11 +35,11 @@ I'm really passionate about discovering new thing computer related.
 > `3 ▶️` ∙ **[Lonely Day](https://www.last.fm/music/System+of+a+Down/_/Lonely+Day)** - [System of a Down](https://www.last.fm/music/System+of+a+Down)<br/>
 > `2 ▶️` ∙ **[It's Going Down Now](https://www.last.fm/music/Atsushi+Kitajoh/_/It%27s+Going+Down+Now)** - [Atsushi Kitajoh](https://www.last.fm/music/Atsushi+Kitajoh)<br/>
 > `2 ▶️` ∙ **[Baptism](https://www.last.fm/music/Crystal+Castles/_/Baptism)** - [Crystal Castles](https://www.last.fm/music/Crystal+Castles)<br/>
-> `2 ▶️` ∙ **[Maelle](https://www.last.fm/music/Lorien+Testard/_/Maelle)** - [Lorien Testard](https://www.last.fm/music/Lorien+Testard)<br/>
 > `2 ▶️` ∙ **[hikage](https://www.last.fm/music/Uchu+Nekoko/_/hikage)** - [Uchu Nekoko](https://www.last.fm/music/Uchu+Nekoko)<br/>
 > `2 ▶️` ∙ **[Kimi No Youni Ikiretara Demo](https://www.last.fm/music/Uchu+Nekoko/_/Kimi+No+Youni+Ikiretara+Demo)** - [Uchu Nekoko](https://www.last.fm/music/Uchu+Nekoko)<br/>
 > `2 ▶️` ∙ **[Edge Of Chainsaw (Typhoon Version)](https://www.last.fm/music/%E7%89%9B%E5%B0%BE%E6%86%B2%E8%BC%94/_/Edge+Of+Chainsaw+(Typhoon+Version))** - [牛尾憲輔](https://www.last.fm/music/%E7%89%9B%E5%B0%BE%E6%86%B2%E8%BC%94)<br/>
 > `1 ▶️` ∙ **[hand crushed by a mallet](https://www.last.fm/music/100+gecs/_/hand+crushed+by+a+mallet)** - [100 gecs](https://www.last.fm/music/100+gecs)<br/>
+> `1 ▶️` ∙ **[水彩ラフ](https://www.last.fm/music/36g/_/%E6%B0%B4%E5%BD%A9%E3%83%A9%E3%83%95)** - [36g](https://www.last.fm/music/36g)<br/>
 <!--END_LASTFM_TRACKS-->
 
 </td>
