@@ -35,11 +35,11 @@ I'm really passionate about discovering new thing computer related.
 > `3 ▶️` ∙ **[Lonely Day](https://www.last.fm/music/System+of+a+Down/_/Lonely+Day)** - [System of a Down](https://www.last.fm/music/System+of+a+Down)<br/>
 > `2 ▶️` ∙ **[Baptism](https://www.last.fm/music/Crystal+Castles/_/Baptism)** - [Crystal Castles](https://www.last.fm/music/Crystal+Castles)<br/>
 > `2 ▶️` ∙ **[Be Quiet and Drive (Far Away)](https://www.last.fm/music/Deftones/_/Be+Quiet+and+Drive+(Far+Away))** - [Deftones](https://www.last.fm/music/Deftones)<br/>
+> `2 ▶️` ∙ **[PRIDE.](https://www.last.fm/music/Kendrick+Lamar/_/PRIDE.)** - [Kendrick Lamar](https://www.last.fm/music/Kendrick+Lamar)<br/>
 > `2 ▶️` ∙ **[hikage](https://www.last.fm/music/Uchu+Nekoko/_/hikage)** - [Uchu Nekoko](https://www.last.fm/music/Uchu+Nekoko)<br/>
 > `2 ▶️` ∙ **[Kimi No Youni Ikiretara Demo](https://www.last.fm/music/Uchu+Nekoko/_/Kimi+No+Youni+Ikiretara+Demo)** - [Uchu Nekoko](https://www.last.fm/music/Uchu+Nekoko)<br/>
 > `1 ▶️` ∙ **[hand crushed by a mallet](https://www.last.fm/music/100+gecs/_/hand+crushed+by+a+mallet)** - [100 gecs](https://www.last.fm/music/100+gecs)<br/>
 > `1 ▶️` ∙ **[水彩ラフ](https://www.last.fm/music/36g/_/%E6%B0%B4%E5%BD%A9%E3%83%A9%E3%83%95)** - [36g](https://www.last.fm/music/36g)<br/>
-> `1 ▶️` ∙ **[Komorebi](https://www.last.fm/music/Alcest/_/Komorebi)** - [Alcest](https://www.last.fm/music/Alcest)<br/>
 <!--END_LASTFM_TRACKS-->
 
 </td>
