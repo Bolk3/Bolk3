@@ -20,10 +20,10 @@ I'm really passionate about discovering new thing computer related.
 > `7 ▶️` ∙ **[Deftones](https://www.last.fm/music/Deftones)**<br/>
 > `5 ▶️` ∙ **[Red Hot Chili Peppers](https://www.last.fm/music/Red+Hot+Chili+Peppers)**<br/>
 > `4 ▶️` ∙ **[Crystal Castles](https://www.last.fm/music/Crystal+Castles)**<br/>
+> `4 ▶️` ∙ **[Grimes](https://www.last.fm/music/Grimes)**<br/>
+> `4 ▶️` ∙ **[Kendrick Lamar](https://www.last.fm/music/Kendrick+Lamar)**<br/>
+> `4 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
 > `4 ▶️` ∙ **[Shoji Meguro](https://www.last.fm/music/Shoji+Meguro)**<br/>
-> `4 ▶️` ∙ **[System of a Down](https://www.last.fm/music/System+of+a+Down)**<br/>
-> `4 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
-> `3 ▶️` ∙ **[American Football](https://www.last.fm/music/American+Football)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </td>
