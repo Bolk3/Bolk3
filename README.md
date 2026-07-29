@@ -22,8 +22,8 @@ I'm really passionate about discovering new thing computer related.
 > `4 ▶️` ∙ **[Grimes](https://www.last.fm/music/Grimes)**<br/>
 > `4 ▶️` ∙ **[Kendrick Lamar](https://www.last.fm/music/Kendrick+Lamar)**<br/>
 > `4 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
-> `4 ▶️` ∙ **[System of a Down](https://www.last.fm/music/System+of+a+Down)**<br/>
-> `4 ▶️` ∙ **[Vald](https://www.last.fm/music/Vald)**<br/>
+> `4 ▶️` ∙ **[Shoji Meguro](https://www.last.fm/music/Shoji+Meguro)**<br/>
+> `4 ▶️` ∙ **[Slipknot](https://www.last.fm/music/Slipknot)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </td>
