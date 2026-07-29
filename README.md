@@ -21,9 +21,9 @@ I'm really passionate about discovering new thing computer related.
 > `4 ▶️` ∙ **[Crystal Castles](https://www.last.fm/music/Crystal+Castles)**<br/>
 > `4 ▶️` ∙ **[Grimes](https://www.last.fm/music/Grimes)**<br/>
 > `4 ▶️` ∙ **[Kendrick Lamar](https://www.last.fm/music/Kendrick+Lamar)**<br/>
+> `4 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
 > `4 ▶️` ∙ **[System of a Down](https://www.last.fm/music/System+of+a+Down)**<br/>
-> `3 ▶️` ∙ **[American Football](https://www.last.fm/music/American+Football)**<br/>
-> `3 ▶️` ∙ **[Bring Me the Horizon](https://www.last.fm/music/Bring+Me+the+Horizon)**<br/>
+> `4 ▶️` ∙ **[Vald](https://www.last.fm/music/Vald)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </td>
@@ -37,9 +37,9 @@ I'm really passionate about discovering new thing computer related.
 > `2 ▶️` ∙ **[Be Quiet and Drive (Far Away)](https://www.last.fm/music/Deftones/_/Be+Quiet+and+Drive+(Far+Away))** - [Deftones](https://www.last.fm/music/Deftones)<br/>
 > `2 ▶️` ∙ **[PRIDE.](https://www.last.fm/music/Kendrick+Lamar/_/PRIDE.)** - [Kendrick Lamar](https://www.last.fm/music/Kendrick+Lamar)<br/>
 > `1 ▶️` ∙ **[hand crushed by a mallet](https://www.last.fm/music/100+gecs/_/hand+crushed+by+a+mallet)** - [100 gecs](https://www.last.fm/music/100+gecs)<br/>
+> `1 ▶️` ∙ **[シラミレミ](https://www.last.fm/music/36g/_/%E3%82%B7%E3%83%A9%E3%83%9F%E3%83%AC%E3%83%9F)** - [36g](https://www.last.fm/music/36g)<br/>
 > `1 ▶️` ∙ **[水彩ラフ](https://www.last.fm/music/36g/_/%E6%B0%B4%E5%BD%A9%E3%83%A9%E3%83%95)** - [36g](https://www.last.fm/music/36g)<br/>
 > `1 ▶️` ∙ **[Komorebi](https://www.last.fm/music/Alcest/_/Komorebi)** - [Alcest](https://www.last.fm/music/Alcest)<br/>
-> `1 ▶️` ∙ **[Heir Apparent](https://www.last.fm/music/American+Football/_/Heir+Apparent)** - [American Football](https://www.last.fm/music/American+Football)<br/>
 <!--END_LASTFM_TRACKS-->
 
 </td>
