@@ -19,11 +19,11 @@ I'm really passionate about discovering new thing computer related.
 > `5 ▶️` ∙ **[Kendrick Lamar](https://www.last.fm/music/Kendrick+Lamar)**<br/>
 > `5 ▶️` ∙ **[Red Hot Chili Peppers](https://www.last.fm/music/Red+Hot+Chili+Peppers)**<br/>
 > `4 ▶️` ∙ **[Crystal Castles](https://www.last.fm/music/Crystal+Castles)**<br/>
-> `4 ▶️` ∙ **[Deftones](https://www.last.fm/music/Deftones)**<br/>
 > `4 ▶️` ∙ **[Grimes](https://www.last.fm/music/Grimes)**<br/>
 > `4 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
 > `4 ▶️` ∙ **[Shoji Meguro](https://www.last.fm/music/Shoji+Meguro)**<br/>
 > `4 ▶️` ∙ **[Slipknot](https://www.last.fm/music/Slipknot)**<br/>
+> `4 ▶️` ∙ **[System of a Down](https://www.last.fm/music/System+of+a+Down)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </td>
