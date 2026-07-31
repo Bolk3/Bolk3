@@ -16,14 +16,14 @@ I'm really passionate about discovering new thing computer related.
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `5 ▶️` ∙ **[Kendrick Lamar](https://www.last.fm/music/Kendrick+Lamar)**<br/>
-> `5 ▶️` ∙ **[Red Hot Chili Peppers](https://www.last.fm/music/Red+Hot+Chili+Peppers)**<br/>
 > `4 ▶️` ∙ **[Crystal Castles](https://www.last.fm/music/Crystal+Castles)**<br/>
-> `4 ▶️` ∙ **[Grimes](https://www.last.fm/music/Grimes)**<br/>
+> `4 ▶️` ∙ **[Kendrick Lamar](https://www.last.fm/music/Kendrick+Lamar)**<br/>
 > `4 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
+> `4 ▶️` ∙ **[Red Hot Chili Peppers](https://www.last.fm/music/Red+Hot+Chili+Peppers)**<br/>
 > `4 ▶️` ∙ **[Shoji Meguro](https://www.last.fm/music/Shoji+Meguro)**<br/>
 > `4 ▶️` ∙ **[Slipknot](https://www.last.fm/music/Slipknot)**<br/>
 > `4 ▶️` ∙ **[System of a Down](https://www.last.fm/music/System+of+a+Down)**<br/>
+> `3 ▶️` ∙ **[Bring Me the Horizon](https://www.last.fm/music/Bring+Me+the+Horizon)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </td>
@@ -34,12 +34,12 @@ I'm really passionate about discovering new thing computer related.
 
 > `3 ▶️` ∙ **[Lonely Day](https://www.last.fm/music/System+of+a+Down/_/Lonely+Day)** - [System of a Down](https://www.last.fm/music/System+of+a+Down)<br/>
 > `2 ▶️` ∙ **[Baptism](https://www.last.fm/music/Crystal+Castles/_/Baptism)** - [Crystal Castles](https://www.last.fm/music/Crystal+Castles)<br/>
-> `2 ▶️` ∙ **[PRIDE.](https://www.last.fm/music/Kendrick+Lamar/_/PRIDE.)** - [Kendrick Lamar](https://www.last.fm/music/Kendrick+Lamar)<br/>
 > `1 ▶️` ∙ **[hand crushed by a mallet](https://www.last.fm/music/100+gecs/_/hand+crushed+by+a+mallet)** - [100 gecs](https://www.last.fm/music/100+gecs)<br/>
 > `1 ▶️` ∙ **[シラミレミ](https://www.last.fm/music/36g/_/%E3%82%B7%E3%83%A9%E3%83%9F%E3%83%AC%E3%83%9F)** - [36g](https://www.last.fm/music/36g)<br/>
 > `1 ▶️` ∙ **[Komorebi](https://www.last.fm/music/Alcest/_/Komorebi)** - [Alcest](https://www.last.fm/music/Alcest)<br/>
 > `1 ▶️` ∙ **[Heir Apparent](https://www.last.fm/music/American+Football/_/Heir+Apparent)** - [American Football](https://www.last.fm/music/American+Football)<br/>
 > `1 ▶️` ∙ **[The One With the Wurlitzer](https://www.last.fm/music/American+Football/_/The+One+With+the+Wurlitzer)** - [American Football](https://www.last.fm/music/American+Football)<br/>
+> `1 ▶️` ∙ **[Gonna Love Ya](https://www.last.fm/music/Avicii/_/Gonna+Love+Ya)** - [Avicii](https://www.last.fm/music/Avicii)<br/>
 <!--END_LASTFM_TRACKS-->
 
 </td>
