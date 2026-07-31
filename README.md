@@ -16,14 +16,14 @@ I'm really passionate about discovering new thing computer related.
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
+> `14 ▶️` ∙ **[System of a Down](https://www.last.fm/music/System+of+a+Down)**<br/>
+> `11 ▶️` ∙ **[Clairo](https://www.last.fm/music/Clairo)**<br/>
 > `8 ▶️` ∙ **[Red Hot Chili Peppers](https://www.last.fm/music/Red+Hot+Chili+Peppers)**<br/>
 > `6 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
+> `5 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
+> `4 ▶️` ∙ **[Avicii](https://www.last.fm/music/Avicii)**<br/>
 > `4 ▶️` ∙ **[Crystal Castles](https://www.last.fm/music/Crystal+Castles)**<br/>
 > `4 ▶️` ∙ **[Deftones](https://www.last.fm/music/Deftones)**<br/>
-> `4 ▶️` ∙ **[Kendrick Lamar](https://www.last.fm/music/Kendrick+Lamar)**<br/>
-> `4 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
-> `4 ▶️` ∙ **[Shoji Meguro](https://www.last.fm/music/Shoji+Meguro)**<br/>
-> `4 ▶️` ∙ **[Slipknot](https://www.last.fm/music/Slipknot)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </td>
