@@ -18,12 +18,12 @@ I'm really passionate about discovering new thing computer related.
 
 > `16 ▶️` ∙ **[System of a Down](https://www.last.fm/music/System+of+a+Down)**<br/>
 > `11 ▶️` ∙ **[Clairo](https://www.last.fm/music/Clairo)**<br/>
-> `8 ▶️` ∙ **[Red Hot Chili Peppers](https://www.last.fm/music/Red+Hot+Chili+Peppers)**<br/>
+> `9 ▶️` ∙ **[Red Hot Chili Peppers](https://www.last.fm/music/Red+Hot+Chili+Peppers)**<br/>
 > `6 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
 > `5 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
 > `4 ▶️` ∙ **[Avicii](https://www.last.fm/music/Avicii)**<br/>
 > `4 ▶️` ∙ **[Deftones](https://www.last.fm/music/Deftones)**<br/>
-> `4 ▶️` ∙ **[Shoji Meguro](https://www.last.fm/music/Shoji+Meguro)**<br/>
+> `4 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </td>
@@ -35,11 +35,11 @@ I'm really passionate about discovering new thing computer related.
 > `2 ▶️` ∙ **[Baptism](https://www.last.fm/music/Crystal+Castles/_/Baptism)** - [Crystal Castles](https://www.last.fm/music/Crystal+Castles)<br/>
 > `2 ▶️` ∙ **[Be Quiet and Drive (Far Away)](https://www.last.fm/music/Deftones/_/Be+Quiet+and+Drive+(Far+Away))** - [Deftones](https://www.last.fm/music/Deftones)<br/>
 > `2 ▶️` ∙ **[Can’t Stop](https://www.last.fm/music/Red+Hot+Chili+Peppers/_/Can%E2%80%99t+Stop)** - [Red Hot Chili Peppers](https://www.last.fm/music/Red+Hot+Chili+Peppers)<br/>
+> `2 ▶️` ∙ **[On Mercury](https://www.last.fm/music/Red+Hot+Chili+Peppers/_/On+Mercury)** - [Red Hot Chili Peppers](https://www.last.fm/music/Red+Hot+Chili+Peppers)<br/>
 > `2 ▶️` ∙ **[Scar Tissue](https://www.last.fm/music/Red+Hot+Chili+Peppers/_/Scar+Tissue)** - [Red Hot Chili Peppers](https://www.last.fm/music/Red+Hot+Chili+Peppers)<br/>
 > `2 ▶️` ∙ **[Lonely Day](https://www.last.fm/music/System+of+a+Down/_/Lonely+Day)** - [System of a Down](https://www.last.fm/music/System+of+a+Down)<br/>
 > `2 ▶️` ∙ **[Edge Of Chainsaw (Typhoon Version)](https://www.last.fm/music/%E7%89%9B%E5%B0%BE%E6%86%B2%E8%BC%94/_/Edge+Of+Chainsaw+(Typhoon+Version))** - [牛尾憲輔](https://www.last.fm/music/%E7%89%9B%E5%B0%BE%E6%86%B2%E8%BC%94)<br/>
 > `1 ▶️` ∙ **[hand crushed by a mallet](https://www.last.fm/music/100+gecs/_/hand+crushed+by+a+mallet)** - [100 gecs](https://www.last.fm/music/100+gecs)<br/>
-> `1 ▶️` ∙ **[シラミレミ](https://www.last.fm/music/36g/_/%E3%82%B7%E3%83%A9%E3%83%9F%E3%83%AC%E3%83%9F)** - [36g](https://www.last.fm/music/36g)<br/>
 <!--END_LASTFM_TRACKS-->
 
 </td>
