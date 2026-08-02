@@ -22,8 +22,8 @@ I'm really passionate about discovering new thing computer related.
 > `5 ▶️` ∙ **[Red Hot Chili Peppers](https://www.last.fm/music/Red+Hot+Chili+Peppers)**<br/>
 > `4 ▶️` ∙ **[Kendrick Lamar](https://www.last.fm/music/Kendrick+Lamar)**<br/>
 > `3 ▶️` ∙ **[Avicii](https://www.last.fm/music/Avicii)**<br/>
+> `3 ▶️` ∙ **[Charli xcx](https://www.last.fm/music/Charli+xcx)**<br/>
 > `3 ▶️` ∙ **[Deftones](https://www.last.fm/music/Deftones)**<br/>
-> `3 ▶️` ∙ **[Mick Gordon](https://www.last.fm/music/Mick+Gordon)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </td>
@@ -32,14 +32,14 @@ I'm really passionate about discovering new thing computer related.
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 8}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Tracks - Past Week**
 
+> `2 ▶️` ∙ **[claws](https://www.last.fm/music/Charli+xcx/_/claws)** - [Charli xcx](https://www.last.fm/music/Charli+xcx)<br/>
 > `2 ▶️` ∙ **[On Mercury](https://www.last.fm/music/Red+Hot+Chili+Peppers/_/On+Mercury)** - [Red Hot Chili Peppers](https://www.last.fm/music/Red+Hot+Chili+Peppers)<br/>
 > `1 ▶️` ∙ **[シラミレミ](https://www.last.fm/music/36g/_/%E3%82%B7%E3%83%A9%E3%83%9F%E3%83%AC%E3%83%9F)** - [36g](https://www.last.fm/music/36g)<br/>
 > `1 ▶️` ∙ **[The Line](https://www.last.fm/music/Arcane/_/The+Line)** - [Arcane](https://www.last.fm/music/Arcane)<br/>
+> `1 ▶️` ∙ **[This Is How It Should Be...](https://www.last.fm/music/Atsushi+Kitajoh/_/This+Is+How+It+Should+Be...)** - [Atsushi Kitajoh](https://www.last.fm/music/Atsushi+Kitajoh)<br/>
 > `1 ▶️` ∙ **[Addicted to You](https://www.last.fm/music/Avicii/_/Addicted+to+You)** - [Avicii](https://www.last.fm/music/Avicii)<br/>
 > `1 ▶️` ∙ **[True Believer](https://www.last.fm/music/Avicii/_/True+Believer)** - [Avicii](https://www.last.fm/music/Avicii)<br/>
 > `1 ▶️` ∙ **[You Make Me](https://www.last.fm/music/Avicii/_/You+Make+Me)** - [Avicii](https://www.last.fm/music/Avicii)<br/>
-> `1 ▶️` ∙ **[durag activity](https://www.last.fm/music/Baby+Keem/_/durag+activity)** - [Baby Keem](https://www.last.fm/music/Baby+Keem)<br/>
-> `1 ▶️` ∙ **[i love you](https://www.last.fm/music/Billie+Eilish/_/i+love+you)** - [Billie Eilish](https://www.last.fm/music/Billie+Eilish)<br/>
 <!--END_LASTFM_TRACKS-->
 
 </td>
