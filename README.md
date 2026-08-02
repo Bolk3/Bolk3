@@ -19,11 +19,11 @@ I'm really passionate about discovering new thing computer related.
 > `14 ▶️` ∙ **[System of a Down](https://www.last.fm/music/System+of+a+Down)**<br/>
 > `11 ▶️` ∙ **[Clairo](https://www.last.fm/music/Clairo)**<br/>
 > `6 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
-> `6 ▶️` ∙ **[Red Hot Chili Peppers](https://www.last.fm/music/Red+Hot+Chili+Peppers)**<br/>
-> `5 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
+> `5 ▶️` ∙ **[Red Hot Chili Peppers](https://www.last.fm/music/Red+Hot+Chili+Peppers)**<br/>
 > `4 ▶️` ∙ **[Deftones](https://www.last.fm/music/Deftones)**<br/>
 > `4 ▶️` ∙ **[Kendrick Lamar](https://www.last.fm/music/Kendrick+Lamar)**<br/>
 > `4 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
+> `3 ▶️` ∙ **[Avicii](https://www.last.fm/music/Avicii)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </td>
@@ -38,8 +38,8 @@ I'm really passionate about discovering new thing computer related.
 > `1 ▶️` ∙ **[シラミレミ](https://www.last.fm/music/36g/_/%E3%82%B7%E3%83%A9%E3%83%9F%E3%83%AC%E3%83%9F)** - [36g](https://www.last.fm/music/36g)<br/>
 > `1 ▶️` ∙ **[Komorebi](https://www.last.fm/music/Alcest/_/Komorebi)** - [Alcest](https://www.last.fm/music/Alcest)<br/>
 > `1 ▶️` ∙ **[Heir Apparent](https://www.last.fm/music/American+Football/_/Heir+Apparent)** - [American Football](https://www.last.fm/music/American+Football)<br/>
-> `1 ▶️` ∙ **[The One With the Wurlitzer](https://www.last.fm/music/American+Football/_/The+One+With+the+Wurlitzer)** - [American Football](https://www.last.fm/music/American+Football)<br/>
 > `1 ▶️` ∙ **[The Line](https://www.last.fm/music/Arcane/_/The+Line)** - [Arcane](https://www.last.fm/music/Arcane)<br/>
+> `1 ▶️` ∙ **[Addicted to You](https://www.last.fm/music/Avicii/_/Addicted+to+You)** - [Avicii](https://www.last.fm/music/Avicii)<br/>
 <!--END_LASTFM_TRACKS-->
 
 </td>
