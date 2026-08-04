@@ -18,12 +18,12 @@ I'm really passionate about discovering new thing computer related.
 
 > `15 ▶️` ∙ **[System of a Down](https://www.last.fm/music/System+of+a+Down)**<br/>
 > `11 ▶️` ∙ **[Clairo](https://www.last.fm/music/Clairo)**<br/>
-> `6 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
 > `5 ▶️` ∙ **[Red Hot Chili Peppers](https://www.last.fm/music/Red+Hot+Chili+Peppers)**<br/>
+> `4 ▶️` ∙ **[Charli xcx](https://www.last.fm/music/Charli+xcx)**<br/>
+> `4 ▶️` ∙ **[Kendrick Lamar](https://www.last.fm/music/Kendrick+Lamar)**<br/>
+> `4 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
 > `4 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
 > `3 ▶️` ∙ **[Avicii](https://www.last.fm/music/Avicii)**<br/>
-> `3 ▶️` ∙ **[Charli xcx](https://www.last.fm/music/Charli+xcx)**<br/>
-> `3 ▶️` ∙ **[Deftones](https://www.last.fm/music/Deftones)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </td>
