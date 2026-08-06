@@ -21,9 +21,9 @@ I'm really passionate about discovering new thing computer related.
 > `5 ▶️` ∙ **[Red Hot Chili Peppers](https://www.last.fm/music/Red+Hot+Chili+Peppers)**<br/>
 > `5 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
 > `4 ▶️` ∙ **[Charli xcx](https://www.last.fm/music/Charli+xcx)**<br/>
+> `4 ▶️` ∙ **[CHVRCHES](https://www.last.fm/music/CHVRCHES)**<br/>
 > `4 ▶️` ∙ **[Deftones](https://www.last.fm/music/Deftones)**<br/>
 > `4 ▶️` ∙ **[Kendrick Lamar](https://www.last.fm/music/Kendrick+Lamar)**<br/>
-> `4 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </td>
