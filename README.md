@@ -18,12 +18,12 @@ I'm really passionate about discovering new thing computer related.
 
 > `18 ▶️` ∙ **[System of a Down](https://www.last.fm/music/System+of+a+Down)**<br/>
 > `11 ▶️` ∙ **[Clairo](https://www.last.fm/music/Clairo)**<br/>
+> `6 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
 > `5 ▶️` ∙ **[Red Hot Chili Peppers](https://www.last.fm/music/Red+Hot+Chili+Peppers)**<br/>
-> `5 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
 > `4 ▶️` ∙ **[Charli xcx](https://www.last.fm/music/Charli+xcx)**<br/>
 > `4 ▶️` ∙ **[CHVRCHES](https://www.last.fm/music/CHVRCHES)**<br/>
 > `4 ▶️` ∙ **[Deftones](https://www.last.fm/music/Deftones)**<br/>
-> `4 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
+> `4 ▶️` ∙ **[Kendrick Lamar](https://www.last.fm/music/Kendrick+Lamar)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </td>
@@ -39,7 +39,7 @@ I'm really passionate about discovering new thing computer related.
 > `2 ▶️` ∙ **[Vicinity of Obscenity](https://www.last.fm/music/System+of+a+Down/_/Vicinity+of+Obscenity)** - [System of a Down](https://www.last.fm/music/System+of+a+Down)<br/>
 > `1 ▶️` ∙ **[The Line](https://www.last.fm/music/Arcane/_/The+Line)** - [Arcane](https://www.last.fm/music/Arcane)<br/>
 > `1 ▶️` ∙ **[This Is How It Should Be...](https://www.last.fm/music/Atsushi+Kitajoh/_/This+Is+How+It+Should+Be...)** - [Atsushi Kitajoh](https://www.last.fm/music/Atsushi+Kitajoh)<br/>
-> `1 ▶️` ∙ **[Addicted to You](https://www.last.fm/music/Avicii/_/Addicted+to+You)** - [Avicii](https://www.last.fm/music/Avicii)<br/>
+> `1 ▶️` ∙ **[Welcome Back, Master!](https://www.last.fm/music/Atsushi+Kitajoh/_/Welcome+Back,+Master!)** - [Atsushi Kitajoh](https://www.last.fm/music/Atsushi+Kitajoh)<br/>
 <!--END_LASTFM_TRACKS-->
 
 </td>
