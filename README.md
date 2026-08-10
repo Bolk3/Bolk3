@@ -23,7 +23,7 @@ I'm really passionate about discovering new thing computer related.
 > `2 ▶️` ∙ **[Charli xcx](https://www.last.fm/music/Charli+xcx)**<br/>
 > `2 ▶️` ∙ **[CHVRCHES](https://www.last.fm/music/CHVRCHES)**<br/>
 > `2 ▶️` ∙ **[Grimes](https://www.last.fm/music/Grimes)**<br/>
-> `1 ▶️` ∙ **[Atsushi Kitajoh](https://www.last.fm/music/Atsushi+Kitajoh)**<br/>
+> `2 ▶️` ∙ **[Imagine Dragons](https://www.last.fm/music/Imagine+Dragons)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </td>
