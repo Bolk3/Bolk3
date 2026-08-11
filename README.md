@@ -16,14 +16,14 @@ I'm really passionate about discovering new thing computer related.
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `4 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
+> `5 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
 > `4 ▶️` ∙ **[Metallica](https://www.last.fm/music/Metallica)**<br/>
 > `3 ▶️` ∙ **[Grimes](https://www.last.fm/music/Grimes)**<br/>
 > `3 ▶️` ∙ **[Muse](https://www.last.fm/music/Muse)**<br/>
+> `2 ▶️` ∙ **[Borislav Slavov](https://www.last.fm/music/Borislav+Slavov)**<br/>
 > `2 ▶️` ∙ **[CHVRCHES](https://www.last.fm/music/CHVRCHES)**<br/>
 > `2 ▶️` ∙ **[Imagine Dragons](https://www.last.fm/music/Imagine+Dragons)**<br/>
 > `2 ▶️` ∙ **[Kanye West](https://www.last.fm/music/Kanye+West)**<br/>
-> `2 ▶️` ∙ **[Queen](https://www.last.fm/music/Queen)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </td>
@@ -36,10 +36,10 @@ I'm really passionate about discovering new thing computer related.
 > `1 ▶️` ∙ **[Welcome Back, Master!](https://www.last.fm/music/Atsushi+Kitajoh/_/Welcome+Back,+Master!)** - [Atsushi Kitajoh](https://www.last.fm/music/Atsushi+Kitajoh)<br/>
 > `1 ▶️` ∙ **[Welcome](https://www.last.fm/music/b%C3%B4a/_/Welcome)** - [bôa](https://www.last.fm/music/b%C3%B4a)<br/>
 > `1 ▶️` ∙ **[Old Time Battles (Bard version)](https://www.last.fm/music/Borislav+Slavov/_/Old+Time+Battles+(Bard+version))** - [Borislav Slavov](https://www.last.fm/music/Borislav+Slavov)<br/>
+> `1 ▶️` ∙ **[Raphael’s Final Act](https://www.last.fm/music/Borislav+Slavov/_/Raphael%E2%80%99s+Final+Act)** - [Borislav Slavov](https://www.last.fm/music/Borislav+Slavov)<br/>
 > `1 ▶️` ∙ **[Queen Anne's Revenge](https://www.last.fm/music/Brian+Tyler/_/Queen+Anne%27s+Revenge)** - [Brian Tyler](https://www.last.fm/music/Brian+Tyler)<br/>
 > `1 ▶️` ∙ **[Kingslayer](https://www.last.fm/music/Bring+Me+the+Horizon/_/Kingslayer)** - [Bring Me the Horizon](https://www.last.fm/music/Bring+Me+the+Horizon)<br/>
 > `1 ▶️` ∙ **[I think about it all the time](https://www.last.fm/music/Charli+xcx/_/I+think+about+it+all+the+time)** - [Charli xcx](https://www.last.fm/music/Charli+xcx)<br/>
-> `1 ▶️` ∙ **[02 - Like A Starberry feat. Miki Furukawa](https://www.last.fm/music/Chocolat+-+Twinkle+Starberry/_/02+-+Like+A+Starberry+feat.+Miki+Furukawa)** - [Chocolat - Twinkle Starberry](https://www.last.fm/music/Chocolat+-+Twinkle+Starberry)<br/>
 <!--END_LASTFM_TRACKS-->
 
 </td>
