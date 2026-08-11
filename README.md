@@ -19,11 +19,11 @@ I'm really passionate about discovering new thing computer related.
 > `4 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
 > `4 ▶️` ∙ **[Metallica](https://www.last.fm/music/Metallica)**<br/>
 > `3 ▶️` ∙ **[Grimes](https://www.last.fm/music/Grimes)**<br/>
+> `3 ▶️` ∙ **[Muse](https://www.last.fm/music/Muse)**<br/>
 > `2 ▶️` ∙ **[CHVRCHES](https://www.last.fm/music/CHVRCHES)**<br/>
 > `2 ▶️` ∙ **[Imagine Dragons](https://www.last.fm/music/Imagine+Dragons)**<br/>
 > `2 ▶️` ∙ **[Kanye West](https://www.last.fm/music/Kanye+West)**<br/>
-> `2 ▶️` ∙ **[Muse](https://www.last.fm/music/Muse)**<br/>
-> `2 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
+> `2 ▶️` ∙ **[Queen](https://www.last.fm/music/Queen)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </td>
