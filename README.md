@@ -19,11 +19,11 @@ I'm really passionate about discovering new thing computer related.
 > `4 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
 > `4 ▶️` ∙ **[Metallica](https://www.last.fm/music/Metallica)**<br/>
 > `3 ▶️` ∙ **[Grimes](https://www.last.fm/music/Grimes)**<br/>
-> `3 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
-> `2 ▶️` ∙ **[Charli xcx](https://www.last.fm/music/Charli+xcx)**<br/>
 > `2 ▶️` ∙ **[CHVRCHES](https://www.last.fm/music/CHVRCHES)**<br/>
 > `2 ▶️` ∙ **[Imagine Dragons](https://www.last.fm/music/Imagine+Dragons)**<br/>
 > `2 ▶️` ∙ **[Kanye West](https://www.last.fm/music/Kanye+West)**<br/>
+> `2 ▶️` ∙ **[Muse](https://www.last.fm/music/Muse)**<br/>
+> `2 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </td>
@@ -38,8 +38,8 @@ I'm really passionate about discovering new thing computer related.
 > `1 ▶️` ∙ **[Old Time Battles (Bard version)](https://www.last.fm/music/Borislav+Slavov/_/Old+Time+Battles+(Bard+version))** - [Borislav Slavov](https://www.last.fm/music/Borislav+Slavov)<br/>
 > `1 ▶️` ∙ **[Queen Anne's Revenge](https://www.last.fm/music/Brian+Tyler/_/Queen+Anne%27s+Revenge)** - [Brian Tyler](https://www.last.fm/music/Brian+Tyler)<br/>
 > `1 ▶️` ∙ **[Kingslayer](https://www.last.fm/music/Bring+Me+the+Horizon/_/Kingslayer)** - [Bring Me the Horizon](https://www.last.fm/music/Bring+Me+the+Horizon)<br/>
-> `1 ▶️` ∙ **[Club classics](https://www.last.fm/music/Charli+xcx/_/Club+classics)** - [Charli xcx](https://www.last.fm/music/Charli+xcx)<br/>
 > `1 ▶️` ∙ **[I think about it all the time](https://www.last.fm/music/Charli+xcx/_/I+think+about+it+all+the+time)** - [Charli xcx](https://www.last.fm/music/Charli+xcx)<br/>
+> `1 ▶️` ∙ **[02 - Like A Starberry feat. Miki Furukawa](https://www.last.fm/music/Chocolat+-+Twinkle+Starberry/_/02+-+Like+A+Starberry+feat.+Miki+Furukawa)** - [Chocolat - Twinkle Starberry](https://www.last.fm/music/Chocolat+-+Twinkle+Starberry)<br/>
 <!--END_LASTFM_TRACKS-->
 
 </td>
