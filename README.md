@@ -17,13 +17,13 @@ I'm really passionate about discovering new thing computer related.
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `5 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
+> `4 ▶️` ∙ **[Jamie Christopherson](https://www.last.fm/music/Jamie+Christopherson)**<br/>
 > `4 ▶️` ∙ **[Metallica](https://www.last.fm/music/Metallica)**<br/>
 > `4 ▶️` ∙ **[Muse](https://www.last.fm/music/Muse)**<br/>
+> `3 ▶️` ∙ **[CHVRCHES](https://www.last.fm/music/CHVRCHES)**<br/>
 > `2 ▶️` ∙ **[Black Sabbath](https://www.last.fm/music/Black+Sabbath)**<br/>
 > `2 ▶️` ∙ **[Borislav Slavov](https://www.last.fm/music/Borislav+Slavov)**<br/>
-> `2 ▶️` ∙ **[CHVRCHES](https://www.last.fm/music/CHVRCHES)**<br/>
 > `2 ▶️` ∙ **[Grimes](https://www.last.fm/music/Grimes)**<br/>
-> `2 ▶️` ∙ **[Imagine Dragons](https://www.last.fm/music/Imagine+Dragons)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </td>
@@ -33,13 +33,13 @@ I'm really passionate about discovering new thing computer related.
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Tracks - Past Week**
 
 > `2 ▶️` ∙ **[Iron Man](https://www.last.fm/music/Black+Sabbath/_/Iron+Man)** - [Black Sabbath](https://www.last.fm/music/Black+Sabbath)<br/>
+> `2 ▶️` ∙ **[Graves](https://www.last.fm/music/CHVRCHES/_/Graves)** - [CHVRCHES](https://www.last.fm/music/CHVRCHES)<br/>
 > `2 ▶️` ∙ **[Gods & Monsters](https://www.last.fm/music/Lana+Del+Rey/_/Gods+&+Monsters)** - [Lana Del Rey](https://www.last.fm/music/Lana+Del+Rey)<br/>
 > `2 ▶️` ∙ **[Master of Puppets](https://www.last.fm/music/Metallica/_/Master+of+Puppets)** - [Metallica](https://www.last.fm/music/Metallica)<br/>
 > `1 ▶️` ∙ **[Re;lium](https://www.last.fm/music/36g/_/Re;lium)** - [36g](https://www.last.fm/music/36g)<br/>
 > `1 ▶️` ∙ **[Welcome Back, Master!](https://www.last.fm/music/Atsushi+Kitajoh/_/Welcome+Back,+Master!)** - [Atsushi Kitajoh](https://www.last.fm/music/Atsushi+Kitajoh)<br/>
 > `1 ▶️` ∙ **[Welcome](https://www.last.fm/music/b%C3%B4a/_/Welcome)** - [bôa](https://www.last.fm/music/b%C3%B4a)<br/>
 > `1 ▶️` ∙ **[Old Time Battles (Bard version)](https://www.last.fm/music/Borislav+Slavov/_/Old+Time+Battles+(Bard+version))** - [Borislav Slavov](https://www.last.fm/music/Borislav+Slavov)<br/>
-> `1 ▶️` ∙ **[Raphael’s Final Act](https://www.last.fm/music/Borislav+Slavov/_/Raphael%E2%80%99s+Final+Act)** - [Borislav Slavov](https://www.last.fm/music/Borislav+Slavov)<br/>
 <!--END_LASTFM_TRACKS-->
 
 </td>
