@@ -39,7 +39,7 @@ I'm really passionate about discovering new thing computer related.
 > `1 ▶️` ∙ **[Welcome](https://www.last.fm/music/b%C3%B4a/_/Welcome)** - [bôa](https://www.last.fm/music/b%C3%B4a)<br/>
 > `1 ▶️` ∙ **[Old Time Battles (Bard version)](https://www.last.fm/music/Borislav+Slavov/_/Old+Time+Battles+(Bard+version))** - [Borislav Slavov](https://www.last.fm/music/Borislav+Slavov)<br/>
 > `1 ▶️` ∙ **[Raphael’s Final Act](https://www.last.fm/music/Borislav+Slavov/_/Raphael%E2%80%99s+Final+Act)** - [Borislav Slavov](https://www.last.fm/music/Borislav+Slavov)<br/>
-> `1 ▶️` ∙ **[Queen Anne's Revenge](https://www.last.fm/music/Brian+Tyler/_/Queen+Anne%27s+Revenge)** - [Brian Tyler](https://www.last.fm/music/Brian+Tyler)<br/>
+> `1 ▶️` ∙ **[Kingslayer](https://www.last.fm/music/Bring+Me+the+Horizon/_/Kingslayer)** - [Bring Me the Horizon](https://www.last.fm/music/Bring+Me+the+Horizon)<br/>
 <!--END_LASTFM_TRACKS-->
 
 </td>
