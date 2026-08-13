@@ -22,8 +22,8 @@ I'm really passionate about discovering new thing computer related.
 > `3 ▶️` ∙ **[Muse](https://www.last.fm/music/Muse)**<br/>
 > `2 ▶️` ∙ **[Black Sabbath](https://www.last.fm/music/Black+Sabbath)**<br/>
 > `2 ▶️` ∙ **[Borislav Slavov](https://www.last.fm/music/Borislav+Slavov)**<br/>
-> `2 ▶️` ∙ **[Grimes](https://www.last.fm/music/Grimes)**<br/>
 > `2 ▶️` ∙ **[Imagine Dragons](https://www.last.fm/music/Imagine+Dragons)**<br/>
+> `2 ▶️` ∙ **[Lana Del Rey](https://www.last.fm/music/Lana+Del+Rey)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </td>
