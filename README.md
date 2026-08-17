@@ -21,9 +21,9 @@ I'm really passionate about discovering new thing computer related.
 > `3 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
 > `3 ▶️` ∙ **[Muse](https://www.last.fm/music/Muse)**<br/>
 > `2 ▶️` ∙ **[Black Sabbath](https://www.last.fm/music/Black+Sabbath)**<br/>
+> `2 ▶️` ∙ **[Borislav Slavov](https://www.last.fm/music/Borislav+Slavov)**<br/>
+> `2 ▶️` ∙ **[Kanye West](https://www.last.fm/music/Kanye+West)**<br/>
 > `2 ▶️` ∙ **[Manaka Kataoka](https://www.last.fm/music/Manaka+Kataoka)**<br/>
-> `2 ▶️` ∙ **[Queen](https://www.last.fm/music/Queen)**<br/>
-> `1 ▶️` ∙ **[36g](https://www.last.fm/music/36g)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </td>
@@ -36,10 +36,10 @@ I'm really passionate about discovering new thing computer related.
 > `2 ▶️` ∙ **[Master of Puppets](https://www.last.fm/music/Metallica/_/Master+of+Puppets)** - [Metallica](https://www.last.fm/music/Metallica)<br/>
 > `1 ▶️` ∙ **[Re;lium](https://www.last.fm/music/36g/_/Re;lium)** - [36g](https://www.last.fm/music/36g)<br/>
 > `1 ▶️` ∙ **[Welcome](https://www.last.fm/music/b%C3%B4a/_/Welcome)** - [bôa](https://www.last.fm/music/b%C3%B4a)<br/>
+> `1 ▶️` ∙ **[Lead Your Way](https://www.last.fm/music/Borislav+Slavov/_/Lead+Your+Way)** - [Borislav Slavov](https://www.last.fm/music/Borislav+Slavov)<br/>
 > `1 ▶️` ∙ **[Raphael’s Final Act](https://www.last.fm/music/Borislav+Slavov/_/Raphael%E2%80%99s+Final+Act)** - [Borislav Slavov](https://www.last.fm/music/Borislav+Slavov)<br/>
 > `1 ▶️` ∙ **[Kingslayer](https://www.last.fm/music/Bring+Me+the+Horizon/_/Kingslayer)** - [Bring Me the Horizon](https://www.last.fm/music/Bring+Me+the+Horizon)<br/>
 > `1 ▶️` ∙ **[I think about it all the time](https://www.last.fm/music/Charli+xcx/_/I+think+about+it+all+the+time)** - [Charli xcx](https://www.last.fm/music/Charli+xcx)<br/>
-> `1 ▶️` ∙ **[Graves](https://www.last.fm/music/CHVRCHES/_/Graves)** - [CHVRCHES](https://www.last.fm/music/CHVRCHES)<br/>
 <!--END_LASTFM_TRACKS-->
 
 </td>
