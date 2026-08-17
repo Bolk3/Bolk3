@@ -20,10 +20,10 @@ I'm really passionate about discovering new thing computer related.
 > `5 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
 > `3 ▶️` ∙ **[Borislav Slavov](https://www.last.fm/music/Borislav+Slavov)**<br/>
 > `3 ▶️` ∙ **[Kanye West](https://www.last.fm/music/Kanye+West)**<br/>
-> `3 ▶️` ∙ **[Metallica](https://www.last.fm/music/Metallica)**<br/>
 > `3 ▶️` ∙ **[Muse](https://www.last.fm/music/Muse)**<br/>
 > `3 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
 > `2 ▶️` ∙ **[Black Sabbath](https://www.last.fm/music/Black+Sabbath)**<br/>
+> `2 ▶️` ∙ **[Bring Me the Horizon](https://www.last.fm/music/Bring+Me+the+Horizon)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </td>
