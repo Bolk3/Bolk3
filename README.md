@@ -37,9 +37,9 @@ I'm really passionate about discovering new thing computer related.
 > `1 ▶️` ∙ **[Hollywood Baby](https://www.last.fm/music/100+gecs/_/Hollywood+Baby)** - [100 gecs](https://www.last.fm/music/100+gecs)<br/>
 > `1 ▶️` ∙ **[Re;lium](https://www.last.fm/music/36g/_/Re;lium)** - [36g](https://www.last.fm/music/36g)<br/>
 > `1 ▶️` ∙ **[Welcome](https://www.last.fm/music/b%C3%B4a/_/Welcome)** - [bôa](https://www.last.fm/music/b%C3%B4a)<br/>
+> `1 ▶️` ∙ **[Talion](https://www.last.fm/music/Booba/_/Talion)** - [Booba](https://www.last.fm/music/Booba)<br/>
 > `1 ▶️` ∙ **[Lead Your Way](https://www.last.fm/music/Borislav+Slavov/_/Lead+Your+Way)** - [Borislav Slavov](https://www.last.fm/music/Borislav+Slavov)<br/>
 > `1 ▶️` ∙ **[Main Theme, Part I](https://www.last.fm/music/Borislav+Slavov/_/Main+Theme,+Part+I)** - [Borislav Slavov](https://www.last.fm/music/Borislav+Slavov)<br/>
-> `1 ▶️` ∙ **[Raphael’s Final Act](https://www.last.fm/music/Borislav+Slavov/_/Raphael%E2%80%99s+Final+Act)** - [Borislav Slavov](https://www.last.fm/music/Borislav+Slavov)<br/>
 <!--END_LASTFM_TRACKS-->
 
 </td>
