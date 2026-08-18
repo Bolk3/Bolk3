@@ -17,13 +17,13 @@ I'm really passionate about discovering new thing computer related.
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `5 ▶️` ∙ **[Jamie Christopherson](https://www.last.fm/music/Jamie+Christopherson)**<br/>
-> `4 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
+> `5 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
 > `3 ▶️` ∙ **[Borislav Slavov](https://www.last.fm/music/Borislav+Slavov)**<br/>
+> `3 ▶️` ∙ **[Muse](https://www.last.fm/music/Muse)**<br/>
 > `3 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
 > `2 ▶️` ∙ **[Black Sabbath](https://www.last.fm/music/Black+Sabbath)**<br/>
 > `2 ▶️` ∙ **[Kanye West](https://www.last.fm/music/Kanye+West)**<br/>
 > `2 ▶️` ∙ **[Linkin Park](https://www.last.fm/music/Linkin+Park)**<br/>
-> `2 ▶️` ∙ **[Manaka Kataoka](https://www.last.fm/music/Manaka+Kataoka)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </td>
