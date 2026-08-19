@@ -39,7 +39,7 @@ I'm really passionate about discovering new thing computer related.
 > `1 ▶️` ∙ **[Main Theme, Part I](https://www.last.fm/music/Borislav+Slavov/_/Main+Theme,+Part+I)** - [Borislav Slavov](https://www.last.fm/music/Borislav+Slavov)<br/>
 > `1 ▶️` ∙ **[R.i.p. (duskCOre RemIx)](https://www.last.fm/music/Bring+Me+the+Horizon/_/R.i.p.+(duskCOre+RemIx))** - [Bring Me the Horizon](https://www.last.fm/music/Bring+Me+the+Horizon)<br/>
 > `1 ▶️` ∙ **[Chirp](https://www.last.fm/music/C418/_/Chirp)** - [C418](https://www.last.fm/music/C418)<br/>
-> `1 ▶️` ∙ **[Graves](https://www.last.fm/music/CHVRCHES/_/Graves)** - [CHVRCHES](https://www.last.fm/music/CHVRCHES)<br/>
+> `1 ▶️` ∙ **[Juna](https://www.last.fm/music/Clairo/_/Juna)** - [Clairo](https://www.last.fm/music/Clairo)<br/>
 <!--END_LASTFM_TRACKS-->
 
 </td>
