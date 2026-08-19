@@ -22,8 +22,8 @@ I'm really passionate about discovering new thing computer related.
 > `2 ▶️` ∙ **[Black Sabbath](https://www.last.fm/music/Black+Sabbath)**<br/>
 > `2 ▶️` ∙ **[Borislav Slavov](https://www.last.fm/music/Borislav+Slavov)**<br/>
 > `2 ▶️` ∙ **[Kanye West](https://www.last.fm/music/Kanye+West)**<br/>
+> `2 ▶️` ∙ **[Kota Suzuki](https://www.last.fm/music/Kota+Suzuki)**<br/>
 > `2 ▶️` ∙ **[Linkin Park](https://www.last.fm/music/Linkin+Park)**<br/>
-> `2 ▶️` ∙ **[Muse](https://www.last.fm/music/Muse)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </td>
