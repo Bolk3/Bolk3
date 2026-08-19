@@ -21,9 +21,9 @@ I'm really passionate about discovering new thing computer related.
 > `3 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
 > `2 ▶️` ∙ **[Borislav Slavov](https://www.last.fm/music/Borislav+Slavov)**<br/>
 > `2 ▶️` ∙ **[Kanye West](https://www.last.fm/music/Kanye+West)**<br/>
-> `2 ▶️` ∙ **[Kota Suzuki](https://www.last.fm/music/Kota+Suzuki)**<br/>
 > `2 ▶️` ∙ **[Linkin Park](https://www.last.fm/music/Linkin+Park)**<br/>
-> `2 ▶️` ∙ **[Playboi Carti](https://www.last.fm/music/Playboi+Carti)**<br/>
+> `2 ▶️` ∙ **[Sewerslvt](https://www.last.fm/music/Sewerslvt)**<br/>
+> `1 ▶️` ∙ **[100 gecs](https://www.last.fm/music/100+gecs)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </td>
@@ -33,13 +33,13 @@ I'm really passionate about discovering new thing computer related.
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Tracks - Past Week**
 
 > `1 ▶️` ∙ **[Hollywood Baby](https://www.last.fm/music/100+gecs/_/Hollywood+Baby)** - [100 gecs](https://www.last.fm/music/100+gecs)<br/>
-> `1 ▶️` ∙ **[Re;lium](https://www.last.fm/music/36g/_/Re;lium)** - [36g](https://www.last.fm/music/36g)<br/>
 > `1 ▶️` ∙ **[Sucker](https://www.last.fm/music/Arcane/_/Sucker)** - [Arcane](https://www.last.fm/music/Arcane)<br/>
 > `1 ▶️` ∙ **[Talion](https://www.last.fm/music/Booba/_/Talion)** - [Booba](https://www.last.fm/music/Booba)<br/>
 > `1 ▶️` ∙ **[Lead Your Way](https://www.last.fm/music/Borislav+Slavov/_/Lead+Your+Way)** - [Borislav Slavov](https://www.last.fm/music/Borislav+Slavov)<br/>
 > `1 ▶️` ∙ **[Main Theme, Part I](https://www.last.fm/music/Borislav+Slavov/_/Main+Theme,+Part+I)** - [Borislav Slavov](https://www.last.fm/music/Borislav+Slavov)<br/>
 > `1 ▶️` ∙ **[R.i.p. (duskCOre RemIx)](https://www.last.fm/music/Bring+Me+the+Horizon/_/R.i.p.+(duskCOre+RemIx))** - [Bring Me the Horizon](https://www.last.fm/music/Bring+Me+the+Horizon)<br/>
 > `1 ▶️` ∙ **[Chirp](https://www.last.fm/music/C418/_/Chirp)** - [C418](https://www.last.fm/music/C418)<br/>
+> `1 ▶️` ∙ **[Graves](https://www.last.fm/music/CHVRCHES/_/Graves)** - [CHVRCHES](https://www.last.fm/music/CHVRCHES)<br/>
 <!--END_LASTFM_TRACKS-->
 
 </td>
