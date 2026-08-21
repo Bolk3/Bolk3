@@ -16,7 +16,7 @@ I'm really passionate about discovering new thing computer related.
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `4 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
+> `5 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
 > `3 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
 > `2 ▶️` ∙ **[Borislav Slavov](https://www.last.fm/music/Borislav+Slavov)**<br/>
 > `2 ▶️` ∙ **[C418](https://www.last.fm/music/C418)**<br/>
@@ -34,12 +34,12 @@ I'm really passionate about discovering new thing computer related.
 
 > `1 ▶️` ∙ **[Hollywood Baby](https://www.last.fm/music/100+gecs/_/Hollywood+Baby)** - [100 gecs](https://www.last.fm/music/100+gecs)<br/>
 > `1 ▶️` ∙ **[Sucker](https://www.last.fm/music/Arcane/_/Sucker)** - [Arcane](https://www.last.fm/music/Arcane)<br/>
+> `1 ▶️` ∙ **[Sunset Jesus](https://www.last.fm/music/Avicii/_/Sunset+Jesus)** - [Avicii](https://www.last.fm/music/Avicii)<br/>
 > `1 ▶️` ∙ **[Talion](https://www.last.fm/music/Booba/_/Talion)** - [Booba](https://www.last.fm/music/Booba)<br/>
 > `1 ▶️` ∙ **[Lead Your Way](https://www.last.fm/music/Borislav+Slavov/_/Lead+Your+Way)** - [Borislav Slavov](https://www.last.fm/music/Borislav+Slavov)<br/>
 > `1 ▶️` ∙ **[Main Theme, Part I](https://www.last.fm/music/Borislav+Slavov/_/Main+Theme,+Part+I)** - [Borislav Slavov](https://www.last.fm/music/Borislav+Slavov)<br/>
 > `1 ▶️` ∙ **[R.i.p. (duskCOre RemIx)](https://www.last.fm/music/Bring+Me+the+Horizon/_/R.i.p.+(duskCOre+RemIx))** - [Bring Me the Horizon](https://www.last.fm/music/Bring+Me+the+Horizon)<br/>
 > `1 ▶️` ∙ **[Alpha](https://www.last.fm/music/C418/_/Alpha)** - [C418](https://www.last.fm/music/C418)<br/>
-> `1 ▶️` ∙ **[Chirp](https://www.last.fm/music/C418/_/Chirp)** - [C418](https://www.last.fm/music/C418)<br/>
 <!--END_LASTFM_TRACKS-->
 
 </td>
