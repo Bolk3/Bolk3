@@ -21,9 +21,9 @@ I'm really passionate about discovering new thing computer related.
 > `3 ▶️` ∙ **[Maasa Miyoshi](https://www.last.fm/music/Maasa+Miyoshi)**<br/>
 > `2 ▶️` ∙ **[Borislav Slavov](https://www.last.fm/music/Borislav+Slavov)**<br/>
 > `2 ▶️` ∙ **[C418](https://www.last.fm/music/C418)**<br/>
+> `2 ▶️` ∙ **[Coldplay](https://www.last.fm/music/Coldplay)**<br/>
 > `2 ▶️` ∙ **[FROMSOFTWARE](https://www.last.fm/music/FROMSOFTWARE)**<br/>
 > `2 ▶️` ∙ **[Kanye West](https://www.last.fm/music/Kanye+West)**<br/>
-> `2 ▶️` ∙ **[Linkin Park](https://www.last.fm/music/Linkin+Park)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </td>
