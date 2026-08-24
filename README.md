@@ -20,10 +20,10 @@ I'm really passionate about discovering new thing computer related.
 > `4 ▶️` ∙ **[Maasa Miyoshi](https://www.last.fm/music/Maasa+Miyoshi)**<br/>
 > `4 ▶️` ∙ **[Playboi Carti](https://www.last.fm/music/Playboi+Carti)**<br/>
 > `3 ▶️` ∙ **[C418](https://www.last.fm/music/C418)**<br/>
-> `3 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
 > `2 ▶️` ∙ **[Crystal Castles](https://www.last.fm/music/Crystal+Castles)**<br/>
 > `2 ▶️` ∙ **[Freeze Corleone](https://www.last.fm/music/Freeze+Corleone)**<br/>
-> `2 ▶️` ∙ **[Lyn](https://www.last.fm/music/Lyn)**<br/>
+> `2 ▶️` ∙ **[MF DOOM](https://www.last.fm/music/MF+DOOM)**<br/>
+> `2 ▶️` ∙ **[Mick Gordon](https://www.last.fm/music/Mick+Gordon)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </td>
