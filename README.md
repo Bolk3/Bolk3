@@ -16,14 +16,14 @@ I'm really passionate about discovering new thing computer related.
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `6 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
-> `4 ▶️` ∙ **[Maasa Miyoshi](https://www.last.fm/music/Maasa+Miyoshi)**<br/>
+> `5 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
 > `4 ▶️` ∙ **[Playboi Carti](https://www.last.fm/music/Playboi+Carti)**<br/>
-> `3 ▶️` ∙ **[C418](https://www.last.fm/music/C418)**<br/>
+> `3 ▶️` ∙ **[Maasa Miyoshi](https://www.last.fm/music/Maasa+Miyoshi)**<br/>
+> `2 ▶️` ∙ **[C418](https://www.last.fm/music/C418)**<br/>
 > `2 ▶️` ∙ **[Crystal Castles](https://www.last.fm/music/Crystal+Castles)**<br/>
 > `2 ▶️` ∙ **[Freeze Corleone](https://www.last.fm/music/Freeze+Corleone)**<br/>
 > `2 ▶️` ∙ **[MF DOOM](https://www.last.fm/music/MF+DOOM)**<br/>
-> `2 ▶️` ∙ **[Mick Gordon](https://www.last.fm/music/Mick+Gordon)**<br/>
+> `2 ▶️` ∙ **[Muse](https://www.last.fm/music/Muse)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </td>
@@ -37,9 +37,9 @@ I'm really passionate about discovering new thing computer related.
 > `1 ▶️` ∙ **[Until Next Life](https://www.last.fm/music/Ben+Starr/_/Until+Next+Life)** - [Ben Starr](https://www.last.fm/music/Ben+Starr)<br/>
 > `1 ▶️` ∙ **[Real Window](https://www.last.fm/music/Brian+Aspey/_/Real+Window)** - [Brian Aspey](https://www.last.fm/music/Brian+Aspey)<br/>
 > `1 ▶️` ∙ **[Alpha](https://www.last.fm/music/C418/_/Alpha)** - [C418](https://www.last.fm/music/C418)<br/>
-> `1 ▶️` ∙ **[Chirp](https://www.last.fm/music/C418/_/Chirp)** - [C418](https://www.last.fm/music/C418)<br/>
 > `1 ▶️` ∙ **[Stal](https://www.last.fm/music/C418/_/Stal)** - [C418](https://www.last.fm/music/C418)<br/>
 > `1 ▶️` ∙ **[Beg For You](https://www.last.fm/music/Charli+xcx/_/Beg+For+You)** - [Charli xcx](https://www.last.fm/music/Charli+xcx)<br/>
+> `1 ▶️` ∙ **[Hymn for the Weekend](https://www.last.fm/music/Coldplay/_/Hymn+for+the+Weekend)** - [Coldplay](https://www.last.fm/music/Coldplay)<br/>
 <!--END_LASTFM_TRACKS-->
 
 </td>
