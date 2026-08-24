@@ -21,9 +21,9 @@ I'm really passionate about discovering new thing computer related.
 > `4 ▶️` ∙ **[Playboi Carti](https://www.last.fm/music/Playboi+Carti)**<br/>
 > `4 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
 > `3 ▶️` ∙ **[C418](https://www.last.fm/music/C418)**<br/>
-> `2 ▶️` ∙ **[Borislav Slavov](https://www.last.fm/music/Borislav+Slavov)**<br/>
 > `2 ▶️` ∙ **[Coldplay](https://www.last.fm/music/Coldplay)**<br/>
 > `2 ▶️` ∙ **[Crystal Castles](https://www.last.fm/music/Crystal+Castles)**<br/>
+> `2 ▶️` ∙ **[Freeze Corleone](https://www.last.fm/music/Freeze+Corleone)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </td>
@@ -37,9 +37,9 @@ I'm really passionate about discovering new thing computer related.
 > `1 ▶️` ∙ **[Sunset Jesus](https://www.last.fm/music/Avicii/_/Sunset+Jesus)** - [Avicii](https://www.last.fm/music/Avicii)<br/>
 > `1 ▶️` ∙ **[Until Next Life](https://www.last.fm/music/Ben+Starr/_/Until+Next+Life)** - [Ben Starr](https://www.last.fm/music/Ben+Starr)<br/>
 > `1 ▶️` ∙ **[Talion](https://www.last.fm/music/Booba/_/Talion)** - [Booba](https://www.last.fm/music/Booba)<br/>
-> `1 ▶️` ∙ **[Lead Your Way](https://www.last.fm/music/Borislav+Slavov/_/Lead+Your+Way)** - [Borislav Slavov](https://www.last.fm/music/Borislav+Slavov)<br/>
 > `1 ▶️` ∙ **[Main Theme, Part I](https://www.last.fm/music/Borislav+Slavov/_/Main+Theme,+Part+I)** - [Borislav Slavov](https://www.last.fm/music/Borislav+Slavov)<br/>
 > `1 ▶️` ∙ **[Real Window](https://www.last.fm/music/Brian+Aspey/_/Real+Window)** - [Brian Aspey](https://www.last.fm/music/Brian+Aspey)<br/>
+> `1 ▶️` ∙ **[R.i.p. (duskCOre RemIx)](https://www.last.fm/music/Bring+Me+the+Horizon/_/R.i.p.+(duskCOre+RemIx))** - [Bring Me the Horizon](https://www.last.fm/music/Bring+Me+the+Horizon)<br/>
 <!--END_LASTFM_TRACKS-->
 
 </td>
