@@ -19,8 +19,8 @@ I'm really passionate about discovering new thing computer related.
 > `7 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
 > `4 ▶️` ∙ **[Maasa Miyoshi](https://www.last.fm/music/Maasa+Miyoshi)**<br/>
 > `4 ▶️` ∙ **[Playboi Carti](https://www.last.fm/music/Playboi+Carti)**<br/>
-> `4 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
 > `3 ▶️` ∙ **[C418](https://www.last.fm/music/C418)**<br/>
+> `3 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
 > `2 ▶️` ∙ **[Coldplay](https://www.last.fm/music/Coldplay)**<br/>
 > `2 ▶️` ∙ **[Crystal Castles](https://www.last.fm/music/Crystal+Castles)**<br/>
 > `2 ▶️` ∙ **[Freeze Corleone](https://www.last.fm/music/Freeze+Corleone)**<br/>
@@ -32,14 +32,14 @@ I'm really passionate about discovering new thing computer related.
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 8}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Tracks - Past Week**
 
-> `1 ▶️` ∙ **[Hollywood Baby](https://www.last.fm/music/100+gecs/_/Hollywood+Baby)** - [100 gecs](https://www.last.fm/music/100+gecs)<br/>
 > `1 ▶️` ∙ **[Sucker](https://www.last.fm/music/Arcane/_/Sucker)** - [Arcane](https://www.last.fm/music/Arcane)<br/>
 > `1 ▶️` ∙ **[Sunset Jesus](https://www.last.fm/music/Avicii/_/Sunset+Jesus)** - [Avicii](https://www.last.fm/music/Avicii)<br/>
 > `1 ▶️` ∙ **[Until Next Life](https://www.last.fm/music/Ben+Starr/_/Until+Next+Life)** - [Ben Starr](https://www.last.fm/music/Ben+Starr)<br/>
 > `1 ▶️` ∙ **[Talion](https://www.last.fm/music/Booba/_/Talion)** - [Booba](https://www.last.fm/music/Booba)<br/>
-> `1 ▶️` ∙ **[Main Theme, Part I](https://www.last.fm/music/Borislav+Slavov/_/Main+Theme,+Part+I)** - [Borislav Slavov](https://www.last.fm/music/Borislav+Slavov)<br/>
 > `1 ▶️` ∙ **[Real Window](https://www.last.fm/music/Brian+Aspey/_/Real+Window)** - [Brian Aspey](https://www.last.fm/music/Brian+Aspey)<br/>
-> `1 ▶️` ∙ **[R.i.p. (duskCOre RemIx)](https://www.last.fm/music/Bring+Me+the+Horizon/_/R.i.p.+(duskCOre+RemIx))** - [Bring Me the Horizon](https://www.last.fm/music/Bring+Me+the+Horizon)<br/>
+> `1 ▶️` ∙ **[Alpha](https://www.last.fm/music/C418/_/Alpha)** - [C418](https://www.last.fm/music/C418)<br/>
+> `1 ▶️` ∙ **[Chirp](https://www.last.fm/music/C418/_/Chirp)** - [C418](https://www.last.fm/music/C418)<br/>
+> `1 ▶️` ∙ **[Stal](https://www.last.fm/music/C418/_/Stal)** - [C418](https://www.last.fm/music/C418)<br/>
 <!--END_LASTFM_TRACKS-->
 
 </td>
