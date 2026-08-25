@@ -23,7 +23,7 @@ I'm really passionate about discovering new thing computer related.
 > `2 ▶️` ∙ **[Crystal Castles](https://www.last.fm/music/Crystal+Castles)**<br/>
 > `2 ▶️` ∙ **[Freeze Corleone](https://www.last.fm/music/Freeze+Corleone)**<br/>
 > `2 ▶️` ∙ **[MF DOOM](https://www.last.fm/music/MF+DOOM)**<br/>
-> `2 ▶️` ∙ **[Muse](https://www.last.fm/music/Muse)**<br/>
+> `2 ▶️` ∙ **[The Weeknd](https://www.last.fm/music/The+Weeknd)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </td>
