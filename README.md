@@ -16,9 +16,9 @@ I'm really passionate about discovering new thing computer related.
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `5 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
-> `4 ▶️` ∙ **[Playboi Carti](https://www.last.fm/music/Playboi+Carti)**<br/>
+> `3 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
 > `3 ▶️` ∙ **[Maasa Miyoshi](https://www.last.fm/music/Maasa+Miyoshi)**<br/>
+> `3 ▶️` ∙ **[Playboi Carti](https://www.last.fm/music/Playboi+Carti)**<br/>
 > `2 ▶️` ∙ **[C418](https://www.last.fm/music/C418)**<br/>
 > `2 ▶️` ∙ **[Crystal Castles](https://www.last.fm/music/Crystal+Castles)**<br/>
 > `2 ▶️` ∙ **[Freeze Corleone](https://www.last.fm/music/Freeze+Corleone)**<br/>
@@ -32,7 +32,6 @@ I'm really passionate about discovering new thing computer related.
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 8}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Tracks - Past Week**
 
-> `1 ▶️` ∙ **[Sucker](https://www.last.fm/music/Arcane/_/Sucker)** - [Arcane](https://www.last.fm/music/Arcane)<br/>
 > `1 ▶️` ∙ **[Sunset Jesus](https://www.last.fm/music/Avicii/_/Sunset+Jesus)** - [Avicii](https://www.last.fm/music/Avicii)<br/>
 > `1 ▶️` ∙ **[Until Next Life](https://www.last.fm/music/Ben+Starr/_/Until+Next+Life)** - [Ben Starr](https://www.last.fm/music/Ben+Starr)<br/>
 > `1 ▶️` ∙ **[Real Window](https://www.last.fm/music/Brian+Aspey/_/Real+Window)** - [Brian Aspey](https://www.last.fm/music/Brian+Aspey)<br/>
@@ -40,6 +39,7 @@ I'm really passionate about discovering new thing computer related.
 > `1 ▶️` ∙ **[Stal](https://www.last.fm/music/C418/_/Stal)** - [C418](https://www.last.fm/music/C418)<br/>
 > `1 ▶️` ∙ **[Beg For You](https://www.last.fm/music/Charli+xcx/_/Beg+For+You)** - [Charli xcx](https://www.last.fm/music/Charli+xcx)<br/>
 > `1 ▶️` ∙ **[Hymn for the Weekend](https://www.last.fm/music/Coldplay/_/Hymn+for+the+Weekend)** - [Coldplay](https://www.last.fm/music/Coldplay)<br/>
+> `1 ▶️` ∙ **[Suffocation](https://www.last.fm/music/Crystal+Castles/_/Suffocation)** - [Crystal Castles](https://www.last.fm/music/Crystal+Castles)<br/>
 <!--END_LASTFM_TRACKS-->
 
 </td>
