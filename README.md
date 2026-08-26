@@ -19,11 +19,11 @@ I'm really passionate about discovering new thing computer related.
 > `3 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
 > `3 ▶️` ∙ **[Maasa Miyoshi](https://www.last.fm/music/Maasa+Miyoshi)**<br/>
 > `3 ▶️` ∙ **[Playboi Carti](https://www.last.fm/music/Playboi+Carti)**<br/>
+> `3 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
 > `2 ▶️` ∙ **[C418](https://www.last.fm/music/C418)**<br/>
 > `2 ▶️` ∙ **[Crystal Castles](https://www.last.fm/music/Crystal+Castles)**<br/>
 > `2 ▶️` ∙ **[Freeze Corleone](https://www.last.fm/music/Freeze+Corleone)**<br/>
 > `2 ▶️` ∙ **[The Weeknd](https://www.last.fm/music/The+Weeknd)**<br/>
-> `2 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </td>
@@ -34,12 +34,12 @@ I'm really passionate about discovering new thing computer related.
 
 > `1 ▶️` ∙ **[Sunset Jesus](https://www.last.fm/music/Avicii/_/Sunset+Jesus)** - [Avicii](https://www.last.fm/music/Avicii)<br/>
 > `1 ▶️` ∙ **[Until Next Life](https://www.last.fm/music/Ben+Starr/_/Until+Next+Life)** - [Ben Starr](https://www.last.fm/music/Ben+Starr)<br/>
+> `1 ▶️` ∙ **[Stackoverflow](https://www.last.fm/music/Blue+Stahli/_/Stackoverflow)** - [Blue Stahli](https://www.last.fm/music/Blue+Stahli)<br/>
 > `1 ▶️` ∙ **[Real Window](https://www.last.fm/music/Brian+Aspey/_/Real+Window)** - [Brian Aspey](https://www.last.fm/music/Brian+Aspey)<br/>
 > `1 ▶️` ∙ **[Alpha](https://www.last.fm/music/C418/_/Alpha)** - [C418](https://www.last.fm/music/C418)<br/>
 > `1 ▶️` ∙ **[Stal](https://www.last.fm/music/C418/_/Stal)** - [C418](https://www.last.fm/music/C418)<br/>
 > `1 ▶️` ∙ **[Beg For You](https://www.last.fm/music/Charli+xcx/_/Beg+For+You)** - [Charli xcx](https://www.last.fm/music/Charli+xcx)<br/>
 > `1 ▶️` ∙ **[Hymn for the Weekend](https://www.last.fm/music/Coldplay/_/Hymn+for+the+Weekend)** - [Coldplay](https://www.last.fm/music/Coldplay)<br/>
-> `1 ▶️` ∙ **[Suffocation](https://www.last.fm/music/Crystal+Castles/_/Suffocation)** - [Crystal Castles](https://www.last.fm/music/Crystal+Castles)<br/>
 <!--END_LASTFM_TRACKS-->
 
 </td>
