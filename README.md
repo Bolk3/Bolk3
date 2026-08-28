@@ -16,14 +16,14 @@ I'm really passionate about discovering new thing computer related.
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
+> `4 ▶️` ∙ **[The Weeknd](https://www.last.fm/music/The+Weeknd)**<br/>
 > `3 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
-> `3 ▶️` ∙ **[Playboi Carti](https://www.last.fm/music/Playboi+Carti)**<br/>
-> `3 ▶️` ∙ **[The Weeknd](https://www.last.fm/music/The+Weeknd)**<br/>
+> `2 ▶️` ∙ **[Crystal Castles](https://www.last.fm/music/Crystal+Castles)**<br/>
 > `2 ▶️` ∙ **[Deftones](https://www.last.fm/music/Deftones)**<br/>
-> `2 ▶️` ∙ **[Maasa Miyoshi](https://www.last.fm/music/Maasa+Miyoshi)**<br/>
-> `2 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
-> `2 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
+> `2 ▶️` ∙ **[Playboi Carti](https://www.last.fm/music/Playboi+Carti)**<br/>
+> `2 ▶️` ∙ **[Shoji Meguro](https://www.last.fm/music/Shoji+Meguro)**<br/>
 > `1 ▶️` ∙ **[Arctic Monkeys](https://www.last.fm/music/Arctic+Monkeys)**<br/>
+> `1 ▶️` ∙ **[Ben Starr](https://www.last.fm/music/Ben+Starr)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </td>
@@ -39,7 +39,7 @@ I'm really passionate about discovering new thing computer related.
 > `1 ▶️` ∙ **[Stal](https://www.last.fm/music/C418/_/Stal)** - [C418](https://www.last.fm/music/C418)<br/>
 > `1 ▶️` ∙ **[Beg For You](https://www.last.fm/music/Charli+xcx/_/Beg+For+You)** - [Charli xcx](https://www.last.fm/music/Charli+xcx)<br/>
 > `1 ▶️` ∙ **[02 - Like A Starberry feat. Miki Furukawa](https://www.last.fm/music/Chocolat+-+Twinkle+Starberry/_/02+-+Like+A+Starberry+feat.+Miki+Furukawa)** - [Chocolat - Twinkle Starberry](https://www.last.fm/music/Chocolat+-+Twinkle+Starberry)<br/>
-> `1 ▶️` ∙ **[Hymn for the Weekend](https://www.last.fm/music/Coldplay/_/Hymn+for+the+Weekend)** - [Coldplay](https://www.last.fm/music/Coldplay)<br/>
+> `1 ▶️` ∙ **[Human Attire](https://www.last.fm/music/Clarion/_/Human+Attire)** - [Clarion](https://www.last.fm/music/Clarion)<br/>
 <!--END_LASTFM_TRACKS-->
 
 </td>
