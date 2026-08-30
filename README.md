@@ -16,14 +16,14 @@ I'm really passionate about discovering new thing computer related.
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `3 ▶️` ∙ **[The Weeknd](https://www.last.fm/music/The+Weeknd)**<br/>
 > `2 ▶️` ∙ **[Arctic Monkeys](https://www.last.fm/music/Arctic+Monkeys)**<br/>
 > `2 ▶️` ∙ **[Deftones](https://www.last.fm/music/Deftones)**<br/>
-> `2 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
-> `2 ▶️` ∙ **[Shoji Meguro](https://www.last.fm/music/Shoji+Meguro)**<br/>
-> `1 ▶️` ∙ **[Ben Starr](https://www.last.fm/music/Ben+Starr)**<br/>
+> `2 ▶️` ∙ **[The Weeknd](https://www.last.fm/music/The+Weeknd)**<br/>
 > `1 ▶️` ∙ **[Blue Stahli](https://www.last.fm/music/Blue+Stahli)**<br/>
-> `1 ▶️` ∙ **[Charli xcx](https://www.last.fm/music/Charli+xcx)**<br/>
+> `1 ▶️` ∙ **[Chocolat - Twinkle Starberry](https://www.last.fm/music/Chocolat+-+Twinkle+Starberry)**<br/>
+> `1 ▶️` ∙ **[Clarion](https://www.last.fm/music/Clarion)**<br/>
+> `1 ▶️` ∙ **[Coldplay](https://www.last.fm/music/Coldplay)**<br/>
+> `1 ▶️` ∙ **[Cris Velasco](https://www.last.fm/music/Cris+Velasco)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </td>
@@ -34,12 +34,12 @@ I'm really passionate about discovering new thing computer related.
 
 > `1 ▶️` ∙ **[D Is for Dangerous](https://www.last.fm/music/Arctic+Monkeys/_/D+Is+for+Dangerous)** - [Arctic Monkeys](https://www.last.fm/music/Arctic+Monkeys)<br/>
 > `1 ▶️` ∙ **[The Car](https://www.last.fm/music/Arctic+Monkeys/_/The+Car)** - [Arctic Monkeys](https://www.last.fm/music/Arctic+Monkeys)<br/>
-> `1 ▶️` ∙ **[Until Next Life](https://www.last.fm/music/Ben+Starr/_/Until+Next+Life)** - [Ben Starr](https://www.last.fm/music/Ben+Starr)<br/>
 > `1 ▶️` ∙ **[Stackoverflow](https://www.last.fm/music/Blue+Stahli/_/Stackoverflow)** - [Blue Stahli](https://www.last.fm/music/Blue+Stahli)<br/>
-> `1 ▶️` ∙ **[Beg For You](https://www.last.fm/music/Charli+xcx/_/Beg+For+You)** - [Charli xcx](https://www.last.fm/music/Charli+xcx)<br/>
 > `1 ▶️` ∙ **[02 - Like A Starberry feat. Miki Furukawa](https://www.last.fm/music/Chocolat+-+Twinkle+Starberry/_/02+-+Like+A+Starberry+feat.+Miki+Furukawa)** - [Chocolat - Twinkle Starberry](https://www.last.fm/music/Chocolat+-+Twinkle+Starberry)<br/>
 > `1 ▶️` ∙ **[Human Attire](https://www.last.fm/music/Clarion/_/Human+Attire)** - [Clarion](https://www.last.fm/music/Clarion)<br/>
 > `1 ▶️` ∙ **[Adventure of a Lifetime](https://www.last.fm/music/Coldplay/_/Adventure+of+a+Lifetime)** - [Coldplay](https://www.last.fm/music/Coldplay)<br/>
+> `1 ▶️` ∙ **[Terror](https://www.last.fm/music/Cris+Velasco/_/Terror)** - [Cris Velasco](https://www.last.fm/music/Cris+Velasco)<br/>
+> `1 ▶️` ∙ **[Doe Deer](https://www.last.fm/music/Crystal+Castles/_/Doe+Deer)** - [Crystal Castles](https://www.last.fm/music/Crystal+Castles)<br/>
 <!--END_LASTFM_TRACKS-->
 
 </td>
