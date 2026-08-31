@@ -18,12 +18,12 @@ I'm really passionate about discovering new thing computer related.
 
 > `2 ▶️` ∙ **[Arctic Monkeys](https://www.last.fm/music/Arctic+Monkeys)**<br/>
 > `2 ▶️` ∙ **[Deftones](https://www.last.fm/music/Deftones)**<br/>
+> `2 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
 > `2 ▶️` ∙ **[The Weeknd](https://www.last.fm/music/The+Weeknd)**<br/>
 > `1 ▶️` ∙ **[Blue Stahli](https://www.last.fm/music/Blue+Stahli)**<br/>
 > `1 ▶️` ∙ **[Chocolat - Twinkle Starberry](https://www.last.fm/music/Chocolat+-+Twinkle+Starberry)**<br/>
 > `1 ▶️` ∙ **[Clarion](https://www.last.fm/music/Clarion)**<br/>
 > `1 ▶️` ∙ **[Coldplay](https://www.last.fm/music/Coldplay)**<br/>
-> `1 ▶️` ∙ **[Cris Velasco](https://www.last.fm/music/Cris+Velasco)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </td>
