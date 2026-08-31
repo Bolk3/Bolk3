@@ -20,10 +20,10 @@ I'm really passionate about discovering new thing computer related.
 > `2 ▶️` ∙ **[Deftones](https://www.last.fm/music/Deftones)**<br/>
 > `2 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
 > `2 ▶️` ∙ **[The Weeknd](https://www.last.fm/music/The+Weeknd)**<br/>
+> `1 ▶️` ∙ **[Atlus Sound Team](https://www.last.fm/music/Atlus+Sound+Team)**<br/>
 > `1 ▶️` ∙ **[Blue Stahli](https://www.last.fm/music/Blue+Stahli)**<br/>
+> `1 ▶️` ∙ **[Borislav Slavov](https://www.last.fm/music/Borislav+Slavov)**<br/>
 > `1 ▶️` ∙ **[Chocolat - Twinkle Starberry](https://www.last.fm/music/Chocolat+-+Twinkle+Starberry)**<br/>
-> `1 ▶️` ∙ **[Clarion](https://www.last.fm/music/Clarion)**<br/>
-> `1 ▶️` ∙ **[Coldplay](https://www.last.fm/music/Coldplay)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </td>
@@ -34,12 +34,12 @@ I'm really passionate about discovering new thing computer related.
 
 > `1 ▶️` ∙ **[D Is for Dangerous](https://www.last.fm/music/Arctic+Monkeys/_/D+Is+for+Dangerous)** - [Arctic Monkeys](https://www.last.fm/music/Arctic+Monkeys)<br/>
 > `1 ▶️` ∙ **[The Car](https://www.last.fm/music/Arctic+Monkeys/_/The+Car)** - [Arctic Monkeys](https://www.last.fm/music/Arctic+Monkeys)<br/>
+> `1 ▶️` ∙ **[To The Other World](https://www.last.fm/music/Atlus+Sound+Team/_/To+The+Other+World)** - [Atlus Sound Team](https://www.last.fm/music/Atlus+Sound+Team)<br/>
 > `1 ▶️` ∙ **[Stackoverflow](https://www.last.fm/music/Blue+Stahli/_/Stackoverflow)** - [Blue Stahli](https://www.last.fm/music/Blue+Stahli)<br/>
+> `1 ▶️` ∙ **[Raphael’s Final Act](https://www.last.fm/music/Borislav+Slavov/_/Raphael%E2%80%99s+Final+Act)** - [Borislav Slavov](https://www.last.fm/music/Borislav+Slavov)<br/>
 > `1 ▶️` ∙ **[02 - Like A Starberry feat. Miki Furukawa](https://www.last.fm/music/Chocolat+-+Twinkle+Starberry/_/02+-+Like+A+Starberry+feat.+Miki+Furukawa)** - [Chocolat - Twinkle Starberry](https://www.last.fm/music/Chocolat+-+Twinkle+Starberry)<br/>
+> `1 ▶️` ∙ **[Terrapin](https://www.last.fm/music/Clairo/_/Terrapin)** - [Clairo](https://www.last.fm/music/Clairo)<br/>
 > `1 ▶️` ∙ **[Human Attire](https://www.last.fm/music/Clarion/_/Human+Attire)** - [Clarion](https://www.last.fm/music/Clarion)<br/>
-> `1 ▶️` ∙ **[Adventure of a Lifetime](https://www.last.fm/music/Coldplay/_/Adventure+of+a+Lifetime)** - [Coldplay](https://www.last.fm/music/Coldplay)<br/>
-> `1 ▶️` ∙ **[Terror](https://www.last.fm/music/Cris+Velasco/_/Terror)** - [Cris Velasco](https://www.last.fm/music/Cris+Velasco)<br/>
-> `1 ▶️` ∙ **[Doe Deer](https://www.last.fm/music/Crystal+Castles/_/Doe+Deer)** - [Crystal Castles](https://www.last.fm/music/Crystal+Castles)<br/>
 <!--END_LASTFM_TRACKS-->
 
 </td>
