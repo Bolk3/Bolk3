@@ -17,9 +17,9 @@ I'm really passionate about discovering new thing computer related.
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `3 ▶️` ∙ **[Arctic Monkeys](https://www.last.fm/music/Arctic+Monkeys)**<br/>
+> `3 ▶️` ∙ **[DAZEGXD](https://www.last.fm/music/DAZEGXD)**<br/>
 > `3 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
 > `2 ▶️` ∙ **[Borislav Slavov](https://www.last.fm/music/Borislav+Slavov)**<br/>
-> `2 ▶️` ∙ **[DAZEGXD](https://www.last.fm/music/DAZEGXD)**<br/>
 > `2 ▶️` ∙ **[Deftones](https://www.last.fm/music/Deftones)**<br/>
 > `2 ▶️` ∙ **[Jeremy Soule](https://www.last.fm/music/Jeremy+Soule)**<br/>
 > `2 ▶️` ∙ **[Playboi Carti](https://www.last.fm/music/Playboi+Carti)**<br/>
