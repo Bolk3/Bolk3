@@ -16,14 +16,14 @@ I'm really passionate about discovering new thing computer related.
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
+> `4 ▶️` ∙ **[Victor Borba](https://www.last.fm/music/Victor+Borba)**<br/>
 > `3 ▶️` ∙ **[Arctic Monkeys](https://www.last.fm/music/Arctic+Monkeys)**<br/>
 > `3 ▶️` ∙ **[DAZEGXD](https://www.last.fm/music/DAZEGXD)**<br/>
 > `3 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
 > `2 ▶️` ∙ **[Borislav Slavov](https://www.last.fm/music/Borislav+Slavov)**<br/>
+> `2 ▶️` ∙ **[Crystal Castles](https://www.last.fm/music/Crystal+Castles)**<br/>
 > `2 ▶️` ∙ **[Deftones](https://www.last.fm/music/Deftones)**<br/>
 > `2 ▶️` ∙ **[Jeremy Soule](https://www.last.fm/music/Jeremy+Soule)**<br/>
-> `2 ▶️` ∙ **[Playboi Carti](https://www.last.fm/music/Playboi+Carti)**<br/>
-> `2 ▶️` ∙ **[The Weeknd](https://www.last.fm/music/The+Weeknd)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </td>
@@ -32,11 +32,11 @@ I'm really passionate about discovering new thing computer related.
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 8}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Tracks - Past Week**
 
+> `3 ▶️` ∙ **[Une vie à peindre](https://www.last.fm/music/Victor+Borba/_/Une+vie+%C3%A0+peindre)** - [Victor Borba](https://www.last.fm/music/Victor+Borba)<br/>
 > `1 ▶️` ∙ **[505](https://www.last.fm/music/Arctic+Monkeys/_/505)** - [Arctic Monkeys](https://www.last.fm/music/Arctic+Monkeys)<br/>
 > `1 ▶️` ∙ **[D Is for Dangerous](https://www.last.fm/music/Arctic+Monkeys/_/D+Is+for+Dangerous)** - [Arctic Monkeys](https://www.last.fm/music/Arctic+Monkeys)<br/>
 > `1 ▶️` ∙ **[The Car](https://www.last.fm/music/Arctic+Monkeys/_/The+Car)** - [Arctic Monkeys](https://www.last.fm/music/Arctic+Monkeys)<br/>
 > `1 ▶️` ∙ **[To The Other World](https://www.last.fm/music/Atlus+Sound+Team/_/To+The+Other+World)** - [Atlus Sound Team](https://www.last.fm/music/Atlus+Sound+Team)<br/>
-> `1 ▶️` ∙ **[Stackoverflow](https://www.last.fm/music/Blue+Stahli/_/Stackoverflow)** - [Blue Stahli](https://www.last.fm/music/Blue+Stahli)<br/>
 > `1 ▶️` ∙ **[100-8 Zoo](https://www.last.fm/music/Booba/_/100-8+Zoo)** - [Booba](https://www.last.fm/music/Booba)<br/>
 > `1 ▶️` ∙ **[Lead Your Fights](https://www.last.fm/music/Borislav+Slavov/_/Lead+Your+Fights)** - [Borislav Slavov](https://www.last.fm/music/Borislav+Slavov)<br/>
 > `1 ▶️` ∙ **[Raphael’s Final Act](https://www.last.fm/music/Borislav+Slavov/_/Raphael%E2%80%99s+Final+Act)** - [Borislav Slavov](https://www.last.fm/music/Borislav+Slavov)<br/>
