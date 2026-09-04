@@ -16,6 +16,7 @@ I'm really passionate about discovering new thing computer related.
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
+> `6 ▶️` ∙ **[Czarface](https://www.last.fm/music/Czarface)**<br/>
 > `3 ▶️` ∙ **[DAZEGXD](https://www.last.fm/music/DAZEGXD)**<br/>
 > `3 ▶️` ∙ **[Victor Borba](https://www.last.fm/music/Victor+Borba)**<br/>
 > `2 ▶️` ∙ **[Arctic Monkeys](https://www.last.fm/music/Arctic+Monkeys)**<br/>
@@ -23,7 +24,6 @@ I'm really passionate about discovering new thing computer related.
 > `2 ▶️` ∙ **[Crystal Castles](https://www.last.fm/music/Crystal+Castles)**<br/>
 > `2 ▶️` ∙ **[Jeremy Soule](https://www.last.fm/music/Jeremy+Soule)**<br/>
 > `2 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
-> `2 ▶️` ∙ **[Mick Gordon](https://www.last.fm/music/Mick+Gordon)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </td>
