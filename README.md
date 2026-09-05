@@ -17,13 +17,13 @@ I'm really passionate about discovering new thing computer related.
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `12 ▶️` ∙ **[Czarface](https://www.last.fm/music/Czarface)**<br/>
+> `3 ▶️` ∙ **[Borislav Slavov](https://www.last.fm/music/Borislav+Slavov)**<br/>
 > `3 ▶️` ∙ **[DAZEGXD](https://www.last.fm/music/DAZEGXD)**<br/>
+> `3 ▶️` ∙ **[Jeremy Soule](https://www.last.fm/music/Jeremy+Soule)**<br/>
 > `3 ▶️` ∙ **[Victor Borba](https://www.last.fm/music/Victor+Borba)**<br/>
 > `2 ▶️` ∙ **[Arctic Monkeys](https://www.last.fm/music/Arctic+Monkeys)**<br/>
-> `2 ▶️` ∙ **[Borislav Slavov](https://www.last.fm/music/Borislav+Slavov)**<br/>
-> `2 ▶️` ∙ **[Jeremy Soule](https://www.last.fm/music/Jeremy+Soule)**<br/>
+> `2 ▶️` ∙ **[Charli xcx](https://www.last.fm/music/Charli+xcx)**<br/>
 > `2 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
-> `2 ▶️` ∙ **[Mick Gordon](https://www.last.fm/music/Mick+Gordon)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </td>
@@ -37,9 +37,9 @@ I'm really passionate about discovering new thing computer related.
 > `1 ▶️` ∙ **[505](https://www.last.fm/music/Arctic+Monkeys/_/505)** - [Arctic Monkeys](https://www.last.fm/music/Arctic+Monkeys)<br/>
 > `1 ▶️` ∙ **[D Is for Dangerous](https://www.last.fm/music/Arctic+Monkeys/_/D+Is+for+Dangerous)** - [Arctic Monkeys](https://www.last.fm/music/Arctic+Monkeys)<br/>
 > `1 ▶️` ∙ **[To The Other World](https://www.last.fm/music/Atlus+Sound+Team/_/To+The+Other+World)** - [Atlus Sound Team](https://www.last.fm/music/Atlus+Sound+Team)<br/>
+> `1 ▶️` ∙ **[Complicated](https://www.last.fm/music/Avril+Lavigne/_/Complicated)** - [Avril Lavigne](https://www.last.fm/music/Avril+Lavigne)<br/>
 > `1 ▶️` ∙ **[100-8 Zoo](https://www.last.fm/music/Booba/_/100-8+Zoo)** - [Booba](https://www.last.fm/music/Booba)<br/>
 > `1 ▶️` ∙ **[Lead Your Fights](https://www.last.fm/music/Borislav+Slavov/_/Lead+Your+Fights)** - [Borislav Slavov](https://www.last.fm/music/Borislav+Slavov)<br/>
-> `1 ▶️` ∙ **[Raphael’s Final Act](https://www.last.fm/music/Borislav+Slavov/_/Raphael%E2%80%99s+Final+Act)** - [Borislav Slavov](https://www.last.fm/music/Borislav+Slavov)<br/>
 <!--END_LASTFM_TRACKS-->
 
 </td>
