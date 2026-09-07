@@ -17,13 +17,13 @@ I'm really passionate about discovering new thing computer related.
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `12 ▶️` ∙ **[Czarface](https://www.last.fm/music/Czarface)**<br/>
-> `4 ▶️` ∙ **[Charli xcx](https://www.last.fm/music/Charli+xcx)**<br/>
+> `5 ▶️` ∙ **[Charli xcx](https://www.last.fm/music/Charli+xcx)**<br/>
 > `3 ▶️` ∙ **[HIM](https://www.last.fm/music/HIM)**<br/>
 > `3 ▶️` ∙ **[Victor Borba](https://www.last.fm/music/Victor+Borba)**<br/>
+> `2 ▶️` ∙ **[Booba](https://www.last.fm/music/Booba)**<br/>
 > `2 ▶️` ∙ **[Borislav Slavov](https://www.last.fm/music/Borislav+Slavov)**<br/>
 > `2 ▶️` ∙ **[Carpenter Brut](https://www.last.fm/music/Carpenter+Brut)**<br/>
 > `2 ▶️` ∙ **[Casey Edwards](https://www.last.fm/music/Casey+Edwards)**<br/>
-> `2 ▶️` ∙ **[DAZEGXD](https://www.last.fm/music/DAZEGXD)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </td>
