@@ -21,9 +21,9 @@ I'm really passionate about discovering new thing computer related.
 > `3 ▶️` ∙ **[DAZEGXD](https://www.last.fm/music/DAZEGXD)**<br/>
 > `3 ▶️` ∙ **[Jeremy Soule](https://www.last.fm/music/Jeremy+Soule)**<br/>
 > `3 ▶️` ∙ **[Victor Borba](https://www.last.fm/music/Victor+Borba)**<br/>
+> `2 ▶️` ∙ **[Carpenter Brut](https://www.last.fm/music/Carpenter+Brut)**<br/>
 > `2 ▶️` ∙ **[Charli xcx](https://www.last.fm/music/Charli+xcx)**<br/>
-> `2 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
-> `2 ▶️` ∙ **[Mick Gordon](https://www.last.fm/music/Mick+Gordon)**<br/>
+> `2 ▶️` ∙ **[HIM](https://www.last.fm/music/HIM)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </td>
