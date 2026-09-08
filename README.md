@@ -17,13 +17,13 @@ I'm really passionate about discovering new thing computer related.
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `12 ▶️` ∙ **[Czarface](https://www.last.fm/music/Czarface)**<br/>
-> `5 ▶️` ∙ **[Charli xcx](https://www.last.fm/music/Charli+xcx)**<br/>
+> `6 ▶️` ∙ **[Charli xcx](https://www.last.fm/music/Charli+xcx)**<br/>
 > `3 ▶️` ∙ **[HIM](https://www.last.fm/music/HIM)**<br/>
 > `3 ▶️` ∙ **[Shoji Meguro](https://www.last.fm/music/Shoji+Meguro)**<br/>
 > `3 ▶️` ∙ **[Victor Borba](https://www.last.fm/music/Victor+Borba)**<br/>
 > `2 ▶️` ∙ **[Carpenter Brut](https://www.last.fm/music/Carpenter+Brut)**<br/>
 > `2 ▶️` ∙ **[Casey Edwards](https://www.last.fm/music/Casey+Edwards)**<br/>
-> `2 ▶️` ∙ **[DAZEGXD](https://www.last.fm/music/DAZEGXD)**<br/>
+> `2 ▶️` ∙ **[Gorillaz](https://www.last.fm/music/Gorillaz)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </td>
@@ -38,8 +38,8 @@ I'm really passionate about discovering new thing computer related.
 > `2 ▶️` ∙ **[Une vie à peindre](https://www.last.fm/music/Victor+Borba/_/Une+vie+%C3%A0+peindre)** - [Victor Borba](https://www.last.fm/music/Victor+Borba)<br/>
 > `1 ▶️` ∙ **[Gecgecgecgec](https://www.last.fm/music/100+gecs/_/Gecgecgecgec)** - [100 gecs](https://www.last.fm/music/100+gecs)<br/>
 > `1 ▶️` ∙ **[Cocktail Molotov](https://www.last.fm/music/Arcane/_/Cocktail+Molotov)** - [Arcane](https://www.last.fm/music/Arcane)<br/>
+> `1 ▶️` ∙ **[Addicted to You](https://www.last.fm/music/Avicii/_/Addicted+to+You)** - [Avicii](https://www.last.fm/music/Avicii)<br/>
 > `1 ▶️` ∙ **[Complicated](https://www.last.fm/music/Avril+Lavigne/_/Complicated)** - [Avril Lavigne](https://www.last.fm/music/Avril+Lavigne)<br/>
-> `1 ▶️` ∙ **[Attila](https://www.last.fm/music/Booba/_/Attila)** - [Booba](https://www.last.fm/music/Booba)<br/>
 <!--END_LASTFM_TRACKS-->
 
 </td>
