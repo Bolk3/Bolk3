@@ -20,10 +20,10 @@ I'm really passionate about discovering new thing computer related.
 > `5 ▶️` ∙ **[Charli xcx](https://www.last.fm/music/Charli+xcx)**<br/>
 > `4 ▶️` ∙ **[HIM](https://www.last.fm/music/HIM)**<br/>
 > `4 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
+> `3 ▶️` ∙ **[JPEGMAFIA](https://www.last.fm/music/JPEGMAFIA)**<br/>
 > `3 ▶️` ∙ **[System of a Down](https://www.last.fm/music/System+of+a+Down)**<br/>
 > `3 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
 > `2 ▶️` ∙ **[Carpenter Brut](https://www.last.fm/music/Carpenter+Brut)**<br/>
-> `2 ▶️` ∙ **[Casey Edwards](https://www.last.fm/music/Casey+Edwards)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </td>
@@ -36,10 +36,10 @@ I'm really passionate about discovering new thing computer related.
 > `2 ▶️` ∙ **[Devil Trigger (Game Edit)](https://www.last.fm/music/Casey+Edwards/_/Devil+Trigger+(Game+Edit))** - [Casey Edwards](https://www.last.fm/music/Casey+Edwards)<br/>
 > `2 ▶️` ∙ **[Grim-Visaged War](https://www.last.fm/music/Czarface/_/Grim-Visaged+War)** - [Czarface](https://www.last.fm/music/Czarface)<br/>
 > `1 ▶️` ∙ **[Gecgecgecgec](https://www.last.fm/music/100+gecs/_/Gecgecgecgec)** - [100 gecs](https://www.last.fm/music/100+gecs)<br/>
+> `1 ▶️` ∙ **[Friday Night Fire Fight](https://www.last.fm/music/Aligns/_/Friday+Night+Fire+Fight)** - [Aligns](https://www.last.fm/music/Aligns)<br/>
 > `1 ▶️` ∙ **[Cocktail Molotov](https://www.last.fm/music/Arcane/_/Cocktail+Molotov)** - [Arcane](https://www.last.fm/music/Arcane)<br/>
-> `1 ▶️` ∙ **[Addicted to You](https://www.last.fm/music/Avicii/_/Addicted+to+You)** - [Avicii](https://www.last.fm/music/Avicii)<br/>
-> `1 ▶️` ∙ **[Complicated](https://www.last.fm/music/Avril+Lavigne/_/Complicated)** - [Avril Lavigne](https://www.last.fm/music/Avril+Lavigne)<br/>
-> `1 ▶️` ∙ **[south africa](https://www.last.fm/music/Baby+Keem/_/south+africa)** - [Baby Keem](https://www.last.fm/music/Baby+Keem)<br/>
+> `1 ▶️` ∙ **[Cute and Sad](https://www.last.fm/music/Astrophysics+feat.+MINTTT/_/Cute+and+Sad)** - [Astrophysics feat. MINTTT](https://www.last.fm/music/Astrophysics+feat.+MINTTT)<br/>
+> `1 ▶️` ∙ **[Kamemushi](https://www.last.fm/music/Astrophysics+feat.+NANORAY/_/Kamemushi)** - [Astrophysics feat. NANORAY](https://www.last.fm/music/Astrophysics+feat.+NANORAY)<br/>
 <!--END_LASTFM_TRACKS-->
 
 </td>
