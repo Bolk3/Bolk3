@@ -20,7 +20,7 @@ I'm really passionate about discovering new thing computer related.
 > `6 ▶️` ∙ **[Charli xcx](https://www.last.fm/music/Charli+xcx)**<br/>
 > `3 ▶️` ∙ **[HIM](https://www.last.fm/music/HIM)**<br/>
 > `3 ▶️` ∙ **[Shoji Meguro](https://www.last.fm/music/Shoji+Meguro)**<br/>
-> `3 ▶️` ∙ **[Victor Borba](https://www.last.fm/music/Victor+Borba)**<br/>
+> `3 ▶️` ∙ **[System of a Down](https://www.last.fm/music/System+of+a+Down)**<br/>
 > `2 ▶️` ∙ **[Carpenter Brut](https://www.last.fm/music/Carpenter+Brut)**<br/>
 > `2 ▶️` ∙ **[Casey Edwards](https://www.last.fm/music/Casey+Edwards)**<br/>
 > `2 ▶️` ∙ **[Gorillaz](https://www.last.fm/music/Gorillaz)**<br/>
