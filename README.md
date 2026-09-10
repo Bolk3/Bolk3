@@ -18,10 +18,10 @@ I'm really passionate about discovering new thing computer related.
 
 > `24 ▶️` ∙ **[Cigarettes After Sex](https://www.last.fm/music/Cigarettes+After+Sex)**<br/>
 > `12 ▶️` ∙ **[Czarface](https://www.last.fm/music/Czarface)**<br/>
-> `5 ▶️` ∙ **[Charli xcx](https://www.last.fm/music/Charli+xcx)**<br/>
-> `5 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
-> `4 ▶️` ∙ **[HIM](https://www.last.fm/music/HIM)**<br/>
-> `4 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
+> `6 ▶️` ∙ **[Charli xcx](https://www.last.fm/music/Charli+xcx)**<br/>
+> `6 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
+> `5 ▶️` ∙ **[HIM](https://www.last.fm/music/HIM)**<br/>
+> `5 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
 > `3 ▶️` ∙ **[JPEGMAFIA](https://www.last.fm/music/JPEGMAFIA)**<br/>
 > `3 ▶️` ∙ **[System of a Down](https://www.last.fm/music/System+of+a+Down)**<br/>
 <!--END_LASTFM_ARTISTS-->
@@ -32,14 +32,14 @@ I'm really passionate about discovering new thing computer related.
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 8}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Tracks - Past Week**
 
-> `3 ▶️` ∙ **[Join Me In Death](https://www.last.fm/music/HIM/_/Join+Me+In+Death)** - [HIM](https://www.last.fm/music/HIM)<br/>
+> `4 ▶️` ∙ **[Join Me In Death](https://www.last.fm/music/HIM/_/Join+Me+In+Death)** - [HIM](https://www.last.fm/music/HIM)<br/>
 > `2 ▶️` ∙ **[Devil Trigger (Game Edit)](https://www.last.fm/music/Casey+Edwards/_/Devil+Trigger+(Game+Edit))** - [Casey Edwards](https://www.last.fm/music/Casey+Edwards)<br/>
+> `2 ▶️` ∙ **[visions](https://www.last.fm/music/Charli+xcx/_/visions)** - [Charli xcx](https://www.last.fm/music/Charli+xcx)<br/>
 > `2 ▶️` ∙ **[You’re the Only Good Thing In My Life](https://www.last.fm/music/Cigarettes+After+Sex/_/You%E2%80%99re+the+Only+Good+Thing+In+My+Life)** - [Cigarettes After Sex](https://www.last.fm/music/Cigarettes+After+Sex)<br/>
 > `2 ▶️` ∙ **[Grim-Visaged War](https://www.last.fm/music/Czarface/_/Grim-Visaged+War)** - [Czarface](https://www.last.fm/music/Czarface)<br/>
 > `2 ▶️` ∙ **[Flying Waters - Rain from the Ground](https://www.last.fm/music/Lorien+Testard/_/Flying+Waters+-+Rain+from+the+Ground)** - [Lorien Testard](https://www.last.fm/music/Lorien+Testard)<br/>
 > `2 ▶️` ∙ **[トーキョーレギー](https://www.last.fm/music/%E9%AB%98%E4%B8%AD%E6%AD%A3%E7%BE%A9/_/%E3%83%88%E3%83%BC%E3%82%AD%E3%83%A7%E3%83%BC%E3%83%AC%E3%82%AE%E3%83%BC)** - [高中正義](https://www.last.fm/music/%E9%AB%98%E4%B8%AD%E6%AD%A3%E7%BE%A9)<br/>
 > `1 ▶️` ∙ **[Gecgecgecgec](https://www.last.fm/music/100+gecs/_/Gecgecgecgec)** - [100 gecs](https://www.last.fm/music/100+gecs)<br/>
-> `1 ▶️` ∙ **[Friday Night Fire Fight](https://www.last.fm/music/Aligns/_/Friday+Night+Fire+Fight)** - [Aligns](https://www.last.fm/music/Aligns)<br/>
 <!--END_LASTFM_TRACKS-->
 
 </td>
