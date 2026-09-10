@@ -16,6 +16,7 @@ I'm really passionate about discovering new thing computer related.
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
+> `23 ▶️` ∙ **[Cigarettes After Sex](https://www.last.fm/music/Cigarettes+After+Sex)**<br/>
 > `12 ▶️` ∙ **[Czarface](https://www.last.fm/music/Czarface)**<br/>
 > `5 ▶️` ∙ **[Charli xcx](https://www.last.fm/music/Charli+xcx)**<br/>
 > `4 ▶️` ∙ **[HIM](https://www.last.fm/music/HIM)**<br/>
@@ -23,7 +24,6 @@ I'm really passionate about discovering new thing computer related.
 > `3 ▶️` ∙ **[JPEGMAFIA](https://www.last.fm/music/JPEGMAFIA)**<br/>
 > `3 ▶️` ∙ **[System of a Down](https://www.last.fm/music/System+of+a+Down)**<br/>
 > `3 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
-> `2 ▶️` ∙ **[Carpenter Brut](https://www.last.fm/music/Carpenter+Brut)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </td>
