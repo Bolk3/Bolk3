@@ -22,8 +22,8 @@ I'm really passionate about discovering new thing computer related.
 > `6 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
 > `5 ▶️` ∙ **[HIM](https://www.last.fm/music/HIM)**<br/>
 > `3 ▶️` ∙ **[JPEGMAFIA](https://www.last.fm/music/JPEGMAFIA)**<br/>
+> `3 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
 > `3 ▶️` ∙ **[高中正義](https://www.last.fm/music/%E9%AB%98%E4%B8%AD%E6%AD%A3%E7%BE%A9)**<br/>
-> `2 ▶️` ∙ **[Borislav Slavov](https://www.last.fm/music/Borislav+Slavov)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </td>
@@ -37,9 +37,9 @@ I'm really passionate about discovering new thing computer related.
 > `2 ▶️` ∙ **[visions](https://www.last.fm/music/Charli+xcx/_/visions)** - [Charli xcx](https://www.last.fm/music/Charli+xcx)<br/>
 > `2 ▶️` ∙ **[You’re the Only Good Thing In My Life](https://www.last.fm/music/Cigarettes+After+Sex/_/You%E2%80%99re+the+Only+Good+Thing+In+My+Life)** - [Cigarettes After Sex](https://www.last.fm/music/Cigarettes+After+Sex)<br/>
 > `2 ▶️` ∙ **[Flying Waters - Rain from the Ground](https://www.last.fm/music/Lorien+Testard/_/Flying+Waters+-+Rain+from+the+Ground)** - [Lorien Testard](https://www.last.fm/music/Lorien+Testard)<br/>
+> `2 ▶️` ∙ **[On My Way to Hell](https://www.last.fm/music/PoBoz/_/On+My+Way+to+Hell)** - [PoBoz](https://www.last.fm/music/PoBoz)<br/>
 > `2 ▶️` ∙ **[トーキョーレギー](https://www.last.fm/music/%E9%AB%98%E4%B8%AD%E6%AD%A3%E7%BE%A9/_/%E3%83%88%E3%83%BC%E3%82%AD%E3%83%A7%E3%83%BC%E3%83%AC%E3%82%AE%E3%83%BC)** - [高中正義](https://www.last.fm/music/%E9%AB%98%E4%B8%AD%E6%AD%A3%E7%BE%A9)<br/>
 > `1 ▶️` ∙ **[Gecgecgecgec](https://www.last.fm/music/100+gecs/_/Gecgecgecgec)** - [100 gecs](https://www.last.fm/music/100+gecs)<br/>
-> `1 ▶️` ∙ **[Friday Night Fire Fight](https://www.last.fm/music/Aligns/_/Friday+Night+Fire+Fight)** - [Aligns](https://www.last.fm/music/Aligns)<br/>
 <!--END_LASTFM_TRACKS-->
 
 </td>
