@@ -21,9 +21,9 @@ I'm really passionate about discovering new thing computer related.
 > `9 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
 > `8 ▶️` ∙ **[Charli xcx](https://www.last.fm/music/Charli+xcx)**<br/>
 > `5 ▶️` ∙ **[HIM](https://www.last.fm/music/HIM)**<br/>
-> `4 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
 > `4 ▶️` ∙ **[牛尾憲輔](https://www.last.fm/music/%E7%89%9B%E5%B0%BE%E6%86%B2%E8%BC%94)**<br/>
 > `3 ▶️` ∙ **[JPEGMAFIA](https://www.last.fm/music/JPEGMAFIA)**<br/>
+> `3 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </td>
@@ -39,7 +39,7 @@ I'm really passionate about discovering new thing computer related.
 > `2 ▶️` ∙ **[You’re the Only Good Thing In My Life](https://www.last.fm/music/Cigarettes+After+Sex/_/You%E2%80%99re+the+Only+Good+Thing+In+My+Life)** - [Cigarettes After Sex](https://www.last.fm/music/Cigarettes+After+Sex)<br/>
 > `2 ▶️` ∙ **[My Way](https://www.last.fm/music/Limp+Bizkit/_/My+Way)** - [Limp Bizkit](https://www.last.fm/music/Limp+Bizkit)<br/>
 > `2 ▶️` ∙ **[Flying Waters - Rain from the Ground](https://www.last.fm/music/Lorien+Testard/_/Flying+Waters+-+Rain+from+the+Ground)** - [Lorien Testard](https://www.last.fm/music/Lorien+Testard)<br/>
-> `2 ▶️` ∙ **[Exit Music (for a Film)](https://www.last.fm/music/Radiohead/_/Exit+Music+(for+a+Film))** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
+> `2 ▶️` ∙ **[Une vie à t'aimer](https://www.last.fm/music/Victor+Borba/_/Une+vie+%C3%A0+t%27aimer)** - [Victor Borba](https://www.last.fm/music/Victor+Borba)<br/>
 <!--END_LASTFM_TRACKS-->
 
 </td>
