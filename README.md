@@ -17,13 +17,13 @@ I'm really passionate about discovering new thing computer related.
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `24 ▶️` ∙ **[Cigarettes After Sex](https://www.last.fm/music/Cigarettes+After+Sex)**<br/>
-> `9 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
-> `7 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
+> `10 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
+> `6 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
+> `6 ▶️` ∙ **[Кино](https://www.last.fm/music/%D0%9A%D0%B8%D0%BD%D0%BE)**<br/>
 > `5 ▶️` ∙ **[Charli xcx](https://www.last.fm/music/Charli+xcx)**<br/>
 > `4 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
 > `4 ▶️` ∙ **[Rihanna](https://www.last.fm/music/Rihanna)**<br/>
-> `3 ▶️` ∙ **[HIM](https://www.last.fm/music/HIM)**<br/>
-> `3 ▶️` ∙ **[JPEGMAFIA](https://www.last.fm/music/JPEGMAFIA)**<br/>
+> `3 ▶️` ∙ **[Lyn](https://www.last.fm/music/Lyn)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </td>
@@ -32,13 +32,13 @@ I'm really passionate about discovering new thing computer related.
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 8}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Tracks - Past Week**
 
-> `3 ▶️` ∙ **[Join Me In Death](https://www.last.fm/music/HIM/_/Join+Me+In+Death)** - [HIM](https://www.last.fm/music/HIM)<br/>
 > `2 ▶️` ∙ **[Friday Night Fire Fight](https://www.last.fm/music/Aligns/_/Friday+Night+Fire+Fight)** - [Aligns](https://www.last.fm/music/Aligns)<br/>
 > `2 ▶️` ∙ **[You’re the Only Good Thing In My Life](https://www.last.fm/music/Cigarettes+After+Sex/_/You%E2%80%99re+the+Only+Good+Thing+In+My+Life)** - [Cigarettes After Sex](https://www.last.fm/music/Cigarettes+After+Sex)<br/>
+> `2 ▶️` ∙ **[Join Me In Death](https://www.last.fm/music/HIM/_/Join+Me+In+Death)** - [HIM](https://www.last.fm/music/HIM)<br/>
 > `2 ▶️` ∙ **[My Way](https://www.last.fm/music/Limp+Bizkit/_/My+Way)** - [Limp Bizkit](https://www.last.fm/music/Limp+Bizkit)<br/>
-> `2 ▶️` ∙ **[Flying Waters - Rain from the Ground](https://www.last.fm/music/Lorien+Testard/_/Flying+Waters+-+Rain+from+the+Ground)** - [Lorien Testard](https://www.last.fm/music/Lorien+Testard)<br/>
 > `2 ▶️` ∙ **[Man Down](https://www.last.fm/music/Rihanna/_/Man+Down)** - [Rihanna](https://www.last.fm/music/Rihanna)<br/>
 > `2 ▶️` ∙ **[Une vie à t'aimer](https://www.last.fm/music/Victor+Borba/_/Une+vie+%C3%A0+t%27aimer)** - [Victor Borba](https://www.last.fm/music/Victor+Borba)<br/>
+> `2 ▶️` ∙ **[Группа крови](https://www.last.fm/music/%D0%9A%D0%B8%D0%BD%D0%BE/_/%D0%93%D1%80%D1%83%D0%BF%D0%BF%D0%B0+%D0%BA%D1%80%D0%BE%D0%B2%D0%B8)** - [Кино](https://www.last.fm/music/%D0%9A%D0%B8%D0%BD%D0%BE)<br/>
 > `1 ▶️` ∙ **[The raingazer's song](https://www.last.fm/music/36g/_/The+raingazer%27s+song)** - [36g](https://www.last.fm/music/36g)<br/>
 <!--END_LASTFM_TRACKS-->
 
