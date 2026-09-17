@@ -18,12 +18,12 @@ I'm really passionate about discovering new thing computer related.
 
 > `8 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
 > `6 ▶️` ∙ **[Кино](https://www.last.fm/music/%D0%9A%D0%B8%D0%BD%D0%BE)**<br/>
-> `4 ▶️` ∙ **[Charli xcx](https://www.last.fm/music/Charli+xcx)**<br/>
 > `4 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
-> `4 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
+> `3 ▶️` ∙ **[Charli xcx](https://www.last.fm/music/Charli+xcx)**<br/>
 > `3 ▶️` ∙ **[Kanye West](https://www.last.fm/music/Kanye+West)**<br/>
 > `3 ▶️` ∙ **[Limp Bizkit](https://www.last.fm/music/Limp+Bizkit)**<br/>
-> `3 ▶️` ∙ **[Lyn](https://www.last.fm/music/Lyn)**<br/>
+> `3 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
+> `3 ▶️` ∙ **[牛尾憲輔](https://www.last.fm/music/%E7%89%9B%E5%B0%BE%E6%86%B2%E8%BC%94)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </td>
@@ -34,12 +34,12 @@ I'm really passionate about discovering new thing computer related.
 
 > `2 ▶️` ∙ **[DAGGA](https://www.last.fm/music/Konrad+OldMoney/_/DAGGA)** - [Konrad OldMoney](https://www.last.fm/music/Konrad+OldMoney)<br/>
 > `2 ▶️` ∙ **[My Way](https://www.last.fm/music/Limp+Bizkit/_/My+Way)** - [Limp Bizkit](https://www.last.fm/music/Limp+Bizkit)<br/>
-> `2 ▶️` ∙ **[Man Down](https://www.last.fm/music/Rihanna/_/Man+Down)** - [Rihanna](https://www.last.fm/music/Rihanna)<br/>
 > `2 ▶️` ∙ **[Various Types Of Ads](https://www.last.fm/music/Rory+in+early+20s/_/Various+Types+Of+Ads)** - [Rory in early 20s](https://www.last.fm/music/Rory+in+early+20s)<br/>
 > `2 ▶️` ∙ **[Une vie à t'aimer](https://www.last.fm/music/Victor+Borba/_/Une+vie+%C3%A0+t%27aimer)** - [Victor Borba](https://www.last.fm/music/Victor+Borba)<br/>
 > `2 ▶️` ∙ **[Группа крови](https://www.last.fm/music/%D0%9A%D0%B8%D0%BD%D0%BE/_/%D0%93%D1%80%D1%83%D0%BF%D0%BF%D0%B0+%D0%BA%D1%80%D0%BE%D0%B2%D0%B8)** - [Кино](https://www.last.fm/music/%D0%9A%D0%B8%D0%BD%D0%BE)<br/>
 > `1 ▶️` ∙ **[The raingazer's song](https://www.last.fm/music/36g/_/The+raingazer%27s+song)** - [36g](https://www.last.fm/music/36g)<br/>
 > `1 ▶️` ∙ **[Friday Night Fire Fight](https://www.last.fm/music/Aligns/_/Friday+Night+Fire+Fight)** - [Aligns](https://www.last.fm/music/Aligns)<br/>
+> `1 ▶️` ∙ **[Everyone Is Dressed Up](https://www.last.fm/music/American+Football/_/Everyone+Is+Dressed+Up)** - [American Football](https://www.last.fm/music/American+Football)<br/>
 <!--END_LASTFM_TRACKS-->
 
 </td>
