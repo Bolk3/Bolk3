@@ -18,7 +18,7 @@ I'm really passionate about discovering new thing computer related.
 
 > `7 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
 > `6 ▶️` ∙ **[Кино](https://www.last.fm/music/%D0%9A%D0%B8%D0%BD%D0%BE)**<br/>
-> `4 ▶️` ∙ **[Charli xcx](https://www.last.fm/music/Charli+xcx)**<br/>
+> `3 ▶️` ∙ **[Charli xcx](https://www.last.fm/music/Charli+xcx)**<br/>
 > `3 ▶️` ∙ **[CHVRCHES](https://www.last.fm/music/CHVRCHES)**<br/>
 > `3 ▶️` ∙ **[Kanye West](https://www.last.fm/music/Kanye+West)**<br/>
 > `3 ▶️` ∙ **[Limp Bizkit](https://www.last.fm/music/Limp+Bizkit)**<br/>
