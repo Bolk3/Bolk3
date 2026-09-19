@@ -16,14 +16,14 @@ I'm really passionate about discovering new thing computer related.
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `6 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
 > `6 ▶️` ∙ **[Кино](https://www.last.fm/music/%D0%9A%D0%B8%D0%BD%D0%BE)**<br/>
+> `4 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
 > `3 ▶️` ∙ **[Charli xcx](https://www.last.fm/music/Charli+xcx)**<br/>
 > `3 ▶️` ∙ **[CHVRCHES](https://www.last.fm/music/CHVRCHES)**<br/>
+> `3 ▶️` ∙ **[Kanye West](https://www.last.fm/music/Kanye+West)**<br/>
+> `3 ▶️` ∙ **[Mick Gordon](https://www.last.fm/music/Mick+Gordon)**<br/>
 > `2 ▶️` ∙ **[American Football](https://www.last.fm/music/American+Football)**<br/>
 > `2 ▶️` ∙ **[Arctic Monkeys](https://www.last.fm/music/Arctic+Monkeys)**<br/>
-> `2 ▶️` ∙ **[Bring Me the Horizon](https://www.last.fm/music/Bring+Me+the+Horizon)**<br/>
-> `2 ▶️` ∙ **[Kanye West](https://www.last.fm/music/Kanye+West)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </td>
