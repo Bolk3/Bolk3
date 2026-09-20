@@ -20,10 +20,10 @@ I'm really passionate about discovering new thing computer related.
 > `5 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
 > `3 ▶️` ∙ **[CHVRCHES](https://www.last.fm/music/CHVRCHES)**<br/>
 > `3 ▶️` ∙ **[Kanye West](https://www.last.fm/music/Kanye+West)**<br/>
-> `3 ▶️` ∙ **[高中正義](https://www.last.fm/music/%E9%AB%98%E4%B8%AD%E6%AD%A3%E7%BE%A9)**<br/>
 > `2 ▶️` ∙ **[American Football](https://www.last.fm/music/American+Football)**<br/>
 > `2 ▶️` ∙ **[Arctic Monkeys](https://www.last.fm/music/Arctic+Monkeys)**<br/>
 > `2 ▶️` ∙ **[Bring Me the Horizon](https://www.last.fm/music/Bring+Me+the+Horizon)**<br/>
+> `2 ▶️` ∙ **[Charli xcx](https://www.last.fm/music/Charli+xcx)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </td>
