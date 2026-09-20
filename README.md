@@ -17,13 +17,13 @@ I'm really passionate about discovering new thing computer related.
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `6 ▶️` ∙ **[Кино](https://www.last.fm/music/%D0%9A%D0%B8%D0%BD%D0%BE)**<br/>
-> `4 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
+> `5 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
 > `3 ▶️` ∙ **[CHVRCHES](https://www.last.fm/music/CHVRCHES)**<br/>
 > `3 ▶️` ∙ **[Kanye West](https://www.last.fm/music/Kanye+West)**<br/>
-> `3 ▶️` ∙ **[Mick Gordon](https://www.last.fm/music/Mick+Gordon)**<br/>
+> `3 ▶️` ∙ **[高中正義](https://www.last.fm/music/%E9%AB%98%E4%B8%AD%E6%AD%A3%E7%BE%A9)**<br/>
 > `2 ▶️` ∙ **[American Football](https://www.last.fm/music/American+Football)**<br/>
+> `2 ▶️` ∙ **[Arctic Monkeys](https://www.last.fm/music/Arctic+Monkeys)**<br/>
 > `2 ▶️` ∙ **[Bring Me the Horizon](https://www.last.fm/music/Bring+Me+the+Horizon)**<br/>
-> `2 ▶️` ∙ **[Charli xcx](https://www.last.fm/music/Charli+xcx)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </td>
@@ -37,9 +37,9 @@ I'm really passionate about discovering new thing computer related.
 > `1 ▶️` ∙ **[The raingazer's song](https://www.last.fm/music/36g/_/The+raingazer%27s+song)** - [36g](https://www.last.fm/music/36g)<br/>
 > `1 ▶️` ∙ **[Everyone Is Dressed Up](https://www.last.fm/music/American+Football/_/Everyone+Is+Dressed+Up)** - [American Football](https://www.last.fm/music/American+Football)<br/>
 > `1 ▶️` ∙ **[For Sure](https://www.last.fm/music/American+Football/_/For+Sure)** - [American Football](https://www.last.fm/music/American+Football)<br/>
+> `1 ▶️` ∙ **[Renegade (We Never Run)](https://www.last.fm/music/Arcane/_/Renegade+(We+Never+Run))** - [Arcane](https://www.last.fm/music/Arcane)<br/>
 > `1 ▶️` ∙ **[I Wanna Be Yours](https://www.last.fm/music/Arctic+Monkeys/_/I+Wanna+Be+Yours)** - [Arctic Monkeys](https://www.last.fm/music/Arctic+Monkeys)<br/>
-> `1 ▶️` ∙ **[durag activity](https://www.last.fm/music/Baby+Keem/_/durag+activity)** - [Baby Keem](https://www.last.fm/music/Baby+Keem)<br/>
-> `1 ▶️` ∙ **[Obey](https://www.last.fm/music/Bring+Me+the+Horizon/_/Obey)** - [Bring Me the Horizon](https://www.last.fm/music/Bring+Me+the+Horizon)<br/>
+> `1 ▶️` ∙ **[If You Were There, Beware](https://www.last.fm/music/Arctic+Monkeys/_/If+You+Were+There,+Beware)** - [Arctic Monkeys](https://www.last.fm/music/Arctic+Monkeys)<br/>
 <!--END_LASTFM_TRACKS-->
 
 </td>
