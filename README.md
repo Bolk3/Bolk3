@@ -18,10 +18,10 @@ I'm really passionate about discovering new thing computer related.
 
 > `6 ▶️` ∙ **[Кино](https://www.last.fm/music/%D0%9A%D0%B8%D0%BD%D0%BE)**<br/>
 > `5 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
+> `3 ▶️` ∙ **[Arctic Monkeys](https://www.last.fm/music/Arctic+Monkeys)**<br/>
 > `3 ▶️` ∙ **[CHVRCHES](https://www.last.fm/music/CHVRCHES)**<br/>
 > `3 ▶️` ∙ **[Kanye West](https://www.last.fm/music/Kanye+West)**<br/>
 > `2 ▶️` ∙ **[American Football](https://www.last.fm/music/American+Football)**<br/>
-> `2 ▶️` ∙ **[Arctic Monkeys](https://www.last.fm/music/Arctic+Monkeys)**<br/>
 > `2 ▶️` ∙ **[Bring Me the Horizon](https://www.last.fm/music/Bring+Me+the+Horizon)**<br/>
 > `2 ▶️` ∙ **[Charli xcx](https://www.last.fm/music/Charli+xcx)**<br/>
 <!--END_LASTFM_ARTISTS-->
@@ -34,12 +34,12 @@ I'm really passionate about discovering new thing computer related.
 
 > `2 ▶️` ∙ **[Various Types Of Ads](https://www.last.fm/music/Rory+in+early+20s/_/Various+Types+Of+Ads)** - [Rory in early 20s](https://www.last.fm/music/Rory+in+early+20s)<br/>
 > `2 ▶️` ∙ **[Группа крови](https://www.last.fm/music/%D0%9A%D0%B8%D0%BD%D0%BE/_/%D0%93%D1%80%D1%83%D0%BF%D0%BF%D0%B0+%D0%BA%D1%80%D0%BE%D0%B2%D0%B8)** - [Кино](https://www.last.fm/music/%D0%9A%D0%B8%D0%BD%D0%BE)<br/>
-> `1 ▶️` ∙ **[The raingazer's song](https://www.last.fm/music/36g/_/The+raingazer%27s+song)** - [36g](https://www.last.fm/music/36g)<br/>
 > `1 ▶️` ∙ **[Everyone Is Dressed Up](https://www.last.fm/music/American+Football/_/Everyone+Is+Dressed+Up)** - [American Football](https://www.last.fm/music/American+Football)<br/>
 > `1 ▶️` ∙ **[For Sure](https://www.last.fm/music/American+Football/_/For+Sure)** - [American Football](https://www.last.fm/music/American+Football)<br/>
 > `1 ▶️` ∙ **[Renegade (We Never Run)](https://www.last.fm/music/Arcane/_/Renegade+(We+Never+Run))** - [Arcane](https://www.last.fm/music/Arcane)<br/>
 > `1 ▶️` ∙ **[I Wanna Be Yours](https://www.last.fm/music/Arctic+Monkeys/_/I+Wanna+Be+Yours)** - [Arctic Monkeys](https://www.last.fm/music/Arctic+Monkeys)<br/>
 > `1 ▶️` ∙ **[If You Were There, Beware](https://www.last.fm/music/Arctic+Monkeys/_/If+You+Were+There,+Beware)** - [Arctic Monkeys](https://www.last.fm/music/Arctic+Monkeys)<br/>
+> `1 ▶️` ∙ **[Mad Sounds](https://www.last.fm/music/Arctic+Monkeys/_/Mad+Sounds)** - [Arctic Monkeys](https://www.last.fm/music/Arctic+Monkeys)<br/>
 <!--END_LASTFM_TRACKS-->
 
 </td>
