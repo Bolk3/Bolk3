@@ -16,14 +16,14 @@ I'm really passionate about discovering new thing computer related.
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `6 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
-> `6 ▶️` ∙ **[Кино](https://www.last.fm/music/%D0%9A%D0%B8%D0%BD%D0%BE)**<br/>
+> `8 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
 > `3 ▶️` ∙ **[Kanye West](https://www.last.fm/music/Kanye+West)**<br/>
-> `2 ▶️` ∙ **[American Football](https://www.last.fm/music/American+Football)**<br/>
 > `2 ▶️` ∙ **[Arctic Monkeys](https://www.last.fm/music/Arctic+Monkeys)**<br/>
 > `2 ▶️` ∙ **[Carpenter Brut](https://www.last.fm/music/Carpenter+Brut)**<br/>
 > `2 ▶️` ∙ **[CHVRCHES](https://www.last.fm/music/CHVRCHES)**<br/>
-> `2 ▶️` ∙ **[Keigo Hoashi](https://www.last.fm/music/Keigo+Hoashi)**<br/>
+> `2 ▶️` ∙ **[Konrad OldMoney](https://www.last.fm/music/Konrad+OldMoney)**<br/>
+> `2 ▶️` ∙ **[Mick Gordon](https://www.last.fm/music/Mick+Gordon)**<br/>
+> `2 ▶️` ∙ **[P.T. Adamczyk](https://www.last.fm/music/P.T.+Adamczyk)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </td>
@@ -32,14 +32,14 @@ I'm really passionate about discovering new thing computer related.
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 8}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Tracks - Past Week**
 
-> `2 ▶️` ∙ **[Группа крови](https://www.last.fm/music/%D0%9A%D0%B8%D0%BD%D0%BE/_/%D0%93%D1%80%D1%83%D0%BF%D0%BF%D0%B0+%D0%BA%D1%80%D0%BE%D0%B2%D0%B8)** - [Кино](https://www.last.fm/music/%D0%9A%D0%B8%D0%BD%D0%BE)<br/>
-> `1 ▶️` ∙ **[Everyone Is Dressed Up](https://www.last.fm/music/American+Football/_/Everyone+Is+Dressed+Up)** - [American Football](https://www.last.fm/music/American+Football)<br/>
 > `1 ▶️` ∙ **[For Sure](https://www.last.fm/music/American+Football/_/For+Sure)** - [American Football](https://www.last.fm/music/American+Football)<br/>
 > `1 ▶️` ∙ **[Renegade (We Never Run)](https://www.last.fm/music/Arcane/_/Renegade+(We+Never+Run))** - [Arcane](https://www.last.fm/music/Arcane)<br/>
 > `1 ▶️` ∙ **[If You Were There, Beware](https://www.last.fm/music/Arctic+Monkeys/_/If+You+Were+There,+Beware)** - [Arctic Monkeys](https://www.last.fm/music/Arctic+Monkeys)<br/>
 > `1 ▶️` ∙ **[Mad Sounds](https://www.last.fm/music/Arctic+Monkeys/_/Mad+Sounds)** - [Arctic Monkeys](https://www.last.fm/music/Arctic+Monkeys)<br/>
 > `1 ▶️` ∙ **[(Don’t Fear) The Reaper](https://www.last.fm/music/Blue+%C3%96yster+Cult/_/(Don%E2%80%99t+Fear)+The+Reaper)** - [Blue Öyster Cult](https://www.last.fm/music/Blue+%C3%96yster+Cult)<br/>
 > `1 ▶️` ∙ **[Obey](https://www.last.fm/music/Bring+Me+the+Horizon/_/Obey)** - [Bring Me the Horizon](https://www.last.fm/music/Bring+Me+the+Horizon)<br/>
+> `1 ▶️` ∙ **[Division Ruine](https://www.last.fm/music/Carpenter+Brut/_/Division+Ruine)** - [Carpenter Brut](https://www.last.fm/music/Carpenter+Brut)<br/>
+> `1 ▶️` ∙ **[Sexkiller on the Loose](https://www.last.fm/music/Carpenter+Brut/_/Sexkiller+on+the+Loose)** - [Carpenter Brut](https://www.last.fm/music/Carpenter+Brut)<br/>
 <!--END_LASTFM_TRACKS-->
 
 </td>
