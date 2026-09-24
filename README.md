@@ -23,7 +23,7 @@ I'm really passionate about discovering new thing computer related.
 > `2 ▶️` ∙ **[CHVRCHES](https://www.last.fm/music/CHVRCHES)**<br/>
 > `2 ▶️` ∙ **[Kanye West](https://www.last.fm/music/Kanye+West)**<br/>
 > `2 ▶️` ∙ **[Mick Gordon](https://www.last.fm/music/Mick+Gordon)**<br/>
-> `2 ▶️` ∙ **[The Jimi Hendrix Experience](https://www.last.fm/music/The+Jimi+Hendrix+Experience)**<br/>
+> `2 ▶️` ∙ **[Playboi Carti](https://www.last.fm/music/Playboi+Carti)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </td>
