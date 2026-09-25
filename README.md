@@ -23,7 +23,7 @@ I'm really passionate about discovering new thing computer related.
 > `3 ▶️` ∙ **[高中正義](https://www.last.fm/music/%E9%AB%98%E4%B8%AD%E6%AD%A3%E7%BE%A9)**<br/>
 > `2 ▶️` ∙ **[Arctic Monkeys](https://www.last.fm/music/Arctic+Monkeys)**<br/>
 > `2 ▶️` ∙ **[Carpenter Brut](https://www.last.fm/music/Carpenter+Brut)**<br/>
-> `2 ▶️` ∙ **[Crystal Castles](https://www.last.fm/music/Crystal+Castles)**<br/>
+> `2 ▶️` ∙ **[Konrad OldMoney](https://www.last.fm/music/Konrad+OldMoney)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </td>
