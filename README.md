@@ -16,10 +16,10 @@ I'm really passionate about discovering new thing computer related.
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `4 ▶️` ∙ **[Orelsan](https://www.last.fm/music/Orelsan)**<br/>
+> `3 ▶️` ∙ **[Orelsan](https://www.last.fm/music/Orelsan)**<br/>
 > `3 ▶️` ∙ **[The Police](https://www.last.fm/music/The+Police)**<br/>
 > `3 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
-> `3 ▶️` ∙ **[牛尾憲輔](https://www.last.fm/music/%E7%89%9B%E5%B0%BE%E6%86%B2%E8%BC%94)**<br/>
+> `3 ▶️` ∙ **[高中正義](https://www.last.fm/music/%E9%AB%98%E4%B8%AD%E6%AD%A3%E7%BE%A9)**<br/>
 > `2 ▶️` ∙ **[Arcane](https://www.last.fm/music/Arcane)**<br/>
 > `2 ▶️` ∙ **[Black Sabbath](https://www.last.fm/music/Black+Sabbath)**<br/>
 > `2 ▶️` ∙ **[Brian Tuey](https://www.last.fm/music/Brian+Tuey)**<br/>
@@ -35,11 +35,11 @@ I'm really passionate about discovering new thing computer related.
 > `2 ▶️` ∙ **[Cocktail Molotov](https://www.last.fm/music/Arcane/_/Cocktail+Molotov)** - [Arcane](https://www.last.fm/music/Arcane)<br/>
 > `2 ▶️` ∙ **[Iron Man](https://www.last.fm/music/Black+Sabbath/_/Iron+Man)** - [Black Sabbath](https://www.last.fm/music/Black+Sabbath)<br/>
 > `2 ▶️` ∙ **[Twilight](https://www.last.fm/music/Brian+Tuey/_/Twilight)** - [Brian Tuey](https://www.last.fm/music/Brian+Tuey)<br/>
-> `2 ▶️` ∙ **[Infinite ❤ Without Fulfillment](https://www.last.fm/music/Grimes/_/Infinite+%E2%9D%A4+Without+Fulfillment)** - [Grimes](https://www.last.fm/music/Grimes)<br/>
 > `2 ▶️` ∙ **[Colors Flying High](https://www.last.fm/music/Lyn/_/Colors+Flying+High)** - [Lyn](https://www.last.fm/music/Lyn)<br/>
 > `2 ▶️` ∙ **[BRASILIAN SKIES](https://www.last.fm/music/%E9%AB%98%E4%B8%AD%E6%AD%A3%E7%BE%A9/_/BRASILIAN+SKIES)** - [高中正義](https://www.last.fm/music/%E9%AB%98%E4%B8%AD%E6%AD%A3%E7%BE%A9)<br/>
 > `1 ▶️` ∙ **[money machine](https://www.last.fm/music/100+gecs/_/money+machine)** - [100 gecs](https://www.last.fm/music/100+gecs)<br/>
 > `1 ▶️` ∙ **[Cute and Sad](https://www.last.fm/music/Astrophysics+feat.+MINTTT/_/Cute+and+Sad)** - [Astrophysics feat. MINTTT](https://www.last.fm/music/Astrophysics+feat.+MINTTT)<br/>
+> `1 ▶️` ∙ **[Wonderland](https://www.last.fm/music/CHVRCHES/_/Wonderland)** - [CHVRCHES](https://www.last.fm/music/CHVRCHES)<br/>
 <!--END_LASTFM_TRACKS-->
 
 </td>
