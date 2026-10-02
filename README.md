@@ -35,11 +35,11 @@ I'm really passionate about discovering new thing computer related.
 > `2 ▶️` ∙ **[Iron Man](https://www.last.fm/music/Black+Sabbath/_/Iron+Man)** - [Black Sabbath](https://www.last.fm/music/Black+Sabbath)<br/>
 > `2 ▶️` ∙ **[Twilight](https://www.last.fm/music/Brian+Tuey/_/Twilight)** - [Brian Tuey](https://www.last.fm/music/Brian+Tuey)<br/>
 > `1 ▶️` ∙ **[money machine](https://www.last.fm/music/100+gecs/_/money+machine)** - [100 gecs](https://www.last.fm/music/100+gecs)<br/>
-> `1 ▶️` ∙ **[Cocktail Molotov](https://www.last.fm/music/Arcane/_/Cocktail+Molotov)** - [Arcane](https://www.last.fm/music/Arcane)<br/>
 > `1 ▶️` ∙ **[Cute and Sad](https://www.last.fm/music/Astrophysics+feat.+MINTTT/_/Cute+and+Sad)** - [Astrophysics feat. MINTTT](https://www.last.fm/music/Astrophysics+feat.+MINTTT)<br/>
-> `1 ▶️` ∙ **[Wonderland](https://www.last.fm/music/CHVRCHES/_/Wonderland)** - [CHVRCHES](https://www.last.fm/music/CHVRCHES)<br/>
 > `1 ▶️` ∙ **[Second Nature](https://www.last.fm/music/Clairo/_/Second+Nature)** - [Clairo](https://www.last.fm/music/Clairo)<br/>
 > `1 ▶️` ∙ **[Sexy To Someone](https://www.last.fm/music/Clairo/_/Sexy+To+Someone)** - [Clairo](https://www.last.fm/music/Clairo)<br/>
+> `1 ▶️` ∙ **[call me](https://www.last.fm/music/DAZEGXD/_/call+me)** - [DAZEGXD](https://www.last.fm/music/DAZEGXD)<br/>
+> `1 ▶️` ∙ **[Rebel Heart](https://www.last.fm/music/Djerv/_/Rebel+Heart)** - [Djerv](https://www.last.fm/music/Djerv)<br/>
 <!--END_LASTFM_TRACKS-->
 
 </td>
