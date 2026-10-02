@@ -16,14 +16,14 @@ I'm really passionate about discovering new thing computer related.
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `3 ▶️` ∙ **[The Police](https://www.last.fm/music/The+Police)**<br/>
+> `5 ▶️` ∙ **[The Police](https://www.last.fm/music/The+Police)**<br/>
+> `3 ▶️` ∙ **[Kanye West](https://www.last.fm/music/Kanye+West)**<br/>
 > `2 ▶️` ∙ **[Black Sabbath](https://www.last.fm/music/Black+Sabbath)**<br/>
 > `2 ▶️` ∙ **[Brian Tuey](https://www.last.fm/music/Brian+Tuey)**<br/>
 > `2 ▶️` ∙ **[Clairo](https://www.last.fm/music/Clairo)**<br/>
 > `2 ▶️` ∙ **[Grimes](https://www.last.fm/music/Grimes)**<br/>
 > `2 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
 > `2 ▶️` ∙ **[Marty Robbins](https://www.last.fm/music/Marty+Robbins)**<br/>
-> `2 ▶️` ∙ **[Metallica](https://www.last.fm/music/Metallica)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </td>
@@ -34,12 +34,12 @@ I'm really passionate about discovering new thing computer related.
 
 > `2 ▶️` ∙ **[Iron Man](https://www.last.fm/music/Black+Sabbath/_/Iron+Man)** - [Black Sabbath](https://www.last.fm/music/Black+Sabbath)<br/>
 > `2 ▶️` ∙ **[Twilight](https://www.last.fm/music/Brian+Tuey/_/Twilight)** - [Brian Tuey](https://www.last.fm/music/Brian+Tuey)<br/>
+> `2 ▶️` ∙ **[Message in a Bottle](https://www.last.fm/music/The+Police/_/Message+in+a+Bottle)** - [The Police](https://www.last.fm/music/The+Police)<br/>
+> `2 ▶️` ∙ **[Roxanne](https://www.last.fm/music/The+Police/_/Roxanne)** - [The Police](https://www.last.fm/music/The+Police)<br/>
 > `1 ▶️` ∙ **[money machine](https://www.last.fm/music/100+gecs/_/money+machine)** - [100 gecs](https://www.last.fm/music/100+gecs)<br/>
 > `1 ▶️` ∙ **[Cute and Sad](https://www.last.fm/music/Astrophysics+feat.+MINTTT/_/Cute+and+Sad)** - [Astrophysics feat. MINTTT](https://www.last.fm/music/Astrophysics+feat.+MINTTT)<br/>
 > `1 ▶️` ∙ **[Second Nature](https://www.last.fm/music/Clairo/_/Second+Nature)** - [Clairo](https://www.last.fm/music/Clairo)<br/>
 > `1 ▶️` ∙ **[Sexy To Someone](https://www.last.fm/music/Clairo/_/Sexy+To+Someone)** - [Clairo](https://www.last.fm/music/Clairo)<br/>
-> `1 ▶️` ∙ **[Rebel Heart](https://www.last.fm/music/Djerv/_/Rebel+Heart)** - [Djerv](https://www.last.fm/music/Djerv)<br/>
-> `1 ▶️` ∙ **[We Are the People](https://www.last.fm/music/Empire+of+the+Sun/_/We+Are+the+People)** - [Empire of the Sun](https://www.last.fm/music/Empire+of+the+Sun)<br/>
 <!--END_LASTFM_TRACKS-->
 
 </td>
