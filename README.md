@@ -17,13 +17,13 @@ I'm really passionate about discovering new thing computer related.
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `6 ▶️` ∙ **[Rihanna](https://www.last.fm/music/Rihanna)**<br/>
-> `5 ▶️` ∙ **[The Police](https://www.last.fm/music/The+Police)**<br/>
+> `6 ▶️` ∙ **[The Police](https://www.last.fm/music/The+Police)**<br/>
+> `4 ▶️` ∙ **[Ariana Grande](https://www.last.fm/music/Ariana+Grande)**<br/>
 > `3 ▶️` ∙ **[Grimes](https://www.last.fm/music/Grimes)**<br/>
 > `3 ▶️` ∙ **[Kanye West](https://www.last.fm/music/Kanye+West)**<br/>
 > `2 ▶️` ∙ **[Black Sabbath](https://www.last.fm/music/Black+Sabbath)**<br/>
 > `2 ▶️` ∙ **[Brian Tuey](https://www.last.fm/music/Brian+Tuey)**<br/>
 > `2 ▶️` ∙ **[Clairo](https://www.last.fm/music/Clairo)**<br/>
-> `2 ▶️` ∙ **[Lorien Testard](https://www.last.fm/music/Lorien+Testard)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </td>
@@ -32,14 +32,14 @@ I'm really passionate about discovering new thing computer related.
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 8}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Tracks - Past Week**
 
+> `3 ▶️` ∙ **[Roxanne](https://www.last.fm/music/The+Police/_/Roxanne)** - [The Police](https://www.last.fm/music/The+Police)<br/>
 > `2 ▶️` ∙ **[Iron Man](https://www.last.fm/music/Black+Sabbath/_/Iron+Man)** - [Black Sabbath](https://www.last.fm/music/Black+Sabbath)<br/>
 > `2 ▶️` ∙ **[Twilight](https://www.last.fm/music/Brian+Tuey/_/Twilight)** - [Brian Tuey](https://www.last.fm/music/Brian+Tuey)<br/>
+> `2 ▶️` ∙ **[luther](https://www.last.fm/music/KENDRICK+LAMAR+feat+SZA/_/luther)** - [KENDRICK LAMAR feat SZA](https://www.last.fm/music/KENDRICK+LAMAR+feat+SZA)<br/>
 > `2 ▶️` ∙ **[Message in a Bottle](https://www.last.fm/music/The+Police/_/Message+in+a+Bottle)** - [The Police](https://www.last.fm/music/The+Police)<br/>
-> `2 ▶️` ∙ **[Roxanne](https://www.last.fm/music/The+Police/_/Roxanne)** - [The Police](https://www.last.fm/music/The+Police)<br/>
 > `1 ▶️` ∙ **[money machine](https://www.last.fm/music/100+gecs/_/money+machine)** - [100 gecs](https://www.last.fm/music/100+gecs)<br/>
-> `1 ▶️` ∙ **[Cute and Sad](https://www.last.fm/music/Astrophysics+feat.+MINTTT/_/Cute+and+Sad)** - [Astrophysics feat. MINTTT](https://www.last.fm/music/Astrophysics+feat.+MINTTT)<br/>
-> `1 ▶️` ∙ **[Second Nature](https://www.last.fm/music/Clairo/_/Second+Nature)** - [Clairo](https://www.last.fm/music/Clairo)<br/>
-> `1 ▶️` ∙ **[Sexy To Someone](https://www.last.fm/music/Clairo/_/Sexy+To+Someone)** - [Clairo](https://www.last.fm/music/Clairo)<br/>
+> `1 ▶️` ∙ **[34+35](https://www.last.fm/music/Ariana+Grande/_/34%252B35)** - [Ariana Grande](https://www.last.fm/music/Ariana+Grande)<br/>
+> `1 ▶️` ∙ **[7 rings](https://www.last.fm/music/Ariana+Grande/_/7+rings)** - [Ariana Grande](https://www.last.fm/music/Ariana+Grande)<br/>
 <!--END_LASTFM_TRACKS-->
 
 </td>
