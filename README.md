@@ -18,10 +18,10 @@ I'm really passionate about discovering new thing computer related.
 
 > `6 ▶️` ∙ **[Rihanna](https://www.last.fm/music/Rihanna)**<br/>
 > `4 ▶️` ∙ **[Ariana Grande](https://www.last.fm/music/Ariana+Grande)**<br/>
-> `3 ▶️` ∙ **[Grimes](https://www.last.fm/music/Grimes)**<br/>
 > `3 ▶️` ∙ **[Kanye West](https://www.last.fm/music/Kanye+West)**<br/>
 > `3 ▶️` ∙ **[The Police](https://www.last.fm/music/The+Police)**<br/>
 > `2 ▶️` ∙ **[Clairo](https://www.last.fm/music/Clairo)**<br/>
+> `2 ▶️` ∙ **[Grimes](https://www.last.fm/music/Grimes)**<br/>
 > `2 ▶️` ∙ **[KENDRICK LAMAR feat SZA](https://www.last.fm/music/KENDRICK+LAMAR+feat+SZA)**<br/>
 > `2 ▶️` ∙ **[Marty Robbins](https://www.last.fm/music/Marty+Robbins)**<br/>
 <!--END_LASTFM_ARTISTS-->
