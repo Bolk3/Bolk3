@@ -20,10 +20,10 @@ I'm really passionate about discovering new thing computer related.
 > `4 ▶️` ∙ **[Ariana Grande](https://www.last.fm/music/Ariana+Grande)**<br/>
 > `3 ▶️` ∙ **[Kanye West](https://www.last.fm/music/Kanye+West)**<br/>
 > `3 ▶️` ∙ **[The Police](https://www.last.fm/music/The+Police)**<br/>
-> `2 ▶️` ∙ **[Clairo](https://www.last.fm/music/Clairo)**<br/>
 > `2 ▶️` ∙ **[KENDRICK LAMAR feat SZA](https://www.last.fm/music/KENDRICK+LAMAR+feat+SZA)**<br/>
 > `2 ▶️` ∙ **[Oeil](https://www.last.fm/music/Oeil)**<br/>
 > `2 ▶️` ∙ **[Playboi Carti](https://www.last.fm/music/Playboi+Carti)**<br/>
+> `1 ▶️` ∙ **[Deftones](https://www.last.fm/music/Deftones)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </td>
@@ -38,8 +38,8 @@ I'm really passionate about discovering new thing computer related.
 > `1 ▶️` ∙ **[7 rings](https://www.last.fm/music/Ariana+Grande/_/7+rings)** - [Ariana Grande](https://www.last.fm/music/Ariana+Grande)<br/>
 > `1 ▶️` ∙ **[Into You](https://www.last.fm/music/Ariana+Grande/_/Into+You)** - [Ariana Grande](https://www.last.fm/music/Ariana+Grande)<br/>
 > `1 ▶️` ∙ **[no tears left to cry](https://www.last.fm/music/Ariana+Grande/_/no+tears+left+to+cry)** - [Ariana Grande](https://www.last.fm/music/Ariana+Grande)<br/>
-> `1 ▶️` ∙ **[Second Nature](https://www.last.fm/music/Clairo/_/Second+Nature)** - [Clairo](https://www.last.fm/music/Clairo)<br/>
-> `1 ▶️` ∙ **[Sexy To Someone](https://www.last.fm/music/Clairo/_/Sexy+To+Someone)** - [Clairo](https://www.last.fm/music/Clairo)<br/>
+> `1 ▶️` ∙ **[Be Quiet and Drive (Far Away)](https://www.last.fm/music/Deftones/_/Be+Quiet+and+Drive+(Far+Away))** - [Deftones](https://www.last.fm/music/Deftones)<br/>
+> `1 ▶️` ∙ **[Dynasties and Dystopia](https://www.last.fm/music/Denzel+Curry,+GIZZLE,+&+Bren+Joy/_/Dynasties+and+Dystopia)** - [Denzel Curry, GIZZLE, & Bren Joy](https://www.last.fm/music/Denzel+Curry,+GIZZLE,+&+Bren+Joy)<br/>
 <!--END_LASTFM_TRACKS-->
 
 </td>
