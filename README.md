@@ -16,14 +16,14 @@ I'm really passionate about discovering new thing computer related.
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `6 ▶️` ∙ **[Rihanna](https://www.last.fm/music/Rihanna)**<br/>
+> `5 ▶️` ∙ **[Rihanna](https://www.last.fm/music/Rihanna)**<br/>
 > `4 ▶️` ∙ **[Ariana Grande](https://www.last.fm/music/Ariana+Grande)**<br/>
 > `3 ▶️` ∙ **[Kanye West](https://www.last.fm/music/Kanye+West)**<br/>
 > `3 ▶️` ∙ **[The Police](https://www.last.fm/music/The+Police)**<br/>
 > `2 ▶️` ∙ **[Clairo](https://www.last.fm/music/Clairo)**<br/>
 > `2 ▶️` ∙ **[KENDRICK LAMAR feat SZA](https://www.last.fm/music/KENDRICK+LAMAR+feat+SZA)**<br/>
-> `2 ▶️` ∙ **[Marty Robbins](https://www.last.fm/music/Marty+Robbins)**<br/>
-> `2 ▶️` ∙ **[nerdneko](https://www.last.fm/music/nerdneko)**<br/>
+> `2 ▶️` ∙ **[Oeil](https://www.last.fm/music/Oeil)**<br/>
+> `2 ▶️` ∙ **[Playboi Carti](https://www.last.fm/music/Playboi+Carti)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </td>
