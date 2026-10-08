@@ -21,9 +21,9 @@ I'm really passionate about discovering new thing computer related.
 > `3 ▶️` ∙ **[Kanye West](https://www.last.fm/music/Kanye+West)**<br/>
 > `3 ▶️` ∙ **[The Police](https://www.last.fm/music/The+Police)**<br/>
 > `2 ▶️` ∙ **[Clairo](https://www.last.fm/music/Clairo)**<br/>
-> `2 ▶️` ∙ **[Grimes](https://www.last.fm/music/Grimes)**<br/>
 > `2 ▶️` ∙ **[KENDRICK LAMAR feat SZA](https://www.last.fm/music/KENDRICK+LAMAR+feat+SZA)**<br/>
 > `2 ▶️` ∙ **[Marty Robbins](https://www.last.fm/music/Marty+Robbins)**<br/>
+> `2 ▶️` ∙ **[nerdneko](https://www.last.fm/music/nerdneko)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </td>
@@ -34,12 +34,12 @@ I'm really passionate about discovering new thing computer related.
 
 > `2 ▶️` ∙ **[luther](https://www.last.fm/music/KENDRICK+LAMAR+feat+SZA/_/luther)** - [KENDRICK LAMAR feat SZA](https://www.last.fm/music/KENDRICK+LAMAR+feat+SZA)<br/>
 > `2 ▶️` ∙ **[Roxanne](https://www.last.fm/music/The+Police/_/Roxanne)** - [The Police](https://www.last.fm/music/The+Police)<br/>
-> `1 ▶️` ∙ **[money machine](https://www.last.fm/music/100+gecs/_/money+machine)** - [100 gecs](https://www.last.fm/music/100+gecs)<br/>
 > `1 ▶️` ∙ **[34+35](https://www.last.fm/music/Ariana+Grande/_/34%252B35)** - [Ariana Grande](https://www.last.fm/music/Ariana+Grande)<br/>
 > `1 ▶️` ∙ **[7 rings](https://www.last.fm/music/Ariana+Grande/_/7+rings)** - [Ariana Grande](https://www.last.fm/music/Ariana+Grande)<br/>
 > `1 ▶️` ∙ **[Into You](https://www.last.fm/music/Ariana+Grande/_/Into+You)** - [Ariana Grande](https://www.last.fm/music/Ariana+Grande)<br/>
 > `1 ▶️` ∙ **[no tears left to cry](https://www.last.fm/music/Ariana+Grande/_/no+tears+left+to+cry)** - [Ariana Grande](https://www.last.fm/music/Ariana+Grande)<br/>
 > `1 ▶️` ∙ **[Second Nature](https://www.last.fm/music/Clairo/_/Second+Nature)** - [Clairo](https://www.last.fm/music/Clairo)<br/>
+> `1 ▶️` ∙ **[Sexy To Someone](https://www.last.fm/music/Clairo/_/Sexy+To+Someone)** - [Clairo](https://www.last.fm/music/Clairo)<br/>
 <!--END_LASTFM_TRACKS-->
 
 </td>
