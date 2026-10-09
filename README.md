@@ -18,12 +18,12 @@ I'm really passionate about discovering new thing computer related.
 
 > `5 ▶️` ∙ **[Rihanna](https://www.last.fm/music/Rihanna)**<br/>
 > `4 ▶️` ∙ **[Ariana Grande](https://www.last.fm/music/Ariana+Grande)**<br/>
-> `3 ▶️` ∙ **[Kanye West](https://www.last.fm/music/Kanye+West)**<br/>
-> `3 ▶️` ∙ **[The Police](https://www.last.fm/music/The+Police)**<br/>
-> `2 ▶️` ∙ **[KENDRICK LAMAR feat SZA](https://www.last.fm/music/KENDRICK+LAMAR+feat+SZA)**<br/>
 > `2 ▶️` ∙ **[Oeil](https://www.last.fm/music/Oeil)**<br/>
 > `2 ▶️` ∙ **[Playboi Carti](https://www.last.fm/music/Playboi+Carti)**<br/>
-> `1 ▶️` ∙ **[Deftones](https://www.last.fm/music/Deftones)**<br/>
+> `1 ▶️` ∙ **[Denzel Curry, GIZZLE, & Bren Joy](https://www.last.fm/music/Denzel+Curry,+GIZZLE,+&+Bren+Joy)**<br/>
+> `1 ▶️` ∙ **[Grimes](https://www.last.fm/music/Grimes)**<br/>
+> `1 ▶️` ∙ **[KENDRICK LAMAR feat SZA](https://www.last.fm/music/KENDRICK+LAMAR+feat+SZA)**<br/>
+> `1 ▶️` ∙ **[Madvillain](https://www.last.fm/music/Madvillain)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </td>
@@ -32,14 +32,14 @@ I'm really passionate about discovering new thing computer related.
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 8}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Tracks - Past Week**
 
-> `2 ▶️` ∙ **[luther](https://www.last.fm/music/KENDRICK+LAMAR+feat+SZA/_/luther)** - [KENDRICK LAMAR feat SZA](https://www.last.fm/music/KENDRICK+LAMAR+feat+SZA)<br/>
-> `2 ▶️` ∙ **[Roxanne](https://www.last.fm/music/The+Police/_/Roxanne)** - [The Police](https://www.last.fm/music/The+Police)<br/>
 > `1 ▶️` ∙ **[34+35](https://www.last.fm/music/Ariana+Grande/_/34%252B35)** - [Ariana Grande](https://www.last.fm/music/Ariana+Grande)<br/>
 > `1 ▶️` ∙ **[7 rings](https://www.last.fm/music/Ariana+Grande/_/7+rings)** - [Ariana Grande](https://www.last.fm/music/Ariana+Grande)<br/>
 > `1 ▶️` ∙ **[Into You](https://www.last.fm/music/Ariana+Grande/_/Into+You)** - [Ariana Grande](https://www.last.fm/music/Ariana+Grande)<br/>
 > `1 ▶️` ∙ **[no tears left to cry](https://www.last.fm/music/Ariana+Grande/_/no+tears+left+to+cry)** - [Ariana Grande](https://www.last.fm/music/Ariana+Grande)<br/>
-> `1 ▶️` ∙ **[Be Quiet and Drive (Far Away)](https://www.last.fm/music/Deftones/_/Be+Quiet+and+Drive+(Far+Away))** - [Deftones](https://www.last.fm/music/Deftones)<br/>
 > `1 ▶️` ∙ **[Dynasties and Dystopia](https://www.last.fm/music/Denzel+Curry,+GIZZLE,+&+Bren+Joy/_/Dynasties+and+Dystopia)** - [Denzel Curry, GIZZLE, & Bren Joy](https://www.last.fm/music/Denzel+Curry,+GIZZLE,+&+Bren+Joy)<br/>
+> `1 ▶️` ∙ **[4ÆM](https://www.last.fm/music/Grimes/_/4%C3%86M)** - [Grimes](https://www.last.fm/music/Grimes)<br/>
+> `1 ▶️` ∙ **[luther](https://www.last.fm/music/KENDRICK+LAMAR+feat+SZA/_/luther)** - [KENDRICK LAMAR feat SZA](https://www.last.fm/music/KENDRICK+LAMAR+feat+SZA)<br/>
+> `1 ▶️` ∙ **[All Caps](https://www.last.fm/music/Madvillain/_/All+Caps)** - [Madvillain](https://www.last.fm/music/Madvillain)<br/>
 <!--END_LASTFM_TRACKS-->
 
 </td>
