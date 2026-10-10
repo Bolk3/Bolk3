@@ -18,12 +18,12 @@ I'm really passionate about discovering new thing computer related.
 
 > `5 ▶️` ∙ **[Rihanna](https://www.last.fm/music/Rihanna)**<br/>
 > `4 ▶️` ∙ **[Ariana Grande](https://www.last.fm/music/Ariana+Grande)**<br/>
+> `3 ▶️` ∙ **[Grimes](https://www.last.fm/music/Grimes)**<br/>
 > `2 ▶️` ∙ **[Oeil](https://www.last.fm/music/Oeil)**<br/>
 > `2 ▶️` ∙ **[Playboi Carti](https://www.last.fm/music/Playboi+Carti)**<br/>
 > `1 ▶️` ∙ **[Denzel Curry, GIZZLE, & Bren Joy](https://www.last.fm/music/Denzel+Curry,+GIZZLE,+&+Bren+Joy)**<br/>
-> `1 ▶️` ∙ **[Grimes](https://www.last.fm/music/Grimes)**<br/>
+> `1 ▶️` ∙ **[Kanye West](https://www.last.fm/music/Kanye+West)**<br/>
 > `1 ▶️` ∙ **[KENDRICK LAMAR feat SZA](https://www.last.fm/music/KENDRICK+LAMAR+feat+SZA)**<br/>
-> `1 ▶️` ∙ **[Madvillain](https://www.last.fm/music/Madvillain)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </td>
@@ -38,8 +38,8 @@ I'm really passionate about discovering new thing computer related.
 > `1 ▶️` ∙ **[no tears left to cry](https://www.last.fm/music/Ariana+Grande/_/no+tears+left+to+cry)** - [Ariana Grande](https://www.last.fm/music/Ariana+Grande)<br/>
 > `1 ▶️` ∙ **[Dynasties and Dystopia](https://www.last.fm/music/Denzel+Curry,+GIZZLE,+&+Bren+Joy/_/Dynasties+and+Dystopia)** - [Denzel Curry, GIZZLE, & Bren Joy](https://www.last.fm/music/Denzel+Curry,+GIZZLE,+&+Bren+Joy)<br/>
 > `1 ▶️` ∙ **[4ÆM](https://www.last.fm/music/Grimes/_/4%C3%86M)** - [Grimes](https://www.last.fm/music/Grimes)<br/>
-> `1 ▶️` ∙ **[luther](https://www.last.fm/music/KENDRICK+LAMAR+feat+SZA/_/luther)** - [KENDRICK LAMAR feat SZA](https://www.last.fm/music/KENDRICK+LAMAR+feat+SZA)<br/>
-> `1 ▶️` ∙ **[All Caps](https://www.last.fm/music/Madvillain/_/All+Caps)** - [Madvillain](https://www.last.fm/music/Madvillain)<br/>
+> `1 ▶️` ∙ **[Artangels](https://www.last.fm/music/Grimes/_/Artangels)** - [Grimes](https://www.last.fm/music/Grimes)<br/>
+> `1 ▶️` ∙ **[Kill V. Maim](https://www.last.fm/music/Grimes/_/Kill+V.+Maim)** - [Grimes](https://www.last.fm/music/Grimes)<br/>
 <!--END_LASTFM_TRACKS-->
 
 </td>
