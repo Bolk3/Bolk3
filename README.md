@@ -23,7 +23,7 @@ I'm really passionate about discovering new thing computer related.
 > `2 ▶️` ∙ **[Deftones](https://www.last.fm/music/Deftones)**<br/>
 > `2 ▶️` ∙ **[MF DOOM](https://www.last.fm/music/MF+DOOM)**<br/>
 > `2 ▶️` ∙ **[The Lumineers](https://www.last.fm/music/The+Lumineers)**<br/>
-> `2 ▶️` ∙ **[Yonezu Kenshi & Utada Hikaru](https://www.last.fm/music/Yonezu+Kenshi+&+Utada+Hikaru)**<br/>
+> `1 ▶️` ∙ **[Ariana Grande](https://www.last.fm/music/Ariana+Grande)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </td>
@@ -33,13 +33,13 @@ I'm really passionate about discovering new thing computer related.
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Tracks - Past Week**
 
 > `2 ▶️` ∙ **[KONGOLESE SOUS BBL](https://www.last.fm/music/Theodora/_/KONGOLESE+SOUS+BBL)** - [Theodora](https://www.last.fm/music/Theodora)<br/>
-> `2 ▶️` ∙ **[JANE DOE](https://www.last.fm/music/Yonezu+Kenshi+&+Utada+Hikaru/_/JANE+DOE)** - [Yonezu Kenshi & Utada Hikaru](https://www.last.fm/music/Yonezu+Kenshi+&+Utada+Hikaru)<br/>
 > `1 ▶️` ∙ **[505](https://www.last.fm/music/Arctic+Monkeys/_/505)** - [Arctic Monkeys](https://www.last.fm/music/Arctic+Monkeys)<br/>
 > `1 ▶️` ∙ **[I Wanna Be Yours](https://www.last.fm/music/Arctic+Monkeys/_/I+Wanna+Be+Yours)** - [Arctic Monkeys](https://www.last.fm/music/Arctic+Monkeys)<br/>
 > `1 ▶️` ∙ **[Into You](https://www.last.fm/music/Ariana+Grande/_/Into+You)** - [Ariana Grande](https://www.last.fm/music/Ariana+Grande)<br/>
 > `1 ▶️` ∙ **[(Don't Fear) The Reaper](https://www.last.fm/music/Blue+%C3%96yster+Cult/_/(Don%27t+Fear)+The+Reaper)** - [Blue Öyster Cult](https://www.last.fm/music/Blue+%C3%96yster+Cult)<br/>
 > `1 ▶️` ∙ **[Debbie Denise](https://www.last.fm/music/Blue+%C3%96yster+Cult/_/Debbie+Denise)** - [Blue Öyster Cult](https://www.last.fm/music/Blue+%C3%96yster+Cult)<br/>
 > `1 ▶️` ∙ **[Feiticeira](https://www.last.fm/music/Deftones/_/Feiticeira)** - [Deftones](https://www.last.fm/music/Deftones)<br/>
+> `1 ▶️` ∙ **[Royal](https://www.last.fm/music/Deftones/_/Royal)** - [Deftones](https://www.last.fm/music/Deftones)<br/>
 <!--END_LASTFM_TRACKS-->
 
 </td>
