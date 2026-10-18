@@ -16,14 +16,14 @@ I'm really passionate about discovering new thing computer related.
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `3 ▶️` ∙ **[Playboi Carti](https://www.last.fm/music/Playboi+Carti)**<br/>
-> `3 ▶️` ∙ **[Theodora](https://www.last.fm/music/Theodora)**<br/>
-> `2 ▶️` ∙ **[Arctic Monkeys](https://www.last.fm/music/Arctic+Monkeys)**<br/>
-> `2 ▶️` ∙ **[Blue Öyster Cult](https://www.last.fm/music/Blue+%C3%96yster+Cult)**<br/>
 > `2 ▶️` ∙ **[Deftones](https://www.last.fm/music/Deftones)**<br/>
-> `2 ▶️` ∙ **[MF DOOM](https://www.last.fm/music/MF+DOOM)**<br/>
+> `2 ▶️` ∙ **[Playboi Carti](https://www.last.fm/music/Playboi+Carti)**<br/>
 > `2 ▶️` ∙ **[The Lumineers](https://www.last.fm/music/The+Lumineers)**<br/>
-> `1 ▶️` ∙ **[Ariana Grande](https://www.last.fm/music/Ariana+Grande)**<br/>
+> `1 ▶️` ∙ **[Lana Del Rey](https://www.last.fm/music/Lana+Del+Rey)**<br/>
+> `1 ▶️` ∙ **[Linkin Park](https://www.last.fm/music/Linkin+Park)**<br/>
+> `1 ▶️` ∙ **[MF DOOM](https://www.last.fm/music/MF+DOOM)**<br/>
+> `1 ▶️` ∙ **[Of Monsters and Men](https://www.last.fm/music/Of+Monsters+and+Men)**<br/>
+> `1 ▶️` ∙ **[Petite Meller & Marlon Hoffstadt](https://www.last.fm/music/Petite+Meller+&+Marlon+Hoffstadt)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </td>
@@ -32,14 +32,14 @@ I'm really passionate about discovering new thing computer related.
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 8}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Tracks - Past Week**
 
-> `2 ▶️` ∙ **[KONGOLESE SOUS BBL](https://www.last.fm/music/Theodora/_/KONGOLESE+SOUS+BBL)** - [Theodora](https://www.last.fm/music/Theodora)<br/>
-> `1 ▶️` ∙ **[505](https://www.last.fm/music/Arctic+Monkeys/_/505)** - [Arctic Monkeys](https://www.last.fm/music/Arctic+Monkeys)<br/>
-> `1 ▶️` ∙ **[I Wanna Be Yours](https://www.last.fm/music/Arctic+Monkeys/_/I+Wanna+Be+Yours)** - [Arctic Monkeys](https://www.last.fm/music/Arctic+Monkeys)<br/>
-> `1 ▶️` ∙ **[Into You](https://www.last.fm/music/Ariana+Grande/_/Into+You)** - [Ariana Grande](https://www.last.fm/music/Ariana+Grande)<br/>
-> `1 ▶️` ∙ **[(Don't Fear) The Reaper](https://www.last.fm/music/Blue+%C3%96yster+Cult/_/(Don%27t+Fear)+The+Reaper)** - [Blue Öyster Cult](https://www.last.fm/music/Blue+%C3%96yster+Cult)<br/>
-> `1 ▶️` ∙ **[Debbie Denise](https://www.last.fm/music/Blue+%C3%96yster+Cult/_/Debbie+Denise)** - [Blue Öyster Cult](https://www.last.fm/music/Blue+%C3%96yster+Cult)<br/>
 > `1 ▶️` ∙ **[Feiticeira](https://www.last.fm/music/Deftones/_/Feiticeira)** - [Deftones](https://www.last.fm/music/Deftones)<br/>
 > `1 ▶️` ∙ **[Royal](https://www.last.fm/music/Deftones/_/Royal)** - [Deftones](https://www.last.fm/music/Deftones)<br/>
+> `1 ▶️` ∙ **[Summertime Sadness](https://www.last.fm/music/Lana+Del+Rey/_/Summertime+Sadness)** - [Lana Del Rey](https://www.last.fm/music/Lana+Del+Rey)<br/>
+> `1 ▶️` ∙ **[Faint](https://www.last.fm/music/Linkin+Park/_/Faint)** - [Linkin Park](https://www.last.fm/music/Linkin+Park)<br/>
+> `1 ▶️` ∙ **[Kon Karne](https://www.last.fm/music/MF+DOOM/_/Kon+Karne)** - [MF DOOM](https://www.last.fm/music/MF+DOOM)<br/>
+> `1 ▶️` ∙ **[Little Talks](https://www.last.fm/music/Of+Monsters+and+Men/_/Little+Talks)** - [Of Monsters and Men](https://www.last.fm/music/Of+Monsters+and+Men)<br/>
+> `1 ▶️` ∙ **[High Forever (Marlon Hoffstadt Remix)](https://www.last.fm/music/Petite+Meller+&+Marlon+Hoffstadt/_/High+Forever+(Marlon+Hoffstadt+Remix))** - [Petite Meller & Marlon Hoffstadt](https://www.last.fm/music/Petite+Meller+&+Marlon+Hoffstadt)<br/>
+> `1 ▶️` ∙ **[OVERLY](https://www.last.fm/music/Playboi+Carti/_/OVERLY)** - [Playboi Carti](https://www.last.fm/music/Playboi+Carti)<br/>
 <!--END_LASTFM_TRACKS-->
 
 </td>
