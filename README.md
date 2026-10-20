@@ -17,13 +17,13 @@ I'm really passionate about discovering new thing computer related.
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `2 ▶️` ∙ **[The Lumineers](https://www.last.fm/music/The+Lumineers)**<br/>
+> `1 ▶️` ∙ **[bohemianvoodoo](https://www.last.fm/music/bohemianvoodoo)**<br/>
 > `1 ▶️` ∙ **[Bring Me the Horizon feat. BABYMETAL](https://www.last.fm/music/Bring+Me+the+Horizon+feat.+BABYMETAL)**<br/>
+> `1 ▶️` ∙ **[Deftones](https://www.last.fm/music/Deftones)**<br/>
+> `1 ▶️` ∙ **[Doudou](https://www.last.fm/music/Doudou)**<br/>
+> `1 ▶️` ∙ **[Egoist](https://www.last.fm/music/Egoist)**<br/>
 > `1 ▶️` ∙ **[Korn](https://www.last.fm/music/Korn)**<br/>
 > `1 ▶️` ∙ **[Lana Del Rey](https://www.last.fm/music/Lana+Del+Rey)**<br/>
-> `1 ▶️` ∙ **[Of Monsters and Men](https://www.last.fm/music/Of+Monsters+and+Men)**<br/>
-> `1 ▶️` ∙ **[Petite Meller & Marlon Hoffstadt](https://www.last.fm/music/Petite+Meller+&+Marlon+Hoffstadt)**<br/>
-> `1 ▶️` ∙ **[Rikas](https://www.last.fm/music/Rikas)**<br/>
-> `1 ▶️` ∙ **[Uchu Nekoko with Lovely Summer-chan](https://www.last.fm/music/Uchu+Nekoko+with+Lovely+Summer-chan)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </td>
@@ -32,14 +32,14 @@ I'm really passionate about discovering new thing computer related.
 <!--START_LASTFM_TRACKS:{"period": "7day", "rows": 8}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Tracks - Past Week**
 
+> `1 ▶️` ∙ **[Cleopatra's Dream](https://www.last.fm/music/bohemianvoodoo/_/Cleopatra%27s+Dream)** - [bohemianvoodoo](https://www.last.fm/music/bohemianvoodoo)<br/>
 > `1 ▶️` ∙ **[Kingslayer](https://www.last.fm/music/Bring+Me+the+Horizon+feat.+BABYMETAL/_/Kingslayer)** - [Bring Me the Horizon feat. BABYMETAL](https://www.last.fm/music/Bring+Me+the+Horizon+feat.+BABYMETAL)<br/>
+> `1 ▶️` ∙ **[Be Quiet and Drive (Far Away)](https://www.last.fm/music/Deftones/_/Be+Quiet+and+Drive+(Far+Away))** - [Deftones](https://www.last.fm/music/Deftones)<br/>
+> `1 ▶️` ∙ **[A Rusty Dream](https://www.last.fm/music/Doudou/_/A+Rusty+Dream)** - [Doudou](https://www.last.fm/music/Doudou)<br/>
+> `1 ▶️` ∙ **[The Everlasting Guilty Crown](https://www.last.fm/music/Egoist/_/The+Everlasting+Guilty+Crown)** - [Egoist](https://www.last.fm/music/Egoist)<br/>
 > `1 ▶️` ∙ **[Freak on a Leash](https://www.last.fm/music/Korn/_/Freak+on+a+Leash)** - [Korn](https://www.last.fm/music/Korn)<br/>
 > `1 ▶️` ∙ **[Summertime Sadness](https://www.last.fm/music/Lana+Del+Rey/_/Summertime+Sadness)** - [Lana Del Rey](https://www.last.fm/music/Lana+Del+Rey)<br/>
 > `1 ▶️` ∙ **[Little Talks](https://www.last.fm/music/Of+Monsters+and+Men/_/Little+Talks)** - [Of Monsters and Men](https://www.last.fm/music/Of+Monsters+and+Men)<br/>
-> `1 ▶️` ∙ **[High Forever (Marlon Hoffstadt Remix)](https://www.last.fm/music/Petite+Meller+&+Marlon+Hoffstadt/_/High+Forever+(Marlon+Hoffstadt+Remix))** - [Petite Meller & Marlon Hoffstadt](https://www.last.fm/music/Petite+Meller+&+Marlon+Hoffstadt)<br/>
-> `1 ▶️` ∙ **[Last Train to London](https://www.last.fm/music/Rikas/_/Last+Train+to+London)** - [Rikas](https://www.last.fm/music/Rikas)<br/>
-> `1 ▶️` ∙ **[Ho Hey](https://www.last.fm/music/The+Lumineers/_/Ho+Hey)** - [The Lumineers](https://www.last.fm/music/The+Lumineers)<br/>
-> `1 ▶️` ∙ **[Ophelia](https://www.last.fm/music/The+Lumineers/_/Ophelia)** - [The Lumineers](https://www.last.fm/music/The+Lumineers)<br/>
 <!--END_LASTFM_TRACKS-->
 
 </td>
